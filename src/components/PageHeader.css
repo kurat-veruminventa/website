@@ -1,0 +1,48 @@
+.PageHeader {
+  background-color: black;
+  color: white;
+  padding: 15rem 0;
+}
+
+.PageHeader .BackgroundImage {
+  opacity: 0.8;
+}
+
+.PageHeader-large {
+  padding: 20rem 0;
+}
+
+.PageHeader--FrontTitle {
+  font-size: 12rem;
+  padding-right: 100px;
+  line-height: 90%;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+.PageHeader--Title {
+  font-size: 6rem;
+  padding-right: 200px;
+  line-height: 90%;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+.PageHeader--Subtitle {
+  font-weight: 400;
+  font-size: 1.8rem;
+  padding-right: 600px;
+}
+
+.PageHeader .container {
+  animation: fadeIn 0.5s ease-out;
+}
+
+@media (max-width: 600px) {
+  .PageHeader {
+    padding: 7rem 0;
+  }
+  .PageHeader-large {
+    padding: 12.5rem 0;
+  }
+}

@@ -1,0 +1,124 @@
+.footer {
+  padding: 2rem 0;
+  background: black;
+  font-size: 1.2rem;
+  color: white;
+  margin-top: -50px;
+
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: white;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+
+.footer-column-left {
+  float: left;
+  width: 35%;
+  font-size: 1.5rem;
+  padding-right: 30px;
+}
+
+.footer-column {
+  float: left;
+  width: 20%;
+  font-size: 1.5rem;
+  padding-right: 30px;
+}
+
+
+/* Clear floats after the columns */
+.footer-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+/* Container holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.full-width {
+  margin: 0 -9999rem;
+  /* add back negative margin value */
+  padding: 5rem 9999rem 5rem;
+  background: rgba(0, 0, 0, 1);
+  color: white;
+}
+
+.full-width-footer {
+  margin: 0 -9999rem;
+  /* add back negative margin value */
+  padding: 5rem 9999rem 5rem;
+  background: rgba(0, 0, 0, 1);
+  color: white;
+  height: 300px;
+}
+
+.footer-center {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem 0 1rem;
+    background-color: black;
+    color: white;
+}
+
+.footer-center a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-center a:hover {
+    font-weight: 400;
+}
+
+.footer-container {
+  max-width: 1111px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.footer-column-left .Logo {
+    margin-right: 3rem;
+    width: 250px;
+    position: relative;
+}
+
+.list-unstyled {
+    list-style-type:none;
+}
+
+.list-unstyled a {
+    color: white;
+    text-decoration: none;
+}
+
+.list-unstyled a:hover {
+    color: white;
+    font-weight: 400;
+}
