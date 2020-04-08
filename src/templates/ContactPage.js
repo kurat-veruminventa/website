@@ -88,7 +88,6 @@ export const pageQuery = graphql`
         subtitle
         featuredImage
         address
-        phone
         email
         locations {
           mapLink

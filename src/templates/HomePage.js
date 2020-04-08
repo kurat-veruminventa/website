@@ -7,13 +7,16 @@ import Layout from '../components/Layout'
 import '../components/Footer.css'
 
 
-import PostSection from '../components/PostSection'
-
 
 
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const HomePageTemplate = ({
+    title,
+    subtitle,
+    featuredImage,
+    body
+}) => (
   <main className="Home">
     <PageHeader
       large
@@ -29,10 +32,12 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       </div>
     </section>
 
-    
 
   </main>
 )
+
+
+
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page } }) => (
@@ -42,6 +47,8 @@ const HomePage = ({ data: { page } }) => (
 )
 
 export default HomePage
+
+
 
 
 

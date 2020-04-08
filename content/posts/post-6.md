@@ -2,7 +2,9 @@
 template: SinglePost
 title: Man
 status: Published
-date: '2018-05-25'
+date: '2020-04-05'
+readTime: 5 min
+author: Navn Navnesen
 featuredImage: 'https://ucarecdn.com/bd5d1edc-73be-488a-9d50-8ec28f5ab6a9/'
 categories:
   - category: News

@@ -8,6 +8,11 @@ import PostSection from '../components/PostSection'
 import PostCategoriesNav from '../components/PostCategoriesNav'
 import Layout from '../components/Layout'
 
+import Image from '../components/Image'
+
+import AliceCarousel from 'react-alice-carousel'
+import 'react-alice-carousel/lib/alice-carousel.css'
+
 /**
  * Filter posts by date. Feature dates will be fitered
  * When used, make sure you run a cronejob each day to show schaduled content. See docs
@@ -90,24 +95,36 @@ export const BlogIndexTemplate = ({
               </div>
           </div>
 
+
+
           <div class="container space-100t">
-              <div class="full-width">
+              <div class="full-width-press">
                   <div class="full-center">
                    <h6>Press & publications</h6><h2>Featured in</h2>
-                    <div class="column5">
-                        <img src="/images/Daily-mail.png" alt="Daily Mail"></img>
+                    <div class="column5 logo-hover">
+                        <a href="https://www.forbes.com/sites/elizabethhowell1/2019/11/05/space-drones-could-fly-around-the-moon-via-smart-gloves/#2430ebdb4290">
+                        <Image src="https://i.ibb.co/5Lt12b4/Forbes.png" alt="Forbes"/>
+                        </a>
                     </div>
-                    <div class="column5">
-                        test
+                    <div class="column5 logo-hover ">
+                        <a href="https://www.inverse.com/article/60614-astronaut-smart-glove">
+                        <Image src="https://i.ibb.co/0tcSJfN/Inverse-logo.png" alt="Inverse" />
+                        </a>
                     </div>
-                    <div class="column5">
-                        test
+                    <div class="column5 logo-hover ">
+                        <a href="https://www.dailymail.co.uk/sciencetech/article-7648135/Smart-glove-lets-astronauts-control-drones-hand-gestures.html">
+                        <Image src="https://i.ibb.co/fYL2jP1/Daily-mail.png" alt="Daily Mail"/>
+                        </a>
                     </div>
-                    <div class="column5">
-                        test
+                    <div class="column5 logo-hover ">
+                        <a href="https://shifter.no/magnus-arveng-moina-tamuly-nasa/vurderte-a-legge-ned-tidligere-i-ar-na-samarbeider-ntention-med-nasa-partner/130351">
+                        <Image src="https://i.ibb.co/bWSwFyF/Shifter-logo.png" alt="Shifter" />
+                        </a>
                     </div>
-                    <div class="column5">
-                        test
+                    <div class="column5 logo-hover ">
+                        <a href="https://interestingengineering.com/smart-gloves-will-help-astronauts-to-control-drones-robots-and-explore-space">
+                        <Image src="https://i.ibb.co/5sdzMc2/Interesting-engineering.png" alt="Interesting Engineering" />
+                        </a>
                     </div>
                   </div>
               </div>

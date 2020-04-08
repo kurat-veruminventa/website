@@ -3,10 +3,10 @@ template: ContactPage
 slug: contact
 title: Contact
 featuredImage: ''
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
+subtitle: ''
+address: 'VM-paviljongen, 7034 Trondheim'
 phone: 0987 123 456
-email: example@example.com
+email: contact@ntention.com
 locations:
   - lat: '-27.9654732'
     lng: '153.2432449'
@@ -16,12 +16,4 @@ meta:
   title: Contact Page
 ---
 
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+We kindly ask you to address client related enquiries or questions regarding daily operations of our company to the most relevant member of Ntention. For general requests you are always welcome to contact us at contact@ntention.com or fill out the form to the right.

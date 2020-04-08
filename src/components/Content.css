@@ -81,6 +81,15 @@
   color: white;
 }
 
+.full-width-press {
+  margin: 0 -9999rem;
+  /* add back negative margin value */
+  padding: 5rem 9999rem 5rem;
+  background: rgba(0, 0, 0, 1);
+  color: white;
+  height: 350px;
+}
+
 .button {
   background: rgb(103,64,146);
   background: linear-gradient(90deg, rgba(103,64,146,1) 0%, rgba(63,49,137,1) 100%);
@@ -98,4 +107,36 @@
 .button:hover {
     background: rgb(63,49,137);
     background: linear-gradient(90deg, rgba(63,49,137,1) 0%, rgba(103,64,146,1) 100%);
+}
+
+.hover-image {
+    -webkit-filter: grayscale(0);
+	filter: grayscale(100%);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.hover-image:hover {
+    -webkit-filter: grayscale(100%);
+	filter: grayscale(0);
+}
+
+.space-100t {
+    padding-top: 100px;
+}
+
+.space-100b {
+    padding-bottom: 100px;
+}
+
+.logo-hover {
+    opacity: 0.7;
+}
+
+.logo-hover:hover {
+    opacity: 1;
+}
+
+.symbol {
+    size: 16px;
 }

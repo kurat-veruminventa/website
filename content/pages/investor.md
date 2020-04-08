@@ -27,11 +27,18 @@ Invest in Ntention</h2>
 
 &nbsp;
 
-
-<div class="full-width">
-    <div class="full-center">
-     <h6>Press & media</h6><h2>Featured in</h2>
-     <a class="button" href="#">Subscribe to our newsletter</a>
+<div class="section">
+    <div class="container space-100t">
+        <div class="row"><h2>Investor Relations Contact</h2>
+          <div class="column3">
+          <h6>Co-founder & Co-CEO</h6><h2>
+        Magnus Arveng</h2>The man with the idea and energy to engage anyone at any time. Get in touch for important partnership inquires or speaker requests.
+        </div>
+        <div class="column3">
+            <h6>Chief Financial Officer</h6><h2>
+          Fredrik S. Ahlborg</h2>Requests or negotiation offers concerning financial discussions or investment strategies? Get in touch with our CFO.
+        </div>
+        </div>
     </div>
 </div>
 

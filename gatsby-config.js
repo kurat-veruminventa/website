@@ -41,7 +41,7 @@ module.exports = {
         clientsClaim: true
       }
     },
-    /*{
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'yellowcake',
@@ -54,7 +54,7 @@ module.exports = {
         display: 'standalone',
         icon: `${__dirname}/static/images/logo.svg` // This path is relative to the root of the site.
     }
-},*/
+},
 
     // Add static assets before markdown files
     {
