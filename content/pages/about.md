@@ -28,12 +28,6 @@ Invest in Ntention</h2>
 &nbsp;
 
 
-<div class="full-width">
-    <div class="full-center">
-     <h6>Press & media</h6><h2>Featured in</h2>
-     <a class="button" href="#">Subscribe to our newsletter</a>
-    </div>
-</div>
 
 
 &nbsp;
