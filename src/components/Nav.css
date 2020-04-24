@@ -25,7 +25,7 @@
 }
 
 .Nav .Logo {
-  margin-right: 3rem;
+  margin-right: 20rem;
   width: 150px;
   position: relative;
 }
@@ -109,12 +109,16 @@
 @media (max-width: 600px) {
   .Nav--Container {
     display: flex;
+    padding-left: 2rem;
   }
 
   .Nav--MenuButton {
     display: block !important;
     margin-left: auto;
     z-index: 1;
+    background: none;
+    color: white;
+    border: none;
   }
   .Nav .Logo {
     z-index: 1;
@@ -130,7 +134,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: white;
+    background: black;
     animation: Nav--Links 0.2s ease;
   }
 
@@ -186,6 +190,9 @@
   .Nav--GroupLinks .NavLink {
     font-size: 1.5rem;
     width: auto;
+  }
+  .Nav .Logo {
+    margin-right: 0;
   }
 }
 

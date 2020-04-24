@@ -3,13 +3,24 @@ import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
 
+
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
+import Image from '../components/Image'
 
 export const SinglePostTemplate = ({
   title,
   date,
+  author,
+  authorlink,
+  excerpt,
+  portrait,
+  featuredImage,
+  role,
+  email,
+  linkedin,
+  postType,
   body,
   nextPostURL,
   prevPostURL,
@@ -22,10 +33,11 @@ export const SinglePostTemplate = ({
       itemType="http://schema.org/BlogPosting"
     >
       <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/press/">
+        <Link className="SinglePost--BackButton" to={postType}>
           <ChevronLeft /> BACK
         </Link>
         <div className="SinglePost--Content relative">
+
           <div className="SinglePost--Meta">
             {date && (
               <time
@@ -52,34 +64,46 @@ export const SinglePostTemplate = ({
               </Fragment>
             )}
           </div>
-
           {title && (
             <h1 className="SinglePost--Title" itemProp="title">
               {title}
             </h1>
           )}
-
-          <div className="SinglePost--InnerContent">
-            <Content source={body} />
+          <div className="SinglePost--Excerpt">
+          <Content source={excerpt} />
           </div>
 
-          <div className="SinglePost--Pagination">
-            {prevPostURL && (
-              <Link
-                className="SinglePost--Pagination--Link prev"
-                to={prevPostURL}
-              >
-                Previous Post
-              </Link>
-            )}
-            {nextPostURL && (
-              <Link
-                className="SinglePost--Pagination--Link next"
-                to={nextPostURL}
-              >
-                Next Post
-              </Link>
-          )}
+          <Image src={featuredImage} alt="" className={'featured-image container space-50b'} />
+          <div className="SinglePost--InnerContent links">
+            <Content source={body} />
+          </div>
+          <section className="section">
+          <div class="column5-news">
+          <h4>Ntention news</h4>
+          </div>
+          <div class="links">
+          Always be up-to-date on the latest news! <br></br>
+          Follow us on <a href="https://www.facebook.com/ntention.as/">Facebook</a>, <a href="https://twitter.com/ntention_as">Twitter</a>, <a href="https://www.linkedin.com/company/ntention/">LinkedIn</a> and <a href="https://www.instagram.com/ntention.as/">Instagram</a>.
+          </div>
+          </section>
+
+          <div class="section">
+              <h2>Contact person</h2>
+              <div class="contact-column">
+                <Image src={portrait} alt="Author" className={'container'}/>
+              </div>
+              <div class="contact-name">
+              <h6>{role}</h6>
+              <h3>{author}</h3>
+              <div class="symbol">
+                  <a href={email}>
+                  <Image src="https://cdn.image4.io/ntention/f_auto/Assets/cd0d44e1-835d-467a-9f49-e35cf901c613.Jpeg" alt="Email" className={'symbol'}/>
+                  </a>
+                  <a href={linkedin}>
+                  <Image src="https://cdn.image4.io/ntention/f_auto/Assets/bb043d95-c639-42bc-bf76-07d0c03e09e6.Jpeg" alt="LinkedIn" className={'symbol'}/>
+                  </a>
+              </div>
+              </div>
           </div>
         </div>
       </div>
@@ -123,6 +147,15 @@ export const pageQuery = graphql`
         template
         subtitle
         date(formatString: "MMMM Do, YYYY")
+        author
+        authorlink
+        excerpt
+        role
+        portrait
+        featuredImage
+        email
+        linkedin
+        postType
         categories {
           category
         }

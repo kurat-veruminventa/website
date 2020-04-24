@@ -78,17 +78,12 @@ export const ResearchIndexTemplate = ({
               <div className="container">
                 <PostCategoriesNav enableSearch categories={postCategories} />
               </div>
-            </section>
-          )}
-
-
-          {!!posts.length && (
-            <section className="section">
-              <div className="container">
+              <div className="container space-20t space-100b">
                 <PostSection posts={filteredPosts} />
               </div>
             </section>
           )}
+
         </main>
       )
     }}

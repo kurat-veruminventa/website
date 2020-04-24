@@ -55,6 +55,17 @@ body {
 
 a {
   color: var(--primary);
+  text-decoration: none;
+}
+
+
+.links a:hover {
+    font-weight: 700;
+    border-bottom: 0;
+}
+
+.links a {
+    border-bottom: 1px solid;
 }
 
 strong {
@@ -129,7 +140,7 @@ pre code:after {
 blockquote {
   margin-left: 0;
   padding-left: 1em;
-  line-height: 1.1;
+  line-height: 1.6;
   font-size: 1em;
   font-style: italic;
   border-left: 2px solid var(--primary);
@@ -196,22 +207,14 @@ blockquote {
 .section.thin {
   padding: 3.5rem 0;
 }
+.section.thinner {
+  padding: 1rem 0;
+}
 .section.noPadding {
   padding: 0;
 }
 
-@media (max-width: 600px) {
-  .section {
-    width: 100%;
-    padding: 5rem 0;
-  }
-  .section.thick {
-    padding: 7rem 0;
-  }
-  .section.thin {
-    padding: 1.5rem 0;
-  }
-}
+
 
 .container {
   max-width: 1111px;
@@ -233,6 +236,15 @@ blockquote {
     padding-bottom: 100px;
 }
 
+
+@media (max-width: 768px) {
+    .cookie {
+        padding-left: 0rem;
+    }
+    .cookie-button {
+        margin-left: 25px;
+    }
+}
 /* Buttons */
 /*
 .Button {

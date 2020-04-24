@@ -1,12 +1,12 @@
 ---
-template: InvestorPage
+template: CareerPage
 slug: career
 title: Career
 featuredImage: ''
-subtitle: It takes visionary and great people to push boundaries and lead a generation through paradigm shifts. It is necessary to rethink entire industries and challenge the established procedures and operations.  
+subtitle: It takes visionary people to push boundaries and lead a generation through paradigm shifts. It is necessary to rethink entire industries and challenge the established procedures and operations.  
 meta:
-  description: This is a meta description.
-  title: Ntention - Capturing human intent
+  description: It takes visionary people to push boundaries and lead a generation through paradigm shifts. It is necessary to rethink entire industries and challenge the established procedures and operations. 
+  title: Career
 ---
 
 <div class="section">
@@ -16,7 +16,7 @@ meta:
 </div>
 </div>
 
-<div class="taCenter section">
+<div class="taCenter row section">
   <div class="column3">
     <h3>Inspiring</h3>
     Our team is filled with enthusiastic young people who strive towards the same goal. A goal that could fill the urge to innovate and make an impact to change the world for the better.
@@ -31,19 +31,7 @@ meta:
   </div>
 </div>
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<div class="section space-100t">
+<div class="section row space-100t">
 <h2>Meet some of the people <br> moving Ntention forward</h2>
   <div class="column3">
     <div class="container hover-image">
@@ -70,37 +58,18 @@ meta:
     </div>
 </div>
 </div>
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-
-
-
-<div class="section">
+<div class="row space-100b space-100t">
+<div class="column">
+    <div class="container hover-image">
+    <h6>Headquarters</h6>
+    <h2>Most innovative <br> student ecosystem.</h2>
+    Ntention’s offices are located in the heart of the innovative entreprenuerial ecosystem in Trondheim, Norway. The Norwegian University of Technology and Science (NTNU) is Norway’s top technology university with a wide range of state-of-the-art studies. The Gründerbrakka at NTNU and NTNU’s School of Entrepreneurship houses Ntention’s two offices.
+    </div>
 </div>
-<div class="section">
+<div class="column">
+    <div class="container">
+      <img src="images/Team.jpg" alt="Team working at Gründerbrakka">
+    </div>
 </div>
-<div class="section">
 </div>
-<div class="section">
-</div>
-<div class="section">
-</div>
-<div class="section">
-</div>
-
-
-&nbsp;
-
-&nbsp;
-
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

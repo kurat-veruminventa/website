@@ -17,7 +17,7 @@ const PageHeader = ({
   large,
   className = ''
 }) => (
-    <div class="PageHeader">
+    <div class="PageHeader-small">
         <App/>
         <div class="container">
         <h1 className="PageHeader--Title">{title}</h1>

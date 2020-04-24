@@ -5,6 +5,7 @@ import PageHeader from '../components/PageHeader-small'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import SVGIcon from '../components/SVGIcon'
+import Image from '../components/Image'
 
 // Export Template for use in CMS preview
 export const DefaultPageTemplate = ({
@@ -13,20 +14,15 @@ export const DefaultPageTemplate = ({
   featuredImage,
   body
 }) => (
-  <main className="DefaultPage">
-    <PageHeader
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    />
+  <main className="Investor">
 
-    <section className="section">
+    <section className="row section links space-100b space-100t">
       <div className="container">
-        <Content source={body} />
-        <SVGIcon src="/images/calendar.svg" />
+        <Content source={body}/>
       </div>
     </section>
-  </main>
+
+    </main>
 )
 
 const DefaultPage = ({ data: { page } }) => (

@@ -25,6 +25,9 @@ const PageHeader = ({
         {subtitle && (
           <Content className="PageHeader--Subtitle" src={subtitle} />
       )}
+        <div class="frontimage">
+            <Image src="https://cdn.image4.io/ntention/f_auto/Assets/7d629b29-24c7-4307-b75a-bf47866fe9c4.Png" alt=""/>
+        </div>
       </div>
     </div>
 )

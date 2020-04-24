@@ -29,10 +29,13 @@
   color: black;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .PostCategoriesNav input[type='text'] {
     position: relative;
     width: 100%;
+  }
+  .PostCategoriesNav {
+      display: none;
   }
 }
 

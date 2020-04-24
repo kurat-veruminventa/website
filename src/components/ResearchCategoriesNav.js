@@ -9,14 +9,8 @@ const PostCategoriesNav = ({ categories, enableSearch }) => (
     <Link className="NavLink-Categories" exact="true" to={`/research/#news`}>
       All
     </Link>
-    <Link className="NavLink-Categories" exact="true" to={`/research/artificial-intelligence/#news`}>
-      Artificial intelligence
-    </Link>
-    <Link className="NavLink-Categories" exact="true" to={`/research/artificial-intelligence/#news`}>
-      Intuitive interaction
-    </Link>
-    <Link className="NavLink-Categories" exact="true" to={`/research/artificial-intelligence/#news`}>
-      Interface
+    <Link className="NavLink-Categories" exact="true" to={`/research/interaction/#news`}>
+      Interaction
     </Link>
   </div>
 )

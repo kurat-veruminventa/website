@@ -1,7 +1,15 @@
 .PageHeader {
   background-color: black;
   color: white;
-  padding: 15rem 0;
+  padding: 1rem 0;
+  height: 600px;
+}
+
+.PageHeader-small {
+  background-color: black;
+  color: white;
+  padding: 1rem 0;
+  height: 400px;
 }
 
 .PageHeader .BackgroundImage {
@@ -38,11 +46,55 @@
   animation: fadeIn 0.5s ease-out;
 }
 
-@media (max-width: 600px) {
+.frontimage {
+    margin-top: -45rem;
+    margin-left: 40rem;
+}
+
+@media (max-width: 1025px) {
+}
+
+@media (max-width: 768px) {
   .PageHeader {
-    padding: 7rem 0;
+    padding: 1rem 0;
   }
   .PageHeader-large {
     padding: 12.5rem 0;
+  }
+
+  .PageHeader--FrontTitle {
+    font-size: 5rem;
+    padding-right: 100px;
+    line-height: 90%;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    padding-left: 1rem;
+  }
+  .PageHeader--Title {
+    font-size: 4rem;
+    padding-right: 100px;
+    line-height: 90%;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    padding-left: 1rem;
+  }
+  .PageHeader--Subtitle {
+    font-weight: 400;
+    font-size: 1.8rem;
+    padding-right: 50px;
+    padding-left: 1rem;
+  }
+  .PageHeader-small {
+    background-color: black;
+    color: white;
+    padding: 0 0;
+    height: 450px;
+  }
+  .frontimage {
+      margin-top: -30rem;
+      margin-left: 0rem;
+  }
+  .frontimage img {
+      max-width: 100%;
   }
 }

@@ -77,6 +77,9 @@
     margin: 0 auto 4rem;
     display: block;
   }
+  .PostSection {
+      margin-top: -10rem;
+  }
 
   @supports (display: grid) {
     .PostSection--Grid {

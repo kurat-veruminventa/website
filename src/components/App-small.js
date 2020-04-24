@@ -7,19 +7,22 @@ import Particles from 'react-particles-js';
 const particleOpt = {
         particles: {
             number: {
-                value: 50,
+                value: 60,
                 density: {
                     enable: true,
                     value_area: 500
                 }
+            },
+            size: {
+                value: 1
             }
         },
         interactivity: {
-            dectects_on: "window",
+            detect_on: "window",
             events: {
                 onhover: {
                     enable: true,
-                    mode: "grab"
+                    mode: "repulse"
                 },
             },
             modes: {
@@ -28,9 +31,9 @@ const particleOpt = {
                     duration: 0.4
                 },
                 grab: {
-                    distance: 150,
+                    distance: 250,
                     line_linked: {
-                        opacity: 1
+                        opacity: 0.5
                     }
                 }
             }

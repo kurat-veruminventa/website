@@ -27,7 +27,7 @@ const withContentImages = source => {
       images[i],
       ReactDOMServer.renderToStaticMarkup(
         <Image
-          resolutions="medium"
+          resolutions="high"
           className="Content--Image"
           lazy={false}
           src={src ? src[1] : null}

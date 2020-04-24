@@ -1,37 +1,59 @@
 ---
-template: InvestorPage
+template: AboutPage
 slug: about
 title: About
 featuredImage: ''
-subtitle: The secret to push boundaries and lead a generation through a paradigm shift lies in the hands of the people, both the driving forces of a company and a supporting community.
+subtitle: Ntention is a young and ambitious tech company based in Northern Europe, Norway. Our work strives to enhance human-machine interaction and develop intuitive interaction systems.
 meta:
-  description: This is a meta description.
-  title: Ntention - Capturing human intent
+  description: Ntention is a young and ambitious tech company based in Northern Europe, Norway. Our work strives to enhance human-machine interaction and develop intuitive interaction systems.
+  title: About
 ---
 
 &nbsp;
-<div class="row">
-  <div class="column"><h2>
-Invest in Ntention</h2>
-</div>
-<div class="column"></div>
+
+<div class="section space-100t">
+    <div class="column">
+    <h2>We're capturing human intent.</h2>
+    </div>
+    <div class="column">
+    Interaction with machines is constantly changing. Automation is increasing, but the number of machines we interact with is also increasing. These conditions require new and easier ways of interacting with machines to allow more people to control a greater number of machines with less effort and training. That’s why we are ushering in a new paradigm of control systems.<br></br>
+    Ntention are building a system of interaction between the people and the machines that is user centered – not machine centered. The machine will understand the user – not the other way around. Our goal is to understand the intent of the user and translate it to machines. This is how we are moving beyond motion capture and into the world of intention capture.
+    </div>
 </div>
 
-<div class="row">
-  <div class="column">
-  Interaction with machines is constantly changing. Automation is increasing, but the number of machines we interact with is also increasing. These conditions require new and easier ways of interacting with machines to allow more people to control greater number of machines with less effort and training. That’s why we are ushering in a new paradigm of control systems.
+&nbsp;
+
+<div class="taCenter section space-100t">
+  <div class="column3">
+    <h3>Virtual Reality</h3>
+    Leading VR solution to give you an immersive experience in Real Estate cases.
+  </div>
+  <div class="column3">
+    <h3>Spacesuits</h3>
+    <span>Development of interaction of the next-generation spacesuits.</span>
+  </div>
+  <div class="column3">
+  <h3>Music Production</h3>
+  Enables intuitively changing of any musical parameter with hand gestures.
+  </div>
 </div>
-<div class="column">Ntention are building a system of interaction between the people and the machines that is user centered – not machine centered. The machine will understand the user – not the other way around. Our goal is to understand the intent of the user and translate it to machines. This is how we are moving beyond motion capture and into the world of intention capture.</div>
-</div>
+
 &nbsp;
 
 &nbsp;
 
-
-
-
 &nbsp;
 
 &nbsp;
+
+<div class="taLeft section">
+    <div class="container">
+        <h6>Our Team</h6>
+        <h2>Meet the people at Ntention</h2>
+        <div class="container skinnier left">
+        Our team consists of ambitious and educated people from Norway’s top technology university NTNU. Combining a highly blooming entrepreneurial ecosystem with academic backed students gives an urge to innovate and change the world.
+        </div>
+    </div>
+</div>
 
 &nbsp;

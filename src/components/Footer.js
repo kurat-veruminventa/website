@@ -68,9 +68,9 @@ export default () => (
                 </span>
                 </div>
                 <div class="footer-column">
-                <span><ul class="list-unstyled">
+                <span><ul class="list-unstyled hide-mobile">
                       <li>
-                        <h5>FOLLOW OUR JOURNEY</h5>
+                        <h5>GET UPDATES FROM US</h5>
                       </li>
                       <li>
                         <a class="button" href="#">Subscribe</a>
