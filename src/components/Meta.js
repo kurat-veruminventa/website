@@ -10,7 +10,7 @@ export const query = graphql`
         description
         noindex
         canonicalLink
-        featuredImage
+        absoluteImageUrl
       }
     }
   }
