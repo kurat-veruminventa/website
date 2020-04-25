@@ -19,6 +19,7 @@ excerpt: >-
 meta:
   description: At Devon Island, we were testing our technology implemented in a concept spacesuit for various missions. Controlling a drone for scouting, searching, and gathering samples is some of the tasks that are intended use cases at the Moon, Mars and beyond.
   title: 1 Million NOK for Research
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/180be33f-6faf-432c-9932-2dd7c5eede3d.Jpeg'
 socialMediaCard:
   image: 'https://cdn.image4.io/ntention/f_auto/News/180be33f-6faf-432c-9932-2dd7c5eede3d.Jpeg'
 ---
