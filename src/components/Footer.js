@@ -59,7 +59,7 @@ export default () => (
                         <a href="/technology/industrial-machines">Industrial Machines</a>
                       </li>
                       <li>
-                        <a href="/music-glove">Music Glove</a>
+                        <a href="/technology/music-glove">Music Glove</a>
                       </li>
                       <li>
                         <a href="/research">Research Center</a>
@@ -73,7 +73,7 @@ export default () => (
                         <h5>GET UPDATES FROM US</h5>
                       </li>
                       <li>
-                        <a class="button" href="#">Subscribe</a>
+                        <a class="button" href="/subscribe">Subscribe</a>
                       </li>
                       <li>
                         &nbsp;
@@ -85,7 +85,7 @@ export default () => (
                         <h5>LEGAL</h5>
                       </li>
                       <li>
-                        <a href="/privacy">Privacy Policy</a>
+                        <a href="/privacy-policy">Privacy Policy</a>
                       </li>
                 </ul>
                 </span>

@@ -1,25 +1,25 @@
 ---
 template: VirtualRealityPage
-slug: technology/virtual-reality
-title: Virtual Reality
+slug: technology/real-estate
+title: Real Estate
 featuredImage: 'https://cdn.image4.io/ntention/f_auto/Technology/802c6ae9-df9f-4b66-9c2b-461528e668a4.Jpeg'
 subtitle:
 meta:
   description: Our Machine Learning-based Gesture Recognition enables you to use specific hand movements, like a flick of the wrist or a set of finger movements, to control an AR/VR application. This intuitive  way of interaction lets  the user “show” the software what to do, rather than using a set of button clicks, levers or sticks to control the software.
-  title: Virtual Reality
+  title: Real Estate
 ---
 
 
-<div class="full-width technology-section-black">
+<div class="full-width-white technology-section-white">
     <div class="column">
         <div class="container hover-image">
-        <h2>Natural Virtual Reality</h2>
+        <h2>Immersive Real Estate</h2>
         Control objects and scenes in Virtual Reality (VR) with natural and intuitive hand gestures just like you do in the real world.  
         </div>
     </div>
     <div class="column">
         <div class="container">
-            <img src="https://cdn.image4.io/ntention/f_auto/Technology/802c6ae9-df9f-4b66-9c2b-461528e668a4.Jpeg" alt="Natural Virtual Reality">
+            <img src="images/Real-estate-showcase.jpg" alt="Natural Virtual Reality">
         </div>
     </div>
 </div>

@@ -113,7 +113,7 @@ In order to let anyone control any machine we need to make the interaction easy 
  <div class="column">
     <div class="full-width">
         <h6>Newsletter</h6><h2>Take a seat on our journey</h2>Every other month we send out a newsletter to update everyone interested in our company or journey. We present to you highlights of the last couple of months and priority goals of the next couple of months.<br><br>
-        <a class="button" href="#">Subscribe to our newsletter</a>
+        <a class="button" href="/subscribe">Subscribe to our newsletter</a>
     </div>
 <div class="column"></div>
 </div>
@@ -124,7 +124,7 @@ In order to let anyone control any machine we need to make the interaction easy 
         <h6>Work with us</h6>
         <h2>Join the paradigm shift of interaction</h2>
         Do you want to change how humans interact with machines? Going forwards, we aim to create cutting-edge interaction systems in collaborative projects with other companies and industry partners. Are you interested in developing the next generation of interaction systems with us?<br><br>
-        <a class="button" href="#">Learn more</a>
+        <a class="button" href="/career">Learn more</a>
     </div>
 <div class="column">
     <div class="full-mobile">

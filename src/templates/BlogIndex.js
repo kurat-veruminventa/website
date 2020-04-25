@@ -181,7 +181,7 @@ export const BlogIndexTemplate = ({
               <div className="container">
                 <PostCategoriesNav enableSearch categories={postCategories} />
               </div>
-              <div className="container space-20t space-100b">
+              <div className="container space-20t space-100b newstabs">
                 <PostSection posts={filteredPosts} />
               </div>
             </section>

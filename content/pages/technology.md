@@ -2,10 +2,10 @@
 template: TechnologyPage
 slug: technology
 title: Technology
-featuredImage: ''
+featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
 subtitle: Ntention develop software and hardware to enable users to interact with technology in a new way. We focus on sensor-based smart gloves and Ntention Software Platform.
 meta:
-  description: This is a meta description.
+  description: Ntention develop software and hardware to enable users to interact with technology in a new way. We focus on sensor-based smart gloves and Ntention Software Platform.
   title: Technology
 ---
 
@@ -46,7 +46,7 @@ meta:
         <div class="column">
             <div class="container">
             <h2>Space</h2>
-            With more automation, specialized human operators become superfluous. Without specialized operators there is an increasing necessity for anyone involved in a work.
+            The Astronaut Smart Glove and our software solution is a prototype of a product that is intended to be used by astronauts during space missions.
             <div class="space-20t">
                 <a class="button" href="/technology/space">Learn more</a>
             </div>
@@ -89,7 +89,7 @@ meta:
         <div class="column">
             <div class="container">
             <h2>Music Production</h2>
-            With more automation, specialized human operators become superfluous. Without specialized operators there is an increasing necessity for anyone involved in a work.
+            Combining the HuMI Pro-Glove’s highly accurate data output with the company’s proprietary software, users of the Music Glove can express artistic intentions beyond the scope of any traditional instrument.
             <div class="space-20t">
                 <a class="button" href="/technology/music-glove">Learn more</a>
             </div>
@@ -110,7 +110,7 @@ meta:
         <div class="column">
             <div class="container">
             <h2>Intuitive Industrial Machines</h2>
-            With more automation, specialized human operators become superfluous. Without specialized operators there is an increasing necessity for anyone involved in a work.
+            By using natural human motion you can control heavy industrial machines without use any effort or be nearby dangerous areas.
             <div class="space-20t">
                 <a class="button" href="/technology/industrial-machines">Learn more</a>
             </div>

@@ -337,11 +337,8 @@
     float: left;
     width: 100%;
   }
-  .cookie {
-      padding-left: 0;
-  }
-  .cookie-button {
-      margin-left: 25px;
+  .newstabs {
+      padding-top: 50px;
   }
 
 }

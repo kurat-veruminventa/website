@@ -20,7 +20,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Co-Founder & Co-CEO</h6>
-      <h2>Magnus Arveng</h2>
+      <h2><a href="/team/magnus">Magnus Arveng</a></h2>
       <div class="container skinnier left">
           With drive and energy, he has the ability to engage any living being on this planet. Magnus choose to see only possibilities and have a burning desire to … <a href="/team/magnus">Read more</a>
           <div class="symbol">
@@ -42,7 +42,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Co-Founder & Co-CEO</h6>
-      <h2>Moina Tamuly</h2>
+      <h2><a href="/team/moina">Moina Tamuly</a></h2>
       <div class="container skinnier left">
           Moina is visionary and enlightened. With a creative way of working and living, Moina’s progressive field of vision is essential to bring Ntention to … <a href="/team/moina">Read more</a>
           <div class="symbol">
@@ -64,7 +64,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Chief Financial Officer</h6>
-      <h2>Fredrik S. Ahlborg</h2>
+      <h2><a href="/team/fredrik">Fredrik S. Ahlborg</a></h2>
       <div class="container skinnier left">
           When Fredrik was 15, he and his team built a Mathematics teaching app; Mathema. He had dealt with the press, gathered investments … <a href="/team/fredrik">Read more</a>
           <div class="symbol">
@@ -86,7 +86,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Chief Marketing Officer</h6>
-      <h2>Vegard J. Løwe</h2>
+      <h2><a href="/team/vegard">Vegard J. Løwe</a></h2>
       <div class="container skinnier left">
           Vegard is extremely focused and knows what he wants. He is self-taught in design and is doing a double degree at NTNU. Already having … <a href="/team/vegard">Read more</a>
           <div class="symbol">
@@ -111,7 +111,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Chief Technology Officer</h6>
-      <h2>Haakon Fuhre Pettersen</h2>
+      <h2><a href="/team/haakon">Haakon Fuhre Pettersen</a></h2>
       <div class="container skinnier left">
           Despite his sweet, good-looking appearance and love of Mountain Dew, Haakon is a high-ranking black belt and former World Champion in ... <a href="/team/haakon">Read more</a>
           <div class="symbol">
@@ -133,7 +133,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Head of Research</h6>
-      <h2>Frank Øygard</h2>
+      <h2><a href="/team/frank">Frank Øygard</a></h2>
       <div class="container skinnier left">
           Frank has been a part of the team since the early beginning. He is one of the original visionaries shaping the path of our company. Frank was … <a href="/team/frank">Read more</a>
           <div class="symbol">
@@ -155,7 +155,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Interaction Designer</h6>
-      <h2>Kasper Rise</h2>
+      <h2><a href="/team/kasper">Kasper Rise</a></h2>
       <div class="container skinnier left">
           Kasper has a wide experience in UX design and working on designing the next-generation user experiences for intuitive interfaces ... <a href="/team/kasper">Read more</a>
           <div class="symbol">
@@ -177,7 +177,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Lead Hardware / Software Engineer</h6>
-      <h2>Sondre Tagestad</h2>
+      <h2><a href="/team/sondre">Sondre Tagestad</a></h2>
       <div class="container skinnier left">
           Former pig farmer, active marathon runner, and technical wizard. Sondre is unbelievable, he always gets the job done without compromise …  <a href="/team/sondre">Read more</a>
           <div class="symbol">
@@ -199,7 +199,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Lead Software Engineer</h6>
-      <h2>Håvard Pedersen Brandal</h2>
+      <h2><a href="/team/haavard">Håvard Pedersen Brandal</a></h2>
       <div class="container skinnier left">
           Håvard is essential to our technical core. He is writing his masters on gesture recognition. Håvard is also a true adventurer having traveled around ...   <a href="/team/haavard">Read more</a>
           <div class="symbol">
@@ -221,7 +221,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Hardware / Software Engineer</h6>
-      <h2>Gulleik Olsen</h2>
+      <h2><a href="/team/gulleik">Gulleik Olsen</a></h2>
       <div class="container skinnier left">
           Gulleik has been working since he was 14, having been the national leader for the Norwegian entrepreneurship organization START …   <a href="/team/gulleik">Read more</a>
           <div class="symbol">
@@ -243,7 +243,7 @@ export default () => (
     </div>
     <div class="team-right">
       <h6>Hardware / Software Engineer</h6>
-      <h2>Jostein Nordal Lysberg</h2>
+      <h2><a href="/team/jostein">Jostein Nordal Lysberg</a></h2>
       <div class="container skinnier left">
           Was the angel child in school. His tests were used as a solutions manual and the teachers loved him. By high school graduation, he came out of his …    <a href="/team/jostein">Read more</a>
           <div class="symbol">
