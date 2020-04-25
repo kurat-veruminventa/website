@@ -118,6 +118,8 @@ const SinglePost = ({ data: { post, allPosts } }) => {
     <Layout
       meta={post.frontmatter.meta || false}
       title={post.frontmatter.title || false}
+      socialMediaCard={post.frontmatter.featuredImage || false}
+
     >
       <SinglePostTemplate
         {...post}
