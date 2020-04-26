@@ -19,6 +19,7 @@ excerpt: >-
 meta:
   description: We made time schedules and equipment orders to make sure our summer projects would get a flying start. The opportunity of working in our field of interest for highly recognized companies like Norconsult and Nordic Semiconductor make us humble and grateful.
   title: Newsletter - Early Summer 2019
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/6637b2f8-0519-4be2-8f1f-3dd519cfe64f.Jpeg'
 ---
 ####Main Story
 The last couple of months have involved the completion of our summer projects. Our 3 summer internships at Norconsult this summer saw us delving into Virtual Reality to create an innovative way of interacting with a virtual world. The initial goal was to implement our glove technology into a 3D engine, and then deliver a technical demo at the end of summer.
@@ -70,4 +71,4 @@ Since we began the planning of a completely new event in May this year, we final
 We would like to give a huge thanks to Nordic Semiconductor and Norconsult for the trust in our team and our competency. The summer internships at Nordic Semiconductor and Norconsult have been critical for our progress and helped us greatly on our journey. Thank you for trusting energetic and assertive students!
 
 ####Oslo Innovation Week
-This upcoming week we will attend the Oslo Innovation Week. We were luckily invited to showcase our company at the Startup Village at Oslo Business Forum, and we will participate at DNB NXT’s 100 Pitches competition. If you’re in the area, don’t hesitate to get in touch! 
+This upcoming week we will attend the Oslo Innovation Week. We were luckily invited to showcase our company at the Startup Village at Oslo Business Forum, and we will participate at DNB NXT’s 100 Pitches competition. If you’re in the area, don’t hesitate to get in touch!

@@ -52,6 +52,8 @@ export default class Meta extends Component {
         {noindex && <meta name="robots" content="noindex" />}
         {canonicalLink && <link rel="canonical" href={canonicalLink} />}
 
+        <meta property="og:url" content={url} />
+        <meta property="og:type" content="website" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:site_name" content={siteTitle} />
         <meta name="twitter:description" content={description} />

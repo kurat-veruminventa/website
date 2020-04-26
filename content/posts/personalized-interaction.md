@@ -19,6 +19,7 @@ excerpt: >-
 meta:
   description: Every person is different. Our background and our previous experiences with technology shape the way we interact with both software and hardware. What one person finds intuitive, may not be intuitive for someone else. Thus, it is critical for the interaction system of the future
   title: A Smart, Personalized Interaction System
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Researchposts/58869017-298f-44d4-b067-b5a082c54d6a.Jpeg'
 ---
 ####Distinguish the intent of each individual user
 Every person is different. Our background and our previous experiences with technology shape the way we interact with both software and hardware. What one person finds intuitive, may not be intuitive for someone else. Thus, it is critical for the interaction system of the future to be able to distinguish the intent of each individual user and be able to translate this to the intended command or set of commands.

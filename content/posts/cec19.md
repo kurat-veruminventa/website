@@ -19,6 +19,7 @@ excerpt: >-
 meta:
   description: To give something back to our connections and the innovative community in Norway, together with Maritime Innovation Development we founded the China Entry Challenge.
   title: We are hosting CEC19
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/1ceea0d2-425f-4264-a02c-2ca435d84dbe.Jpeg'
 ---
 ####An invaluable network
 We have for a long time been truly grateful for the help and support from our connections. A network that has resulted in opportunities to pitch at SLUSH in Helsinki, COMB+ in Beijing and CES in Las Vegas. To give something back to our connections and the innovative community in Norway, together with Maritime Innovation Development we founded the China Entry Challenge.

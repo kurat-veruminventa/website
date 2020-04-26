@@ -19,6 +19,7 @@ excerpt: >-
 meta:
   description: Combining ‘Mixed Input’ with ‘Contextual Information’, whether it is in AR, VR, MR or when controlling machines, the smart interaction system is able to understand the intent of the user and pass on the correct command.
   title: Combining Context and Input Methods
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Researchposts/b68bf460-8aea-4891-9d89-0eaf47afe759.Jpeg'
 ---
 ####Imagine combining varous input methods
 Our vision for the interaction system of the future is centered around ‘Mixed Input’. Using a wide array of input methods, the user can combine different ways of interacting with both software and hardware for efficient communication and an optimal workflow. Imagine combining a hand interface, voice commands, eye tracking, body language, even brain waves and neural impulses, to interact with a machine.

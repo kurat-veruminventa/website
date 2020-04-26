@@ -18,10 +18,8 @@ excerpt: >-
   Every year, the Research Council of Norway support promising student-driven business ideas with research funds. The funding scheme aims to help to increase entrepreneurship among students by promoting business ideas that have a close link to promising research results.
 meta:
   description: Every year, the Research Council of Norway support promising student-driven business ideas with research funds. The funding scheme aims to help to increase entrepreneurship among students by promoting business ideas that have a close link to promising research results.
-  title: 1 Million NOK for Research
+  title: 1 Million NOK for Research - Ntention
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/180be33f-6faf-432c-9932-2dd7c5eede3d.Jpeg'
-socialMediaCard:
-  image: 'https://cdn.image4.io/ntention/f_auto/News/180be33f-6faf-432c-9932-2dd7c5eede3d.Jpeg'
 ---
 ####Funds for research and development
 On April 22, Ntention received funds from the Norwegian Research Council’s funding scheme STUD-ENT, which supports students who may seek financial support to promising business ideas. Ntention was given 1 million NOK ($ 94 000) for research on a modular gesture recognition system for customizable Human-Computer Interaction (HCI) in AR/VR applications. Together with Ntention, in total [20 Norwegian startups](https://shifter.no/nyheter/deler-ut-grnder-millioner-til-studenter-se-hvem-som-far/181072) were given funds from the Research Council.  

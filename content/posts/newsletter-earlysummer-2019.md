@@ -19,6 +19,7 @@ excerpt: >-
 meta:
   description: We made time schedules and equipment orders to make sure our summer projects would get a flying start. The opportunity of working in our field of interest for highly recognized companies like Norconsult and Nordic Semiconductor make us humble and grateful.
   title: Newsletter - Early Summer 2019
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/6c18d435-28b3-4ea4-a409-e7174f55b007.Jpeg'
 ---
 ####Main Story
 The last couple of months have involved preparation of summer projects and exam reading for our team. We made time schedules and equipment orders to make sure our summer projects would get a flying start. The opportunity of working in our field of interest for highly recognized companies like Norconsult and Nordic Semiconductor make us humble and grateful.

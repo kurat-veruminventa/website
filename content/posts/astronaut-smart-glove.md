@@ -19,6 +19,7 @@ excerpt: >-
 meta:
   description: At Devon Island, we were testing our technology implemented in a concept spacesuit for various missions. Controlling a drone for scouting, searching, and gathering samples is some of the tasks that are intended use cases at the Moon, Mars and beyond.
   title: Astronaut Smart Glove
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/bffa08dc-448f-437e-90b2-43abdeb05e94.Jpeg'
 ---
 ####Developing interaction systems for the Haughton-Mars Project
 The NASA Haughton-Mars Project (HMP) and collaborating organizations SETI Institute, Mars Institute, NASA Ames Research Center, Collins Aerospace, and Ntention are announcing the successful field test of an “astronaut smart glove” for future human exploration of the Moon, Mars and beyond.

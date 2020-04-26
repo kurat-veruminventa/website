@@ -19,6 +19,7 @@ excerpt: >-
 meta:
   description: The last couple of months have been spent on important decision making for the company’s future, and defined our next direction. To begin with, we spent time strategizing and made calculations about the potential commercialization of the Drone Glove. We made a deliberate decision to move away from B2C, and the door to new opportunities in the B2B market opened up.
   title: Newsletter - Spring 2019
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/b0085d86-d87b-416d-b098-db5656b1ba39.Jpeg'
 ---
 ####Main Story
 The last couple of months have been spent on important decision making for the company’s future, and defined our next direction. To begin with, we spent time strategizing and made calculations about the potential commercialization of the Drone Glove. We made a deliberate decision to move away from B2C, and the door to new opportunities in the B2B market opened up.

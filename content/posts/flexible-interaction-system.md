@@ -19,6 +19,7 @@ excerpt: >-
 meta:
   description: Ntention seeks to solve this problem by creating intelligent software combining multiple input methods with contextual information, to understand the intention behind each input event and perform the correct output.
   title: Achieving a Flexible Interaction System
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Researchposts/50ff170f-b171-4d1a-aef4-eaaaa2562c2f.Jpeg'
 ---
 ####A fully flexible interaction system
 Today, most interaction systems are based on buttons, sticks and levers. These input methods are usually linked one-to-one with processes on the machine being used, and thus are made to fill the exact input needs of the machine. To cover every needed functionality, certain control systems and machines may end up with hundreds of buttons or sticks. The result is a complex, hard-to-learn control system which may require a substantial time investment to learn. It is clear that one-to-one buttons form a constraint for the flexibility and simplicity of interaction systems.  

@@ -19,6 +19,7 @@ excerpt: >-
 meta:
   description: We had an extremely busy summer, combining a summer project with Norconsult and the NASA Haughton-Mars Project. These projects led to a storm of PR and news articles and make up a great framework for what’s happening in 2020. By the end of 2019, we announced that Ntention will be part of the valuable ESA BIC network and were granted funds from the Norwegian Space Agency.    
   title: Newsletter - New Year 2019
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/19851499-1443-4494-9d71-56dfc2d435f1.Jpeg'
 ---
 ####Main Story
 2019 has been a year filled with unbelievable experiences and events, as well as challenging times. It’s hard to go through every important event we had in 2019, but we will try to sum up the most important experiences throughout the year. We started the year by going through a tough process deciding the future of the company and determined eventually to pivot from the B2C market to the B2B market and becoming Ntention.
