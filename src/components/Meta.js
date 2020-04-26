@@ -59,7 +59,7 @@ export default class Meta extends Component {
         <meta name="twitter:image" content={absoluteImageUrl} />
         <meta property="og:image:secure_url" content={absoluteImageUrl} />
         <meta property="og:image" content={absoluteImageUrl} />
-        <meta name="twitter:card" content={absoluteImageUrl} />
+        <meta property="twitter:card" content={absoluteImageUrl} />
 
         {googleTrackingId && (
           <script
