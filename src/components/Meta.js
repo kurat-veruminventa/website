@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 export const query = graphql`
   fragment Meta on MarkdownRemark {
     frontmatter {
+      date
       meta {
         title
         description
@@ -22,6 +23,7 @@ export default class Meta extends Component {
       title,
       url,
       description,
+      date,
       absoluteImageUrl = '',
       twitterSiteAccount,
       twitterCreatorAccount,
@@ -52,6 +54,7 @@ export default class Meta extends Component {
         {noindex && <meta name="robots" content="noindex" />}
         {canonicalLink && <link rel="canonical" href={canonicalLink} />}
 
+
         <meta property="og:url" content={url} />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en_US" />
@@ -61,6 +64,8 @@ export default class Meta extends Component {
         <meta name="twitter:image" content={absoluteImageUrl} />
         <meta property="og:image:secure_url" content={absoluteImageUrl} />
         <meta property="og:image" content={absoluteImageUrl} />
+        <meta property="og:image:alt" content={title} />
+        <meta property="article:published_time" content={date} />
         <meta name="twitter:card" content="summary_large_image" />
 
         {googleTrackingId && (
