@@ -44,22 +44,22 @@ export default class Meta extends Component {
         {url && <meta property="og:type" content="website" />}
         {url && <meta property="og:url" content={url} />}
         {twitterSiteAccount && (
-          <meta name="twitter:site" content={twitterSiteAccount} />
+          <meta name="twitter:site" content="@ntention_as" />
         )}
         {twitterCreatorAccount && (
-          <meta name="twitter:creator" content={twitterCreatorAccount} />
+          <meta name="twitter:creator" content="@ntention_as" />
         )}
         {noindex && <meta name="robots" content="noindex" />}
         {canonicalLink && <link rel="canonical" href={canonicalLink} />}
 
         <meta property="og:locale" content="en_US" />
         <meta property="og:site_name" content={siteTitle} />
-        <meta property="twitter:description" content={siteDescription} />
-        <meta property="twitter:title" content={siteTitle} />
-        <meta property="twitter:image" content={absoluteImageUrl} />
+        <meta name="twitter:description" content={siteDescription} />
+        <meta name="twitter:title" content={siteTitle} />
+        <meta name="twitter:image" content={absoluteImageUrl} />
         <meta property="og:image:secure_url" content={absoluteImageUrl} />
         <meta property="og:image" content={absoluteImageUrl} />
-        <meta property="twitter:card" content={absoluteImageUrl} />
+        <meta name="twitter:card" content="summary_large_image" />
 
         {googleTrackingId && (
           <script
