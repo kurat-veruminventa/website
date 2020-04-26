@@ -11,6 +11,7 @@ export const query = graphql`
         noindex
         canonicalLink
         absoluteImageUrl
+        type
       }
       date(formatString: "MMMM Do, YYYY")
     }
@@ -29,6 +30,7 @@ export default class Meta extends Component {
       twitterCreatorAccount,
       noindex,
       canonicalLink,
+      type,
       siteTitle,
       siteDescription,
       googleTrackingId
@@ -43,7 +45,7 @@ export default class Meta extends Component {
         {description && (
           <meta property="og:description" content={description} />
         )}
-        {url && <meta property="og:type" content="website" />}
+        {url && <meta property="og:type" content={type} />}
         {url && <meta property="og:url" content={url} />}
         {twitterSiteAccount && (
           <meta name="twitter:site" content="@ntention_as" />
@@ -56,7 +58,7 @@ export default class Meta extends Component {
 
 
         <meta property="og:url" content={url} />
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content={type} />
         <meta property="og:locale" content="en_US" />
         <meta property="og:site_name" content={siteTitle} />
         <meta name="twitter:description" content={description} />
@@ -65,6 +67,8 @@ export default class Meta extends Component {
         <meta property="og:image:secure_url" content={absoluteImageUrl} />
         <meta property="og:image" content={absoluteImageUrl} />
         <meta property="og:image:alt" content={title} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
         <meta property="article:published_time" content={date} />
         <meta name="twitter:card" content="summary_large_image" />
 
