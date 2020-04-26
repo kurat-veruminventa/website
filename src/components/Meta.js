@@ -5,7 +5,6 @@ import Helmet from 'react-helmet'
 export const query = graphql`
   fragment Meta on MarkdownRemark {
     frontmatter {
-      date
       meta {
         title
         description
@@ -13,6 +12,7 @@ export const query = graphql`
         canonicalLink
         absoluteImageUrl
       }
+      date(formatString: "MMMM Do, YYYY")
     }
   }
 `
