@@ -20,6 +20,7 @@ meta:
   description: We have gone from a hardware company focused on the consumer market, to a B2B SaaS company utilizing state-of-the-art hardware to fit our needs. We have transitioned from making a drone glove for fun, to focusing on delivering real value through intelligent software combined with innovative input methods, like motion-capture hardware.
   title: Arveng Technologies becomes Ntention
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/6512b141-87d7-4c9d-a698-62b2a669ff35.Png'
+  type: article
 ---
 ####Aligning our name with our vision
 At Arveng Technologies, we aim to create intuitive interaction systems by capturing the user’s intent and translating this into something machines can understand.

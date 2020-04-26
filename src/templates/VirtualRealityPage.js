@@ -10,6 +10,7 @@ import Popup from '../components/Popup'
 import Slideshow from '../components/Slider.js'
 
 import Image from '../components/Image'
+import Form from '../components/FormSimple'
 
 
 // Export Template for use in CMS preview
@@ -20,6 +21,9 @@ export const VirtualRealityPageTemplate = ({ title, subtitle, featuredImage, bod
     <section className="">
       <div className="container">
         <Content source={body} />
+        <div class="container skinnier space-100b">
+        <Form/>
+        </div>
       </div>
     </section>
 

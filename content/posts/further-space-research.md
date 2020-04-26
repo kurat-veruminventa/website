@@ -18,8 +18,9 @@ excerpt: >-
   This summer’s collaboration with NASA partners SETI Institute, Mars Institute, Haughton-Mars Project and Collins Aerospace, initiated space-related development and research at Ntention. The recent announcement discloses collaboration between Ntention and highly recognized organizations within space activities.
 meta:
   description: December 2019, we can announce that Ntention will be a part of this valuable network in 2020. With the support from Kjeller Innovasjon and partners of ESA BIC, Ntention will continue the research on space-related technology, in particular, the Astronaut Smart Glove. The membership of ESA BIC Norway provides Ntention with additional research funds of € 25 000.
-  title: €72 0000 for further space development
+  title: €72 0000 for further space development - Ntention
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/371da6ee-07db-440e-ad77-fb28edf1ea5e.Jpeg'
+  type: article
 ---
 ####High-valued network of space-related companies
 The European Space Agency (ESA) is Europe’s gateway to space. ESA’s mission is to shape the development of Europe’s space capability and ensure that investment in space continues to deliver benefits to the citizens of Europe and the world. The [ESA Business Incubation Centre (BIC) Norway](https://www.esabic.no/) opened in August 2018 and is a part of a European-wide network that provides support to over 150 companies every year in Europe.

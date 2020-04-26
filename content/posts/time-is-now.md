@@ -18,8 +18,9 @@ excerpt: >-
   By combining big data, cognitive computing, artificial intelligence and human intelligence we can move beyond the current state of interaction systems, from machine-centered to human-centered systems, from motion capture to intention capture, effectively giving our future selves superpowers.
 meta:
   description: By combining big data, cognitive computing, artificial intelligence and human intelligence we can move beyond the current state of interaction systems, from machine-centered to human-centered systems, from motion capture to intention capture, effectively giving our future selves superpowers.
-  title: Intuitive Interaction - Why the Time is Now
+  title: Intuitive Interaction - Why the Time is Now - Ntention
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Researchposts/db9aa602-cc22-4054-871f-4cd57f70820a.Jpeg'
+  type: article
 ---
 ####Unique time of rapid technological development
 We are living in a unique time of rapid technological development. The advancement of electronic computers has afforded faster development of many other technologies. Many of the basic technologies that are needed to build an intuitive and effective interaction between humans and machines have been around for some time, but some key components to making it a reality have still been missing. I believe this is the time when a gesture based, natural and intuitive framework for human machine interaction will finally arrive.

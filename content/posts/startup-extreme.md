@@ -18,8 +18,9 @@ excerpt: >-
   Great fun to participate at Startup Extreme 2019! Meeting exciting people with inspiring ideas at events like this give us a boost to keep pushing at our on-going adventure.
 meta:
   description: Great fun to participate at Startup Extreme 2019! Meeting exciting people with inspiring ideas at events like this give us a boost to keep pushing at our on-going adventure.
-  title: Startup Extreme 2019
+  title: Startup Extreme 2019 - Ntention
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/6c18d435-28b3-4ea4-a409-e7174f55b007.Jpeg'
+  type: article
 ---
 ####A festival packed with extreme individuals
 For the third consecutive year, we attended the Startup Extreme festival, now dubbed SX. This year they had expanded greatly, and more than 600 people from the startup community, including both startups, scaleups, investors, and media visited Voss. They also coincided the timing with “Ekstremsportveko”, moving venues to be able to house all the attendees.

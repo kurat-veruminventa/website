@@ -18,8 +18,9 @@ excerpt: >-
   As ordinary controllers are not fully able to simulate this feeling, XR gloves and interaction systems have an enormous advantage in creating life-like simulations and games.
 meta:
   description: As ordinary controllers are not fully able to simulate this feeling, XR gloves and interaction systems have an enormous advantage in creating life-like simulations and games.
-  title: An Immersive User Experience
+  title: An Immersive User Experience - Ntention
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Researchposts/07560345-eb1b-4dc4-b99d-1a3c3cfd6063.Jpeg'
+  type: article
 ---
 ####A disrupting movement
 The modern XR development is disrupting the industry and entertainment sectors. The recent advances open plenty of opportunities for improved workflow, increased insight, new perspectives and rapid prototyping. Nothing seems to slow down the importance of AR and VR in industry use cases, except one crucial detail. The control systems are complicated to learn and are mostly based on joysticks and buttons. As a result, the new technology can seem daunting for many, and this threshold for use holds back the value generation of AR/VR devices. To lower this threshold, eliminate training time and simplify XR use, Ntention works to develop interaction systems initially based on intuitive hand gestures and movements.

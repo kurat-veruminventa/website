@@ -18,8 +18,9 @@ excerpt: >-
   A little while ago (August 16, 2019), Ntention (formerly Arveng Technologies) celebrated that the company has been around for 3 years!
 meta:
   description: As entrepreneurs, it is fun to be able to tell about everything that happens in your own company, and especially it is fun that things are going well and that the company is alive. A little while ago (August 16, 2019), Ntention (formerly Arveng Technologies) celebrated that the company has been around for 3 years!
-  title: Ntention celebrates 3 years
+  title: Ntention celebrates 3 years - Ntention
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/c44bb6cc-8b91-4dd5-8de7-fd32c819b7a1.Jpeg'
+  type: article
 ---
 ####The team is the most important factor of a startup
 As entrepreneurs, it is fun to be able to tell about everything that happens in your own company, and especially it is fun that things are going well and that the company is alive. A little while ago (August 16, 2019), Ntention (formerly Arveng Technologies) celebrated that the company has been around for 3 years!

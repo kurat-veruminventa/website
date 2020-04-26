@@ -18,8 +18,9 @@ excerpt: >-
   Norconsult is a leading company on model-based implementation within the building and construction industry. This matches well with the Norwegian start-up Ntention’s vision to do make human-machine interaction natural and intuitive.
 meta:
   description: Within a few weeks, Ntention managed to build a solution that has been under development for five years, and they give Norconsult part of the credit for being able to maintain high development frequencies throughout the summer.
-  title: Want to make VR realistic with use of hands
+  title: Want to make VR realistic with use of hands - Ntention
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/6637b2f8-0519-4be2-8f1f-3dd519cfe64f.Jpeg'
+  type: article
 ---
 ####Use of your hands in virtual reality
 For those that are familiar with VR-technology (Virtual Reality), today is all interaction in VR based on VR-controllers. They work relatively similar to a regular game console controller, but to make VR as comfortable and realistic as possible you need to be able to use your own hands as you would in the real world. To be able to use your hands normally in a VR context, a lot of data is required. A human finger has up to three joints and the five knuckles can move in several axes. Technically, there are several solutions to track hand- and finger movement. For example, video analysis can be used. The challenge with video analysis is that it produces a lot of data and is processor-heavy to implement.

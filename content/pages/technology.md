@@ -78,7 +78,7 @@ meta:
         <div class="column">
             <div class="container">
             <h2>Immersive Real Estate</h2>
-            With more automation, specialized human operators become superfluous. Without specialized operators there is an increasing necessity for anyone involved in a work.
+            Interact with your next home by exploring a virtual mirror of your dream house just like you'd in the real world.  
             <div class="space-20t">
                 <a class="button" href="/technology/real-estate">Learn more</a>
             </div>

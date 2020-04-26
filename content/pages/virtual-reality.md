@@ -37,15 +37,17 @@ meta:
 <div class="column">
     <div class="container">
       <img src="images/Manus-VR.jpg" alt="Haptic Gloves for Virtual Reality">
+      <div class="column3 right">
+        <img src="https://cdn.image4.io/ntention/f_auto/Technology/b99d18be-caa0-49e0-a6d7-52cb09ea79f9.Png" alt="Natural interaction">
+      </div>
     </div>
 </div>
 <div class="column">
-    <div class="container hover-image">
+    <div class="container hover-image links">
     <h6>Glove hardware</h6>
     <h2>Sense of touch</h2>
     Ntention assist you to choose the right hardware for your specific use. Sensor gloves enables the user to interact with the virtual environment in a natural and intuitive way. When gloves is combined with other senses, especially sight, the amount of information increases dramatically. The increase in information reduces user error, as well as the time it takes to complete a task. <br><br>
-    <h4>Manus Prime One</h4>
-    <h4>Manus Prime Haptic</h4>
+    Ntention delivers high-quality hardware equipment from one of the global leaders within wearable sensor technology. Follow the link to discover the <a href="/technology/hardware">hardware products</a> that we offer together with our interaction systems.    
     </div>
 </div>
 </div>
@@ -73,4 +75,12 @@ meta:
         <img src="https://cdn.image4.io/ntention/f_auto/Technology/2f033a6a-0e50-4344-8d2a-e0a4e2cd7af2.Jpeg" alt="Natural interaction">
     </div>
 </div>
+</div>
+
+<div class="row">
+    <div class="taCenter" id="order">
+        <h2>We're ready to discuss your next project</h2>
+        <div class="container skinnier">
+        Want to know more about our technology or our current projects? Get in touch, we're ready to support you and assist you with your next project.
+        </div>
 </div>

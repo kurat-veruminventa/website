@@ -18,8 +18,9 @@ excerpt: >-
   The 2020 EVA Workshop were held in Houston (United States) with NASA welcoming participants across industry and academia. The workshop discussed the current state of the agency and how EVA (Extravehicular Activity) fits in the agency’s plans for exploration.
 meta:
   description: NASA’s new spacesuit that will be worn on Artemis missions would be able to accomplish more complex tasks than their predecessors. The new spacesuit is called the Exploration Extravehicular Mobility Unit, or xEMU for short. In the fall of 2019, NASA released details about the planned suit for the Artemis Program.
-  title: NASA EVA Workshop
+  title: NASA EVA Workshop - Ntention
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/dc4fe5e3-f9fd-4851-9c57-4e65f34e584c.Jpeg'
+  type: article
 ---
 ####Discussion on technical aspects of the Artemis Program
 As a result of last year’s NASA Haughton-Mars Project, Ntention was attending Extravehicular Activity Exploration Workshop at Space Center Houston. The workshop brought the EVA community together to discuss, collaborate, and inform about EVA technology development efforts. Researchers, executives, engineers, and students were gathered to discover NASA’s plans for the journey to the [Moon in 2024](https://www.nasa.gov/specials/artemis/). NASA is going to the Moon with commercial and international partners to explore faster and explore more together. This work will bring new knowledge and opportunities and inspire the next generation. In going to the Moon, NASA’s Artemis Program is laying the foundation that will eventually enable human exploration of Mars.

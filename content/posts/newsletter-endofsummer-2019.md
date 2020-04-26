@@ -20,6 +20,7 @@ meta:
   description: We made time schedules and equipment orders to make sure our summer projects would get a flying start. The opportunity of working in our field of interest for highly recognized companies like Norconsult and Nordic Semiconductor make us humble and grateful.
   title: Newsletter - Early Summer 2019
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/6637b2f8-0519-4be2-8f1f-3dd519cfe64f.Jpeg'
+  type: article
 ---
 ####Main Story
 The last couple of months have involved the completion of our summer projects. Our 3 summer internships at Norconsult this summer saw us delving into Virtual Reality to create an innovative way of interacting with a virtual world. The initial goal was to implement our glove technology into a 3D engine, and then deliver a technical demo at the end of summer.

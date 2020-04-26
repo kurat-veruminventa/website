@@ -18,8 +18,9 @@ excerpt: >-
   Afterwards the press release by SETI Institute we were invited to one of Norway’s largest TV channels; TV2.
 meta:
   description: Two members of our team, Magnus and Moina, our Co-CEOs, talked about the story behind the NASA Haughton-Mars Project and showcased the Astronaut Smart Glove. In the end of the interview Magnus controlled a drone with our Glove in the studio and landed into one of God Morgen Wenche’s casseroles.
-  title: Norwegian Live Television
+  title: Norwegian Live Television - Ntention
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/2e1df19f-e1b3-4992-98d5-aa4873806cd4.Jpeg'
+  type: article
 ---
 ####Appearance at TV2
 In the time after we were luckily invited to one of Norway’s largest TV channels; TV2. Two members of our team, Magnus and Moina, our Co-CEOs, talked about the story behind the NASA Haughton-Mars Project and showcased the Astronaut Smart Glove. In the end of the interview Magnus controlled a drone with our Glove in the studio and landed into one of God Morgen Wenche’s casseroles.

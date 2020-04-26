@@ -20,6 +20,7 @@ meta:
   description: In short we have attended the world’s largest gathering for consumer electronics business and examined the commercialization opportunities for our technology. We have also successfully developed our Drone Glove to be compatible to interesting applications, including a robotic arm and AR-glasses.
   title: Newsletter - Winter 2019
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/c44bb6cc-8b91-4dd5-8de7-fd32c819b7a1.Jpeg'
+  type: article
 ---
 ####Main Story
 To kickstart the year 2019 we attended to Consumer Electronic Show (CES 2019) in Las Vegas, United States. A place where companies from around the world showcases their most innovative technologies. One of the highlights was a meeting with Ben O’Brien, CEO of StretchSense Limited, which gave us massive information about the motion capture market.

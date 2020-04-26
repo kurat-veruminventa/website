@@ -20,6 +20,7 @@ meta:
   description: We made time schedules and equipment orders to make sure our summer projects would get a flying start. The opportunity of working in our field of interest for highly recognized companies like Norconsult and Nordic Semiconductor make us humble and grateful.
   title: Newsletter - Fall 2019
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/be9c4815-4efb-496d-9953-ad5504d2682c.Jpeg'
+  type: article
 ---
 ####Main Story
 Finally, we can announce and talk about one of our summer projects; the NASA Haughton-Mars Project. At Devon Island, we were testing our technology implemented in a concept spacesuit for various missions. Controlling a drone for scouting, searching, and gathering samples is some of the tasks that are intended use cases at the Moon, Mars and beyond.

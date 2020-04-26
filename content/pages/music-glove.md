@@ -61,3 +61,11 @@ meta:
 <iframe src="https://player.vimeo.com/video/335345100" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/335345100">Music Glove demonstration</a> from <a href="https://vimeo.com/ntention">Ntention</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
+
+<div class="row space-100t">
+    <div class="taCenter" id="order">
+        <h2>We're ready to discuss your next project</h2>
+        <div class="container skinnier">
+        Want to know more about our technology or our current projects? Get in touch, we're ready to support you and assist you with your next project.
+        </div>
+</div>

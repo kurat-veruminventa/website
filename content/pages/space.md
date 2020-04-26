@@ -95,3 +95,11 @@ meta:
     </div>
 </div>
 </div>
+
+<div class="row">
+    <div class="taCenter" id="order">
+        <h2>We're ready to discuss your next project</h2>
+        <div class="container skinnier">
+        Want to know more about our technology or our current projects? Get in touch, we're ready to support you and assist you with your next project.
+        </div>
+</div>

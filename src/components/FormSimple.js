@@ -44,7 +44,7 @@ export default ({
         </option>
         <option>Need to know more</option>
         <option>Want to discuss project</option>
-        <option>Want to say hello</option>
+        <option>Want to order a pair of gloves</option>
       </select>
     </label>
     <label className='Form--Label'>
@@ -60,9 +60,9 @@ export default ({
     {!!subject && <input type='hidden' name='subject' value={subject} />}
     <input type='hidden' name='form-name' value={name} />
     <input
-      className='Button Form--SubmitButton'
+      className='button Form--SubmitButton'
       type='submit'
-      value='Submit'
+      value='Submit message'
     />
   </form>
 )
