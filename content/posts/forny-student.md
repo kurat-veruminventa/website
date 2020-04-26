@@ -17,7 +17,7 @@ categories:
 excerpt: >-
   Every year, the Research Council of Norway support promising student-driven business ideas with research funds. The funding scheme aims to help to increase entrepreneurship among students by promoting business ideas that have a close link to promising research results.
 meta:
-  description: At Devon Island, we were testing our technology implemented in a concept spacesuit for various missions. Controlling a drone for scouting, searching, and gathering samples is some of the tasks that are intended use cases at the Moon, Mars and beyond.
+  description: Every year, the Research Council of Norway support promising student-driven business ideas with research funds. The funding scheme aims to help to increase entrepreneurship among students by promoting business ideas that have a close link to promising research results.
   title: 1 Million NOK for Research
   absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/180be33f-6faf-432c-9932-2dd7c5eede3d.Jpeg'
 socialMediaCard:
