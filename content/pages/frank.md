@@ -10,6 +10,8 @@ meta:
   description: Frank has been a part of the team since the early beginning. He is one of the original visionaries shaping the path of our company. Frank was …
   title: Frank Øygard
   alt: Frank Øygard
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/4320fb78-b50d-40f0-8ae9-c94d1731ef76.Jpeg'
+  type: website
 education:
     - study: M.Sc. Industrial Design Engineering (NTNU)
       mainprofile:

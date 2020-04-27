@@ -10,6 +10,8 @@ meta:
   description: Gulleik has been working since he was 14, having been the national leader for the Norwegian entrepreneurship organization START …
   title: Gulleik Olsen
   alt: Gulleik Olsen
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/1acf1112-4ba2-474e-b51c-d39564af57cf.Jpeg'
+  type: website
 education:
     - study: M.Sc. Cybernetics and Robotics (NTNU)
       mainprofile:

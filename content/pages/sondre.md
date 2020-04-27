@@ -10,6 +10,8 @@ meta:
   description: Former pig farmer, active marathon runner, and technical wizard. Sondre is unbelievable, he always gets the job done without compromise …
   title: Sondre Tagestad
   alt: Sondre Tagestad
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/6ba3ccac-efbd-4586-bc7c-11c9a3da043c.Jpeg'
+  type: website
 education:
     - study: M.Sc. Electronics Systems Design and Innovation (NTNU)
       mainprofile:

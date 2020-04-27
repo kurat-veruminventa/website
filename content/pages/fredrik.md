@@ -10,6 +10,8 @@ meta:
   description: When Fredrik was 15, he and his team built a Mathematics teaching app; Mathema. He had dealt with the press, gathered investments …
   title: Fredrik Shaughnessy Ahlborg
   alt: Fredrik Shaughnessy Ahlborg
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/723524f4-38f1-4c35-a6b4-d321fc95f581.Jpeg'
+  type: website
 education:
     - study: M.Sc. Industrial Economics and Technology Management (NTNU)
       mainprofile: Investment and Finance

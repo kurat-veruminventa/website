@@ -10,6 +10,8 @@ meta:
   description: With drive and energy, he has the ability to engage any living being on this planet. Magnus choose to see only possibilities and have a burning desire to …
   title: Magnus Arveng
   alt: Magnus Arveng
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/ffc40370-e453-481e-8e61-89b73d560a8e.Jpeg'
+  type: website
 education:
     - study: M.Sc. Industrial Economics and Technology Management (NTNU)
       mainprofile: Main specialization within Product Development and Manufacturing

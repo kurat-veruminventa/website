@@ -7,6 +7,8 @@ subtitle:
 meta:
   description: Our Machine Learning-based Gesture Recognition enables you to use specific hand movements, like a flick of the wrist or a set of finger movements, to control an AR/VR application. This intuitive  way of interaction lets  the user “show” the software what to do, rather than using a set of button clicks, levers or sticks to control the software.
   title: Hardware
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Technology/2f033a6a-0e50-4344-8d2a-e0a4e2cd7af2.Jpeg'
+  type: website
 ---
 
 
@@ -36,7 +38,7 @@ meta:
         </div>
 </div>
 
-<div class="row space-100t">
+<div class="row space-100t reverse">
 <div class="column links">
     <h6>Manus VR</h6>
     <h2>Prime One</h2>
@@ -55,7 +57,7 @@ meta:
 </div>
 </div>
 
-<div class="row">
+<div class="row reverse">
 <div class="column">
     <h6>Manus VR</h6>
     <h2>Prime Haptic</h2>
@@ -74,7 +76,7 @@ meta:
 </div>
 </div>
 
-<div class="row">
+<div class="row reverse">
 <div class="column">
     <h6>Manus VR</h6>
     <h2>Prime Xsens</h2>

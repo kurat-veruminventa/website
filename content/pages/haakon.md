@@ -10,6 +10,8 @@ meta:
   description: Despite his sweet, good-looking appearance and love of Mountain Dew, Haakon is a high-ranking black belt and former World Champion in ...
   title: Haakon Fuhre Pettersen
   alt: Haakon Fuhre Pettersen
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/050ff233-c8ca-44ec-8c0a-b4de723884a6.Jpeg'
+  type: website
 education:
     - study: M.Sc. Industrial Economics and Technology Management (NTNU)
       mainprofile: Main specialization within Innovation and Entrepreneurship, and engineering background within Energy and Environmental Engineering with specialization Heat and Energy Processes.

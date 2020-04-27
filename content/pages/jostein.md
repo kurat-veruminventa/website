@@ -10,6 +10,8 @@ meta:
   description: Was the angel child in school. His tests were used as a solutions manual and the teachers loved him. By high school graduation, he came out of his …
   title: Jostein Nordal Lysberg
   alt: Jostein Nordal Lysberg
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/a72461c7-b1bd-4491-9739-f1707dbd4116.Jpeg'
+  type: website
 education:
     - study: M.Sc. Cybernetics and Robotics (NTNU)
       mainprofile:

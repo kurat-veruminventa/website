@@ -10,6 +10,8 @@ meta:
   description: Moina is visionary and enlightened. With a creative way of working and living, Moina’s progressive field of vision is essential to bring Ntention to …
   title: Moina Tamuly
   alt: Moina Tamuly
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/a54dca7d-1658-4dbf-b1df-48fad2583f8e.Jpeg'
+  type: website
 education:
     - study: M.Sc. Industrial Design Engineering (NTNU)
       mainprofile:

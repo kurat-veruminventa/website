@@ -15,6 +15,8 @@ locations:
 meta:
   description: Interested in learning more about our technology and services? Our entire team is available for discussion to ensure you are receiving the best information possible. We are here to help!
   title: Contact
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  type: website
 ---
 
 We kindly ask you to address client related enquiries or questions regarding daily operations of our company to the most relevant member of Ntention. Depending on your inquiry you’ll find the appropriate contact below. If you’re looking for a specific person, check out our <a href="about/#team">Team</a>.

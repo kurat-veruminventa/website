@@ -7,6 +7,8 @@ subtitle: Ntention develop software and hardware to enable users to interact wit
 meta:
   description: Ntention develop software and hardware to enable users to interact with technology in a new way. We focus on sensor-based smart gloves and Ntention Software Platform.
   title: Technology
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  type: website
 ---
 
 &nbsp;
@@ -35,7 +37,7 @@ meta:
     <h2>Explore some of our use cases</h2>
     </div>
        <div class="full-width taCenter technology-nav hide-mobile">
-           <h6><a href="/technology/#space">Space</a><a href="/technology/#virtual-reality">Virtual Reality</a><a href="/technology/#real-estate">Real Estate</a><a href="/technology/#music-glove">Music Glove</a><a href="/technology/#industrial-machines">Industrial Machines</a></h6>
+           <h6><a href="#space">Space</a><a href="#virtual-reality">Virtual Reality</a><a href="#real-estate">Real Estate</a><a href="#music-glove">Music Glove</a><a href="#industrial-machines">Industrial Machines</a></h6>
        </div>
     <div class="full-width-white technology-section-white">
         <div class="column" id="space">

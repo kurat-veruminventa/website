@@ -10,6 +10,8 @@ meta:
   description: Håvard is essential to our technical core. He is writing his masters on gesture recognition. Håvard is also a true adventurer having traveled around …
   title: Håvard Pedersen Brandal
   alt: Håvard Pedersen Brandal
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/dcdb0af6-c2a8-4dfa-a47e-35099cad940c.Jpeg'
+  type: website
 education:
     - study: M.Sc. Cybernetics and Robotics (NTNU)
       mainprofile: Main specialization within Robotics

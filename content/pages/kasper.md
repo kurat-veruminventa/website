@@ -10,6 +10,8 @@ meta:
   description: Kasper has a wide experience in UX design and working on designing the next-generation user experiences for intuitive interfaces...
   title: Kasper Rise
   alt: Kasper Rise
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/d0e5857b-bfe8-4a18-84d3-27af00aa8c22.Jpeg'
+  type: website
 education:
     - study: M.Sc. Industrial Design Engineering (NTNU)
       mainprofile: Specialization in Interaction Design

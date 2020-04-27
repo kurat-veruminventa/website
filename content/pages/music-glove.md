@@ -2,11 +2,13 @@
 template: VirtualRealityPage
 slug: technology/music-glove
 title: Music Glove
-featuredImage: ''
+featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/8b855bd9-9fed-43cb-8792-a58f5cce32d5.Jpeg'
 subtitle:
 meta:
-  description: This is a meta description.
+  description: Combining the HuMI Pro-Glove’s highly accurate data output with the company’s proprietary software, users of the Music Glove can express artistic intentions beyond the scope of any traditional instrument.
   title: Music Glove
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8b855bd9-9fed-43cb-8792-a58f5cce32d5.Jpeg'
+  type: website
 ---
 
 

@@ -5,11 +5,13 @@ title: Vegard J. Løwe
 role: Chief Marketing Officer
 email: "mailto:vegardjl@ntention.com"
 linkedin: "https://www.linkedin.com/in/vegard-lowe/"
-featuredImage: 'https://i.ibb.co/N16hsB1/Vegard.jpg'
+featuredImage: 'https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg'
 meta:
   description: Vegard is extremely focused and knows what he wants. He is self-taught in design and is doing a double degree at NTNU. Already having …
   title: Vegard J. Løwe
   alt: Vegard J. Løwe
+  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg'
+  type: website
 education:
     - study: M.Sc. Civil and Environmental Engineering (NTNU)
       mainprofile: Main specialization within Structural Engineering
