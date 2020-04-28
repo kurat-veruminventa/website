@@ -6,7 +6,7 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 import SVGIcon from '../components/SVGIcon'
 import Image from '../components/Image'
-import Form from '../components/FormSimple'
+import Form from '../components/FormControlled'
 
 // Export Template for use in CMS preview
 export const SubscribePageTemplate = ({
@@ -23,7 +23,7 @@ export const SubscribePageTemplate = ({
         <div class="container">
             <div class="column">
                 We love to inform our friends with news about our progress; that’s why we send out an email newsletter every other month with our highlights from last months. As a subscriber to our newsletter, you’ll get access to exclusive insight into our progress, research, and future development.
-                <Form/>
+                <Form />
             </div>
             <div class="column">
                 <Image src="https://cdn.image4.io/ntention/f_auto/Assets/8e14be64-2f04-49ad-8027-b5d31eb3b3e6.Jpeg" alt="research-based" className={'container'}/>

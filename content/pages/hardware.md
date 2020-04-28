@@ -11,14 +11,14 @@ meta:
   type: website
 ---
 
-
+<div class="tech-margin">
 <div class="full-width technology-section-black">
     <div class="column">
         <div class="container hover-image">
         <h2>Hardware Products</h2>
         Ntention delivers high-quality hardware equipment from one of the global leaders within wearable sensor technology.  
         </div>
-        <div class="column3 left space-20t">
+        <div class="column3 left space-20t mobile-small">
           <img src="https://cdn.image4.io/ntention/f_auto/Technology/98c51b5e-67df-4b12-a9b1-ce15fdc0b617.Png" alt="Natural interaction">
         </div>
     </div>
@@ -28,7 +28,7 @@ meta:
         </div>
     </div>
 </div>
-
+</div>
 
 <div class="section">
     <div class="taCenter">
@@ -95,9 +95,9 @@ meta:
 
 <div class="section">
     <div class="full-width">
-        <div class="container">
+        <div class="container mobile-contact-container">
             At Ntention, we understand you may have unique and custom requirements. Contact us to learn more.
-            <a class="button right" href="/contact">Contact</a>
+            <a class="button right mobile-contact" href="/contact">Contact</a>
         </div>
     </div>
 </div>

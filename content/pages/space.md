@@ -11,21 +11,21 @@ meta:
   type: website
 ---
 
-
-<div class="full-width-white technology-section-white">
+<div class="tech-margin">
+<div class="full-width-white technology-section-white reverse">
     <div class="column">
         <div class="container hover-image">
         <h2>Space</h2>
         The  Astronaut  Smart Glove  and  our  software  solution  is  a  prototype  of  a product that is intended to be used by astronauts during space missions.
         </div>
     </div>
-    <div class="column">
+    <div class="column reverse">
         <div class="container">
-            <img src="https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg" alt="Astronaut Smart Glove">
+            <img src="images/Astronautglove-showcase.jpg" alt="Astronaut Smart Glove">
         </div>
     </div>
 </div>
-
+</div>
 
 <div class="section">
     <div class="taCenter">
@@ -53,9 +53,9 @@ meta:
 
 <div class="section">
     <div class="full-width">
-        <div class="container">
+        <div class="container mobile-contact-container">
             Contact us to learn more about our research project for interaction in spacesuits.
-            <a class="button right" href="/contact">Contact</a>
+            <a class="button right mobile-contact" href="/contact">Contact</a>
         </div>
     </div>
 </div>

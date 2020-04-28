@@ -11,7 +11,7 @@ meta:
   type: website
 ---
 
-
+<div class="tech-margin">
 <div class="full-width technology-section-black">
     <div class="column">
         <div class="container hover-image">
@@ -25,7 +25,7 @@ meta:
         </div>
     </div>
 </div>
-
+</div>
 
 <div class="section">
     <div class="taCenter">
@@ -52,9 +52,9 @@ meta:
 
 <div class="section">
     <div class="full-width">
-        <div class="container">
+        <div class="container mobile-contact-container">
             At Ntention, we understand you may have unique and custom requirements. Contact us to learn more.
-            <a class="button right" href="/contact">Contact</a>
+            <a class="button right mobile-contact" href="/contact">Contact</a>
         </div>
     </div>
 </div>

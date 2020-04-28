@@ -36,6 +36,9 @@ export default () => (
                             <a href="/about">About</a>
                           </li>
                           <li>
+                            <a href="/privacy-policy">Privacy Policy</a>
+                          </li>
+                          <li>
                             <a href="/contact">Contact</a>
                           </li>
                     </ul>
@@ -53,7 +56,7 @@ export default () => (
                         <a href="/technology/virtual-reality">Virtual Reality</a>
                       </li>
                       <li>
-                        <a href="/technology/drone-glove">Drone Glove</a>
+                        <a href="/technology/real-estat3e">Real Estate</a>
                       </li>
                       <li>
                         <a href="/technology/industrial-machines">Industrial Machines</a>

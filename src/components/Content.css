@@ -147,6 +147,11 @@
     background: linear-gradient(90deg, rgba(63,49,137,1) 0%, rgba(103,64,146,1) 100%);
 }
 
+.button-margin {
+        margin-top: 2rem;
+}
+
+
 .hover-image {
     -webkit-filter: grayscale(0);
 	filter: grayscale(100%);
@@ -272,10 +277,6 @@
   .full-mobile {
       padding: 0;
   }
-  .reverse {
-      display: flex;
-      flex-flow: column-reverse;
-  }
   .column3 {
     float: left;
     width: 100%;
@@ -340,5 +341,21 @@
   .newstabs {
       padding-top: 50px;
   }
-
+  .mobile-contact {
+      float: left;
+      margin-top: 2rem;
+  }
+  .mobile-contact-container {
+      padding-bottom: 6rem;
+  }
+  .tech-margin {
+      margin-top: -12rem;
+  }
+  .mobile-small {
+      width: 50%;
+  }
+  .reverse {
+      display: flex;
+      flex-flow: column-reverse;
+  }
 }

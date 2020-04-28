@@ -77,7 +77,7 @@ class Form extends Component {
       })
       .then(
         this.resetForm({
-          alert: 'Thanks for your enquiry, we will get back to you soon.'
+          alert: 'Thanks for subscribing!'
         })
       )
       .catch(err => {
@@ -85,7 +85,7 @@ class Form extends Component {
         this.setState({
           disabled: false,
           alert:
-            '❗️ There is a problem, your message has not been sent, please try contacting us via email'
+            '❗️ There is a problem, your sign up has not been sent, please try contacting us via email'
         })
       })
   }
@@ -137,19 +137,7 @@ class Form extends Component {
           />
           <LineGroup />
         </label>
-        <label className='Form--Label'>
-          <textarea
-            className='Form--Input Form--Textarea'
-            value={this.state.message}
-            onChange={this.handleChange}
-            placeholder='Message'
-            name='message'
-            rows='10'
-            required
-            disabled={this.state.disabled ? 'disabled' : ''}
-          />
-          <LineGroup />
-        </label>
+
         <input
           className='Form--Input'
           type='text'
@@ -171,12 +159,12 @@ class Form extends Component {
           value={this.state['form-name']}
         />
         <button
-          className='Button Form--SubmitButton'
+          className='button Form--SubmitButton'
           type='submit'
           value='Send'
           disabled={this.state.disabled ? 'disabled' : ''}
         >
-          Enquire
+          Subscribe
         </button>
       </form>
     )

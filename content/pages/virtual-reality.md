@@ -11,7 +11,7 @@ meta:
   type: website
 ---
 
-
+<div class="tech-margin">
 <div class="full-width technology-section-black">
     <div class="column">
         <div class="container hover-image">
@@ -25,7 +25,7 @@ meta:
         </div>
     </div>
 </div>
-
+</div>
 
 <div class="section">
     <div class="taCenter">
@@ -39,7 +39,7 @@ meta:
 <div class="column">
     <div class="container">
       <img src="images/Manus-VR.jpg" alt="Haptic Gloves for Virtual Reality">
-      <div class="column3 right">
+      <div class="column3 right mobile-small">
         <img src="https://cdn.image4.io/ntention/f_auto/Technology/b99d18be-caa0-49e0-a6d7-52cb09ea79f9.Png" alt="Natural interaction">
       </div>
     </div>
@@ -56,9 +56,9 @@ meta:
 
 <div class="section">
     <div class="full-width">
-        <div class="container">
+        <div class="container mobile-contact-container">
             At Ntention, we understand you may have unique and custom requirements. Contact us to learn more.
-            <a class="button right" href="/contact">Contact</a>
+            <a class="button right mobile-contact" href="/contact">Contact</a>
         </div>
     </div>
 </div>
