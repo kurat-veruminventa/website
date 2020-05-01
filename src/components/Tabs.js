@@ -261,6 +261,18 @@ export default () => (
     <TabPanel>
     <section class="section thinner left">
     <div class="team-left team">
+        <Image src="https://cdn.image4.io/ntention/f_auto/Team/72610e28-6a0b-4cd0-84c1-58ce76db87ba.Jpeg" alt="Dr Pascal Lee" />
+    </div>
+    <div class="team-right">
+      <h6>Co-Founder & chairman of Mars Institute</h6>
+      <h2>Dr Pascal Lee</h2>
+      <div class="container skinnier left">
+        Pascal Lee is a planetary scientist at the SETI Institute, and the Principal Investigator of the Haughton-Mars Project at NASA Ames Research Center in California. He holds an ME in geology and geophysics from the University of Paris, and a PhD in astronomy and space sciences from Cornell University.
+      </div>
+    </div>
+    </section>
+    <section class="section thinner left">
+    <div class="team-left team">
         <Image src="https://cdn.image4.io/ntention/f_auto/Team/90239bf0-8be2-498e-85f4-6865fa186b25.Jpeg" alt="Eirik Wahlstrøm" />
     </div>
     <div class="team-right">

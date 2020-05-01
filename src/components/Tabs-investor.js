@@ -10,7 +10,7 @@ export default () => (
       <Tab><h4>Research-based</h4></Tab>
       <Tab><h4>Visionary</h4></Tab>
       <Tab><h4>Passion</h4></Tab>
-      <Tab><h4>High risk - high reward</h4></Tab>
+      <Tab><h4>Wide impact</h4></Tab>
     </TabList>
     <TabPanel>
         <section class="section row">
@@ -74,8 +74,8 @@ export default () => (
         <section class="section row">
             <div class="container taLeft reverse">
                 <div class="column">
-                <h2>High risk - high reward</h2>
-                Investing in startup companies is a very risky business, but it can be very rewarding if and when the investments do pay off. Ntention ensures you that all investments will be exclusively prioritized for the best of the company and help us to fulfill our vision and move boundaries. That's why we look at all of our investors as close friends and part of the Ntention team.
+                <h2>Wide impact</h2>
+                Ntention's technological solutions ranges in industries like construction, off-shore, art and culture, and space. Despite the broad impact, it all revolves around how humans interact with the world around us. It is a clear technical similarity in all the industries and use cases; it is all about understanding human communication, body language, and vocal and translate the human intent into machine command.
                 </div>
                 <div class="column">
                     <Image src="https://cdn.image4.io/ntention/f_auto/Assets/f33eddec-b2d6-4787-b924-438b7cbfb259.Jpeg" alt="High risk - High reward" className={'container'}/>
