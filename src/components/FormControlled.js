@@ -4,7 +4,7 @@ import { stringify } from 'qs'
 import './Form.css'
 import './FormControlled.css'
 
-const fetch = window.fetch
+//const fetch = window.fetch
 
 class Form extends Component {
   static defaultProps = {
