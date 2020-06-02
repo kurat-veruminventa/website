@@ -7,7 +7,6 @@ import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Popup from '../components/Popup'
-import Slideshow from '../components/Slider.js'
 
 import Image from '../components/Image'
 import Form from '../components/FormSimple'

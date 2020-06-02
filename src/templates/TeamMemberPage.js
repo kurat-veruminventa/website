@@ -8,7 +8,6 @@ import Accordion from '../components/Accordion'
 import AccordionEducation from '../components/Accordion-education'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Popup from '../components/Popup'
-import Slideshow from '../components/Slider.js'
 
 import Image from '../components/Image'
 
