@@ -27,7 +27,7 @@ export default () => (
               <a href="mailto:marveng@ntention.com">
               <Image src="https://cdn.image4.io/ntention/f_auto/Assets/cd0d44e1-835d-467a-9f49-e35cf901c613.Jpeg" alt="Email" />
               </a>
-              <a href="https://www.linkedin.com/in/vegard-lowe/">
+              <a href="https://www.linkedin.com/in/magnusarveng/">
               <Image src="https://cdn.image4.io/ntention/f_auto/Assets/bb043d95-c639-42bc-bf76-07d0c03e09e6.Jpeg" alt="LinkedIn" />
               </a>
           </div>
