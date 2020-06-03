@@ -295,6 +295,7 @@ collections: # A list of collections the CMS should be able to edit
         options: ['Published', 'Featured', 'Draft']
         default: 'Published'
       - { label: Date / Order, name: date, widget: date }
+      - { label: PostType, name: postType, widget: string}
       - {
           label: Featured Image,
           name: featuredImage,
@@ -314,6 +315,50 @@ collections: # A list of collections the CMS should be able to edit
             collection: 'postCategories'
             searchFields: ['title']
             valueField: 'title'
+      - label: 'Author'
+        required: true
+        name: 'authorMain'
+        widget: 'object'
+        fields:
+            - {
+                label: Author,
+                name: author,
+                widget: string,
+                required: true,
+                }
+            - {
+                label: AuthorLink,
+                name: authorlink,
+                widget: string,
+                required: true,
+                }
+            - {
+                label: Role,
+                name: role,
+                widget: string,
+                required: true,
+                }
+            - {
+                label: PortraitImage,
+                name: portrait,
+                widget: string,
+                required: true,
+                }
+            - {
+                label: EmailAddress,
+                name: email,
+                widget: string,
+                required: true,
+                }
+            - {
+                label: LinkedInAddress,
+                name: linkedin,
+                widget: string,
+                required: true,
+                }
+            - {
+                label:
+                }
       - label: 'Meta'
         required: false
         name: 'meta'
@@ -327,8 +372,20 @@ collections: # A list of collections the CMS should be able to edit
               required: false,
             }
           - {
+              label: ImageURL,
+              name: absoluteImageUrl,
+              widget: image,
+              required: false,
+            }
+          - {
               label: Canonical Link,
               name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Type,
+              name: type,
               widget: string,
               required: false,
             }
