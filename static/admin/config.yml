@@ -311,8 +311,10 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - label: 'Category'
             name: 'category'
-            widget: 'string'
-            required: false
+            widget: 'relation'
+            collection: 'postCategories'
+            searchFields: ['title']
+            valueField: 'title'
       - label: 'Author'
         required: true
         name: 'authorMain'
@@ -391,7 +393,7 @@ collections: # A list of collections the CMS should be able to edit
     label: Post Category
     editor:
       preview: false
-    folder: /content/
+    folder: /content/pages/postCategories/
     slug: '{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
