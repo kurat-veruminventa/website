@@ -356,9 +356,6 @@ collections: # A list of collections the CMS should be able to edit
                 widget: string,
                 required: true,
                 }
-            - {
-                label:
-                }
       - label: 'Meta'
         required: false
         name: 'meta'
@@ -396,7 +393,7 @@ collections: # A list of collections the CMS should be able to edit
     label: Post Category
     editor:
       preview: false
-    folder: /content/
+    folder: /content/pages/postCategories
     slug: '{{slug}}'
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
