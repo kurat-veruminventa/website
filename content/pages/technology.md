@@ -50,7 +50,7 @@ meta:
             <h2>Space</h2>
             The Astronaut Smart Glove and our software solution is a prototype of a product that is intended to be used by astronauts during space missions.
             <div class="space-20t">
-                <a class="button" href="/technology/space">Learn more</a>
+                <a class="button" href="/posts/astronaut-smart-glove/">Learn more</a>
             </div>
             </div>
         </div>

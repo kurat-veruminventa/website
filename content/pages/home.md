@@ -33,7 +33,7 @@ In order to let anyone control any machine we need to make the interaction easy 
 
 <div class="row">
   <div class="column">
-    <div class="container hover-image full-mobile"><a href="/technology/space">
+    <div class="container hover-image full-mobile"><a href="/posts/astronaut-smart-glove/">
       <img src="images/Astronautglove-showcase.jpg" alt="Astronaut Smart Glove">
       <div class="text-block">
         <h6>Astronaut smart glove</h6>

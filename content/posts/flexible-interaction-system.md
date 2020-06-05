@@ -3,13 +3,12 @@ template: SinglePost
 title: Achieving a Flexible Interaction System
 status: Published
 date: '2019-12-16'
-authorMain:
-    - author: 'Haakon Fuhre Pettersen'
-    - authorlink: /team/haakon/
-    - role: 'Chief Technology Officer'
-    - portrait: 'https://cdn.image4.io/ntention/f_auto/Team/050ff233-c8ca-44ec-8c0a-b4de723884a6.Jpeg'
-    - email: mailto:hfp@ntention.com
-    - linkedin: https://www.linkedin.com/in/haakon-fuhre-pettersen/
+author: 'Haakon Fuhre Pettersen'
+authorlink: /team/haakon/
+role: 'Chief Technology Officer'
+portrait: 'https://cdn.image4.io/ntention/f_auto/Team/050ff233-c8ca-44ec-8c0a-b4de723884a6.Jpeg'
+email: mailto:hfp@ntention.com
+linkedin: https://www.linkedin.com/in/haakon-fuhre-pettersen/
 featuredImage: 'https://cdn.image4.io/ntention/f_auto/Researchposts/50ff170f-b171-4d1a-aef4-eaaaa2562c2f.Jpeg'
 postType: /research
 categories:
