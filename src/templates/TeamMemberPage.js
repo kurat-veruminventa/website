@@ -16,7 +16,7 @@ import './SinglePost.css'
 
 
 // Export Template for use in CMS preview
-export const TeamMemberPageTemplate = ({ title, subtitle, featuredImage, body, role, email, linkedin, portrait, education, skills }) => (
+export const TeamMemberPageTemplate = ({ title, subtitle, featuredImage, body, role, email, linkedin, teamPortrait, education, skills }) => (
 
   <main className="Investor">
 
@@ -94,7 +94,7 @@ export const pageQuery = graphql`
         role
         email
         linkedin
-        portrait
+        teamPortrait
         education {
             study
             mainprofile

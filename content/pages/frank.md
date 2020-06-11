@@ -6,7 +6,7 @@ role: Head of Research
 email: "mailto:frank@ntention.com"
 linkedin: "https://www.linkedin.com/in/frank-alexander-%C3%B8ygard-11301a138/"
 featuredImage: '/images/about/Frank.jpg'
-portrait: '/images/about/Frank.jpg'
+teamPortrait: '/images/about/Frank.jpg'
 meta:
   description: Frank has been a part of the team since the early beginning. He is one of the original visionaries shaping the path of our company. Frank was …
   title: Frank Øygard

@@ -6,7 +6,7 @@ role: Hardware / Software Engineer
 email: "mailto:jlysberg@ntention.com"
 linkedin: "https://www.linkedin.com/in/jostein-nordal-lysberg-868453170/"
 featuredImage: '/images/about/Jostein.jpg'
-portrait: '/images/about/Jostein.jpg'
+teamPortrait: '/images/about/Jostein.jpg'
 meta:
   description: Was the angel child in school. His tests were used as a solutions manual and the teachers loved him. By high school graduation, he came out of his …
   title: Jostein Nordal Lysberg

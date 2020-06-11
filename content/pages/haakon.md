@@ -6,7 +6,7 @@ role: Chief Technology Officer
 email: "mailto:hfp@ntention.com"
 linkedin: "https://www.linkedin.com/in/haakon-fuhre-pettersen/"
 featuredImage: '/images/about/Haakon.jpg'
-portrait: '/images/about/Haakon.jpg'
+teamPortrait: '/images/about/Haakon.jpg'
 meta:
   description: Despite his sweet, good-looking appearance and love of Mountain Dew, Haakon is a high-ranking black belt and former World Champion in ...
   title: Haakon Fuhre Pettersen
