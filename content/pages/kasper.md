@@ -5,7 +5,8 @@ title: Kasper Rise
 role: Interaction Designer
 email: "mailto:kasper@ntention.com"
 linkedin: "https://www.linkedin.com/in/kasperrise/"
-featuredImage: /images/about/Kasper.jpg
+featuredImage: '/images/about/Kasper.jpg'
+portrait: '/images/about/Kasper.jpg'
 meta:
   description: Kasper has a wide experience in UX design and working on designing the next-generation user experiences for intuitive interfaces...
   title: Kasper Rise

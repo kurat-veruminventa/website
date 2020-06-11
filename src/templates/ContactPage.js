@@ -153,7 +153,7 @@ export const ContactPageTemplate = ({
     </div>
     <div class="column">
         <div class="container">
-          <Image src="https://cdn.image4.io/ntention/f_auto/Assets/5aa94b7b-5962-425f-b0b8-8aa6470ac0eb.Jpeg" alt="Team working at Gründerbrakka" className={'container'}/>
+          <Image src="/images/contact/Team-working.jpg" alt="Team working at Gründerbrakka" className={'container'}/>
         </div>
     </div>
     </div>

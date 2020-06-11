@@ -6,11 +6,11 @@ date: '2019-07-31'
 author: 'Vegard J. Løwe'
 authorlink: /team/vegard/
 role: 'Chief Marketing Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg'
+portrait: '/images/about/vegard.jpg'
 email: mailto:vegardjl@ntention.com
 linkedin: https://www.linkedin.com/in/vegard-lowe/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/1ceea0d2-425f-4264-a02c-2ca435d84dbe.Jpeg'
-postType: /press
+featuredImage: '/images/posts/cec19.jpg'
+postType: "/press"
 categories:
     - category: News
     - category: Events and presentations
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: To give something back to our connections and the innovative community in Norway, together with Maritime Innovation Development we founded the China Entry Challenge.
   title: We are hosting CEC19 - Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/1ceea0d2-425f-4264-a02c-2ca435d84dbe.Jpeg'
+  absoluteImageUrl: '/images/posts/cec19.jpg'
   type: article
 ---
 ####An invaluable network
