@@ -21,7 +21,7 @@ meta:
     </div>
     <div class="column">
         <div class="container">
-            <img src="images/Industrial-machines.jpg" alt="Industrial Machines">
+            <img src="/images/technology/Industrial-machines.jpg" alt="Industrial Machines">
         </div>
     </div>
 </div>
@@ -38,7 +38,7 @@ meta:
 <div class="row space-100t">
 <div class="column">
     <div class="container">
-      <img src="https://cdn.image4.io/ntention/f_auto/News/53963b1d-e43b-4346-b0c5-f510db8eda69.Jpeg" alt="Industrial Machine">
+      <img src="/images/technology/Control-machines.jpg" alt="Industrial Machine">
     </div>
 </div>
 <div class="column">
@@ -70,7 +70,7 @@ meta:
 </div>
 <div class="column">
     <div class="container">
-        <img src="https://cdn.image4.io/ntention/f_auto/News/776f0645-b20f-47e8-909b-0723030f486d.Jpeg" alt="Natural interaction">
+        <img src="/images/technology/Industrial-machine.jpg" alt="Natural interaction">
     </div>
 </div>
 </div>

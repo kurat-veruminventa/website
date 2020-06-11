@@ -5,7 +5,7 @@ title: Sondre Tagestad
 role: Lead Hardware / Software Engineer
 email: "mailto:sondre@ntention.com"
 linkedin: "https://www.linkedin.com/in/sondre-tagestad-a875b0173/"
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Team/6ba3ccac-efbd-4586-bc7c-11c9a3da043c.Jpeg'
+featuredImage: /images/about/Sondre.jpg
 meta:
   description: Former pig farmer, active marathon runner, and technical wizard. Sondre is unbelievable, he always gets the job done without compromise …
   title: Sondre Tagestad

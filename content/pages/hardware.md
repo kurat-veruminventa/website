@@ -19,12 +19,12 @@ meta:
         Ntention delivers high-quality hardware equipment from one of the global leaders within wearable sensor technology.  
         </div>
         <div class="column3 left space-20t mobile-small">
-          <img src="https://cdn.image4.io/ntention/f_auto/Technology/98c51b5e-67df-4b12-a9b1-ce15fdc0b617.Png" alt="Natural interaction">
+          <img src="/images/technology/certified-dealer-white.png" alt="Natural interaction">
         </div>
     </div>
     <div class="column">
         <div class="container">
-            <img src="https://cdn.image4.io/ntention/f_auto/Technology/2f033a6a-0e50-4344-8d2a-e0a4e2cd7af2.Jpeg" alt="Virtual reality gloves">
+            <img src="/images/technology/Manus-Prime-Haptic.jpg" alt="Virtual reality gloves">
         </div>
     </div>
 </div>
@@ -41,8 +41,8 @@ meta:
 <div class="row space-100t reverse">
 <div class="column links">
     <h6>Manus VR</h6>
-    <h2>Prime One</h2>
-    The Prime One is the core of Manus' product line, an
+    <h2>Prime II</h2>
+    The Prime II is the core of Manus' product line, an
     all-round wireless data glove that tracks individual
     fingers on two joints, and that can stream the
     data directly into Unity, Unreal, Motionbuilder or
@@ -52,7 +52,7 @@ meta:
 </div>
 <div class="column">
     <div class="container">
-      <img src="https://cdn.image4.io/ntention/f_auto/Technology/73ad7945-2351-4e80-b231-7fb96247ea36.Jpeg" alt="Manus Prime One">
+      <img src="/images/technology/Prime-2.jpg" alt="Manus Prime II">
     </div>
 </div>
 </div>
@@ -60,7 +60,7 @@ meta:
 <div class="row reverse">
 <div class="column">
     <h6>Manus VR</h6>
-    <h2>Prime Haptic</h2>
+    <h2>Prime II Haptic</h2>
     The Haptic Prime is a Prime One with linear resonant
     actuators. It provides unique haptic signals depending on
     the type of material and how much virtual force is applied.
@@ -71,7 +71,7 @@ meta:
 </div>
 <div class="column">
     <div class="container">
-      <img src="https://cdn.image4.io/ntention/f_auto/Technology/d053ace2-3e53-49fb-bbc4-0a8763457ae0.Jpeg" alt="Manus Prime Haptic">
+      <img src="/images/technology/Prime-2-Haptic.jpg" alt="Manus Prime II Haptic">
     </div>
 </div>
 </div>
@@ -79,7 +79,7 @@ meta:
 <div class="row reverse">
 <div class="column">
     <h6>Manus VR</h6>
-    <h2>Prime Xsens</h2>
+    <h2>Prime II Xsens</h2>
     The Xsens Prime is a glove designed for
     integration into a Xsens motion capture suit, to
     complete the hand with finger data on their IMU
@@ -88,7 +88,7 @@ meta:
 </div>
 <div class="column">
     <div class="container">
-      <img src="https://cdn.image4.io/ntention/f_auto/Technology/f900f170-6e20-4537-8528-69490a0daff0.Jpeg" alt="Manus XSens">
+      <img src="/images/technology/Prime-2-xsens.jpg" alt="Manus Prime II XSens">
     </div>
 </div>
 </div>
@@ -113,7 +113,7 @@ meta:
 </div>
 <div class="column">
     <div class="container">
-        <img src="https://cdn.image4.io/ntention/f_auto/Technology/2f033a6a-0e50-4344-8d2a-e0a4e2cd7af2.Jpeg" alt="Natural interaction">
+        <img src="/images/technology/Manus-Prime-Haptic.jpg" alt="Natural interaction">
     </div>
 </div>
 </div>

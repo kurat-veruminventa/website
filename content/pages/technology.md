@@ -42,7 +42,7 @@ meta:
     <div class="full-width-white technology-section-white">
         <div class="column" id="space">
             <div class="container">
-              <img src="images/Astronautglove-showcase.jpg" alt="Space">
+              <img src="images/technology/Astronautglove-showcase.jpg" alt="Space">
             </div>
         </div>
         <div class="column">
@@ -67,14 +67,14 @@ meta:
         </div>
         <div class="column" id="virtual-reality">
             <div class="container">
-              <img src="https://cdn.image4.io/ntention/f_auto/Technology/802c6ae9-df9f-4b66-9c2b-461528e668a4.Jpeg" alt="Natural Virtual Reality">
+              <img src="/images/technology/VR-showcase.jpg" alt="Natural Virtual Reality">
             </div>
         </div>
     </div>
     <div class="full-width-white technology-section-white">
         <div class="column" id="real-estate">
             <div class="container">
-              <img src="images/Real-estate-showcase.jpg" alt="Immersive Real Estate">
+              <img src="images/technology/Real-estate-showcase.jpg" alt="Immersive Real Estate">
             </div>
         </div>
         <div class="column">
@@ -99,14 +99,14 @@ meta:
         </div>
         <div class="column" id="music-glove">
             <div class="container">
-              <img src="images/Music-glove.jpg" alt="Music Production">
+              <img src="images/technology/Music-glove.jpg" alt="Music Production">
             </div>
         </div>
     </div>
     <div class="full-width-white technology-section-white">
         <div class="column" id="industrial-machines">
             <div class="container">
-              <img src="images/Industrial-machines.jpg" alt="Intuitive industrial machines">
+              <img src="images/technology/Industrial-machines.jpg" alt="Intuitive industrial machines">
             </div>
         </div>
         <div class="column">

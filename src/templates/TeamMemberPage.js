@@ -14,8 +14,10 @@ import Image from '../components/Image'
 import { ChevronLeft } from 'react-feather'
 import './SinglePost.css'
 
+
 // Export Template for use in CMS preview
 export const TeamMemberPageTemplate = ({ title, subtitle, featuredImage, body, role, email, linkedin, education, skills }) => (
+
   <main className="Investor">
 
 
@@ -29,7 +31,8 @@ export const TeamMemberPageTemplate = ({ title, subtitle, featuredImage, body, r
 
     <div class="row container">
         <div class="column">
-        <Image src={featuredImage} alt="" className={'container team-image'} />
+        <Image fluid={featuredImage} alt="" className={'container team-image'} />
+        <Image src="/images/about/Frank.jpg" alt="" className={'container team-image'} />
         </div>
         <div class="column">
         <h6><Content source={role} className={'team-padding'}/> </h6>
@@ -89,7 +92,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         subtitle
-        featuredImage
         role
         email
         linkedin

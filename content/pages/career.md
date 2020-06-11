@@ -2,7 +2,7 @@
 template: CareerPage
 slug: career
 title: Career
-featuredImage: ''
+featuredImage: 
 subtitle: It takes visionary people to push boundaries and lead a generation through paradigm shifts. It is necessary to rethink entire industries and challenge the established procedures and operations.  
 meta:
   description: It takes visionary people to push boundaries and lead a generation through paradigm shifts. It is necessary to rethink entire industries and challenge the established procedures and operations.

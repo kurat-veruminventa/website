@@ -21,7 +21,7 @@ meta:
     </div>
     <div class="column">
         <div class="container">
-            <img src="images/Music-glove.jpg" alt="Music Glove">
+            <img src="/images/technology/Music-glove.jpg" alt="Music Glove">
         </div>
     </div>
 </div>
@@ -38,7 +38,7 @@ meta:
 <div class="row space-100t">
 <div class="column">
     <div class="container">
-      <img src="https://cdn.image4.io/ntention/f_auto/News/8b855bd9-9fed-43cb-8792-a58f5cce32d5.Jpeg" alt="Music Glove Live">
+      <img src="/images/technology/Music-glove-live.jpg" alt="Music Glove Live">
     </div>
 </div>
 <div class="column">

@@ -39,9 +39,9 @@ meta:
 <div class="row space-100t">
 <div class="column">
     <div class="container">
-      <img src="images/Manus-VR.jpg" alt="Haptic Gloves for Virtual Reality">
+      <img src="/images/technology/Prime-2-haptic.jpg" alt="Haptic Gloves for Virtual Reality">
       <div class="column3 right mobile-small">
-        <img src="https://cdn.image4.io/ntention/f_auto/Technology/b99d18be-caa0-49e0-a6d7-52cb09ea79f9.Png" alt="Natural interaction">
+        <img src="/images/technology/certified-dealer-dark.png" alt="Natural interaction">
       </div>
     </div>
 </div>
@@ -75,7 +75,7 @@ meta:
 </div>
 <div class="column">
     <div class="container">
-        <img src="https://cdn.image4.io/ntention/f_auto/Technology/bd20e07a-b7b9-4cb9-bb3c-5f29ca4e2c45.Jpeg" alt="Virtual property viewings">
+        <img src="/images/technology/Rendered-apartments.jpg" alt="Virtual property viewings">
     </div>
 </div>
 </div>

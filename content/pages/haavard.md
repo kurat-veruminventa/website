@@ -5,7 +5,7 @@ title: Håvard Pedersen Brandal
 role: Lead Software Engineer
 email: "mailto:hpbrandal@ntention.com"
 linkedin: "https://www.linkedin.com/in/h%C3%A5vard-pedersen-brandal-a5587a160/"
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Team/dcdb0af6-c2a8-4dfa-a47e-35099cad940c.Jpeg'
+featuredImage: /images/about/Håvard.jpg
 meta:
   description: Håvard is essential to our technical core. He is writing his masters on gesture recognition. Håvard is also a true adventurer having traveled around …
   title: Håvard Pedersen Brandal

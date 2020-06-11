@@ -34,7 +34,7 @@ In order to let anyone control any machine we need to make the interaction easy 
 <div class="row">
   <div class="column">
     <div class="container hover-image full-mobile"><a href="/posts/astronaut-smart-glove/">
-      <img src="images/Astronautglove-showcase.jpg" alt="Astronaut Smart Glove">
+      <img src="/images/technology/Astronautglove-showcase.jpg" alt="Astronaut Smart Glove">
       <div class="text-block">
         <h6>Astronaut smart glove</h6>
         <h3>Intuitive spacesuits</h3>
@@ -44,7 +44,7 @@ In order to let anyone control any machine we need to make the interaction easy 
 </div>
 <div class="column">
     <div class="container hover-image full-mobile"><a href="/technology/virtual-reality">
-      <img src="images/VR-showcase.jpg" alt="Virtual Reality">
+      <img src="/images/technology/VR-showcase.jpg" alt="Virtual Reality">
       <div class="text-block">
         <h6>Virtual reality</h6>
         <h3>Immersive experience</h3>

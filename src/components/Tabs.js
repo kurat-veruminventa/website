@@ -15,7 +15,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/magnus">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/ffc40370-e453-481e-8e61-89b73d560a8e.Jpeg" alt="Magnus Arveng" />
+        <Image src="/images/about/Magnus.jpg" alt="Magnus Arveng" />
         </a>
     </div>
     <div class="team-right">
@@ -37,7 +37,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/moina">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/a54dca7d-1658-4dbf-b1df-48fad2583f8e.Jpeg" alt="Moina Tamuly" />
+        <Image src="/images/about/Moina.jpg" alt="Moina Tamuly" />
         </a>
     </div>
     <div class="team-right">
@@ -59,7 +59,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/fredrik">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/723524f4-38f1-4c35-a6b4-d321fc95f581.Jpeg" alt="Fredrik Shaughnessy Ahlborg" />
+        <Image src="/images/about/Fredrik.jpg" alt="Fredrik Shaughnessy Ahlborg" />
         </a>
     </div>
     <div class="team-right">
@@ -81,7 +81,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/vegard">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg" alt="Vegard J. Løwe" />
+        <Image src="/images/about/Vegard.jpg" alt="Vegard J. Løwe" />
         </a>
     </div>
     <div class="team-right">
@@ -106,7 +106,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/haakon">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/050ff233-c8ca-44ec-8c0a-b4de723884a6.Jpeg" alt="Haakon Fuhre Pettersen" />
+        <Image src="/images/about/Haakon.jpg" alt="Haakon Fuhre Pettersen" />
         </a>
     </div>
     <div class="team-right">
@@ -128,7 +128,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/frank">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/4320fb78-b50d-40f0-8ae9-c94d1731ef76.Jpeg" alt="Frank Øygard" />
+        <Image src="/images/about/Frank.jpg" alt="Frank Øygard" />
         </a>
     </div>
     <div class="team-right">
@@ -150,7 +150,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/kasper">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/d0e5857b-bfe8-4a18-84d3-27af00aa8c22.Jpeg" alt="Kasper Rise" />
+        <Image src="/images/about/Kasper.jpg" alt="Kasper Rise" />
         </a>
     </div>
     <div class="team-right">
@@ -172,7 +172,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/sondre">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/6ba3ccac-efbd-4586-bc7c-11c9a3da043c.Jpeg" alt="Sondre Tagestad" />
+        <Image src="/images/about/Sondre.jpg" alt="Sondre Tagestad" />
         </a>
     </div>
     <div class="team-right">
@@ -194,7 +194,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/haavard">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/dcdb0af6-c2a8-4dfa-a47e-35099cad940c.Jpeg" alt="Håvard Pedersen Brandal" />
+        <Image src="/images/about/Håvard.jpg" alt="Håvard Pedersen Brandal" />
         </a>
     </div>
     <div class="team-right">
@@ -216,7 +216,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/gulleik">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/1acf1112-4ba2-474e-b51c-d39564af57cf.Jpeg" alt="Gulleik Olsen" />
+        <Image src="/images/about/Gulleik.jpg" alt="Gulleik Olsen" />
         </a>
     </div>
     <div class="team-right">
@@ -238,7 +238,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/jostein">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/a72461c7-b1bd-4491-9739-f1707dbd4116.Jpeg" alt="Jostein Nordal Lysberg" />
+        <Image src="/images/about/Jostein.jpg" alt="Jostein Nordal Lysberg" />
         </a>
     </div>
     <div class="team-right">
@@ -261,7 +261,7 @@ export default () => (
     <TabPanel>
     <section class="section thinner left">
     <div class="team-left team">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/72610e28-6a0b-4cd0-84c1-58ce76db87ba.Jpeg" alt="Dr Pascal Lee" />
+        <Image src="/images/about/Pascal-lee.jpg" alt="Dr Pascal Lee" />
     </div>
     <div class="team-right">
       <h6>Co-Founder & chairman of Mars Institute</h6>
@@ -273,7 +273,7 @@ export default () => (
     </section>
     <section class="section thinner left">
     <div class="team-left team">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/90239bf0-8be2-498e-85f4-6865fa186b25.Jpeg" alt="Eirik Wahlstrøm" />
+        <Image src="/images/about/Eirik-wahlstrom.jpg" alt="Eirik Wahlstrøm" />
     </div>
     <div class="team-right">
       <h6>Co-Founder & CEO at Ludenso</h6>
@@ -285,7 +285,7 @@ export default () => (
     </section>
     <section class="section thinner left">
     <div class="team-left team">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/3e3ad985-6442-4159-86f7-0369822511ce.Jpeg" alt="Anne Peggy Schiefloe" />
+        <Image src="/images/about/Anne-Peggy-Schiefloe.jpg" alt="Anne Peggy Schiefloe" />
     </div>
     <div class="team-right">
       <h6>Incubator manager at T:lab</h6>
@@ -297,7 +297,7 @@ export default () => (
     </section>
     <section class="section thinner left">
     <div class="team-left team">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/7f5a4761-8e8a-469f-bf65-237e060adc6c.Jpeg" alt="Harald Fredrik Ulltveit-Moe" />
+        <Image src="/images/about/Harald-fredrik-ulltveit-moe.jpg" alt="Harald Fredrik Ulltveit-Moe" />
     </div>
     <div class="team-right">
       <h6>Angel investor & Entrepreneur</h6>
@@ -309,7 +309,7 @@ export default () => (
     </section>
     <section class="section thinner left">
     <div class="team-left team">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/4b92a46e-4b7e-4720-9e96-b2a6502e926e.Jpeg" alt="Bjørn Haugland" />
+        <Image src="/images/about/Bjørn-Haughland.jpg" alt="Bjørn Haugland" />
     </div>
     <div class="team-right">
       <h6>Serial Entrepreneur</h6>
@@ -321,7 +321,7 @@ export default () => (
     </section>
     <section class="section thinner left">
     <div class="team-left team">
-        <Image src="https://cdn.image4.io/ntention/f_auto/Team/139471b5-b42d-4932-be88-59de41f00bf0.Jpeg" alt="Kristine Løvflaten Koslung" />
+        <Image src="/images/about/Kristine-Koslung.jpg" alt="Kristine Løvflaten Koslung" />
     </div>
     <div class="team-right">
       <h6>Business developer & BA Ambassador for ESA</h6>

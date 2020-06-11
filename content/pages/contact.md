@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact
-featuredImage: ''
+featuredImage: 
 subtitle: 'Interested in learning more about our technology and services? Our entire team is available for discussion to ensure you are receiving the best information possible. We are here to help!'
 address: 'VM-paviljongen, 7034 Trondheim, Norway'
 secondaddress: 'Sem Sælands vei 1, 7034 Trondheim, Norway'

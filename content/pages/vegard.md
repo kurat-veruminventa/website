@@ -5,7 +5,7 @@ title: Vegard J. Løwe
 role: Chief Marketing Officer
 email: "mailto:vegardjl@ntention.com"
 linkedin: "https://www.linkedin.com/in/vegard-lowe/"
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg'
+featuredImage: /images/about/Vegard.jpg
 meta:
   description: Vegard is extremely focused and knows what he wants. He is self-taught in design and is doing a double degree at NTNU. Already having …
   title: Vegard J. Løwe
