@@ -9,7 +9,7 @@ role: 'Chief Marketing Officer'
 portrait: '/images/about/vegard.jpg'
 email: mailto:vegardjl@ntention.com
 linkedin: https://www.linkedin.com/in/vegard-lowe/
-featuredImage: '/images/posts/cec19.jpg'
+featuredImage: 'https://ntention.com/images/posts/cec19.jpg'
 postType: "/press"
 categories:
     - category: News
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: To give something back to our connections and the innovative community in Norway, together with Maritime Innovation Development we founded the China Entry Challenge.
   title: We are hosting CEC19 - Ntention
-  absoluteImageUrl: '/images/posts/cec19.jpg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/cec19.jpg'
   type: article
 ---
 ####An invaluable network
