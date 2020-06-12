@@ -2,12 +2,12 @@
 template: HomePage
 slug: ''
 title: Capturing human intent
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 subtitle: ''
 meta:
   description: Ntention is a Norwegian tech company specialized in intuitive interaction systems. In order to let anyone control any machine we need to make the interaction easy and intuitive. In short time the company has developed groundbreaking technology for use of hand gestures in VR for the construction industry and has an on-going research project with NASA partners for developing interaction systems in next-generation spacesuits.
   title: Ntention - Capturing human intent
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: website
 ---
 

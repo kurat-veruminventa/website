@@ -2,12 +2,12 @@
 template: CareerPage
 slug: career
 title: Career
-featuredImage: 
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 subtitle: It takes visionary people to push boundaries and lead a generation through paradigm shifts. It is necessary to rethink entire industries and challenge the established procedures and operations.  
 meta:
   description: It takes visionary people to push boundaries and lead a generation through paradigm shifts. It is necessary to rethink entire industries and challenge the established procedures and operations.
   title: Career
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: website
 ---
 

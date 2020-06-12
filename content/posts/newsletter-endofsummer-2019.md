@@ -6,10 +6,10 @@ date: '2019-09-25'
 author: 'Vegard J. Løwe'
 authorlink: /team/vegard/
 role: 'Chief Marketing Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg'
+portrait: 'https://ntention.com/images/about/Vegard.jpg'
 email: mailto:vegardjl@ntention.com
 linkedin: https://www.linkedin.com/in/vegard-lowe/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/6637b2f8-0519-4be2-8f1f-3dd519cfe64f.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Norconsult.jpg'
 postType: /press
 categories:
     - category: News
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: We made time schedules and equipment orders to make sure our summer projects would get a flying start. The opportunity of working in our field of interest for highly recognized companies like Norconsult and Nordic Semiconductor make us humble and grateful.
   title: Newsletter - Early Summer 2019
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/6637b2f8-0519-4be2-8f1f-3dd519cfe64f.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Norconsult.jpg'
   type: article
 ---
 ####Main Story
@@ -55,7 +55,7 @@ Our three summer internships at Norconsult this summer saw us delving into Virtu
 
 We worked extremely hard to get input data to the game engine, create algorithms for accurate animation of finger movement, and to implement positional tracking for the hands. The result was an accurate render of a hand in VR! We had completed our initial goal early, which enabled us to develop a cutting-edge, gesture-based interaction system. We implemented grip- and teleport functionality, and developed ways to use the VR system on large 3D BIM models. We worked closely with Norconsult to tailor an interaction system to their needs, both for architects, engineers, and training purposes.
 
-![Norconsult Presentation](https://cdn.image4.io/ntention/f_auto/News/83ccfbdd-829c-4c59-a9b3-3992a1fdda20.Jpeg)
+![Norconsult Presentation]('https://ntention.com/images/posts/Norconsult-presenting.jpg')
 
 ####Completion of our summer project at Norconsult
 The 23rd of August 2019, we concluded our 3 summer internships at Norconsult with a presentation and technical demo! It was an amazing experience working close with Norconsult, and we have gotten invaluable insight into the construction industry, technology implementation, and collaboration. We will continue to develop our VR interaction system, and we have discovered many potential use cases, both for visualization, rapid prototyping, digital twins and collaboration.
@@ -63,7 +63,7 @@ The 23rd of August 2019, we concluded our 3 summer internships at Norconsult wit
 ####Connection with Manus VR
 During our summer internship, a Dutch company called Manus VR launched their VR gloves, a product nearly identical to our technical solution. Therefore, we went on a trip to the Netherlands to visit Manus VR and were able to get our hands on a set of gloves. While we used our own gloves for this summer project, we are eager to develop our interaction system further for other gloves, like the Manus VR gloves. This way, we can focus purely on software development rather than hardware!
 
-![China Entry Challenge](https://cdn.image4.io/ntention/f_auto/News/165b21d3-9b32-4b83-9269-b562d5d1611c.Jpeg)
+![China Entry Challenge]('https://ntention.com/images/posts/cec.jpg')
 
 ####China Entry Challenge 2019
 Since we began the planning of a completely new event in May this year, we finally managed to gather investors, startups, entrepreneurs, and students on August 29. China Entry Challenge included great pitches, interesting speakers and a great insight into the innovative community in Trondheim. After an exciting pitching competition at China Entry Challenge, our Panel of Judges selected a well-deserved winner. The winner of the competition was **Capeesh**!

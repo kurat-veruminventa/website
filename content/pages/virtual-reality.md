@@ -2,12 +2,12 @@
 template: VirtualRealityPage
 slug: technology/virtual-reality
 title: Virtual Reality
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Technology/802c6ae9-df9f-4b66-9c2b-461528e668a4.Jpeg'
+featuredImage: 'https://ntention.com/images/technology/Manus-Prime-Haptic.jpg'
 subtitle:
 meta:
   description: Our Machine Learning-based Gesture Recognition enables you to use specific hand movements, like a flick of the wrist or a set of finger movements, to control an AR/VR application. This intuitive  way of interaction lets  the user “show” the software what to do, rather than using a set of button clicks, levers or sticks to control the software.
   title: Virtual Reality
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Technology/802c6ae9-df9f-4b66-9c2b-461528e668a4.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/technology/Manus-Prime-Haptic.jpg'
   type: website
 ---
 

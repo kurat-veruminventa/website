@@ -2,12 +2,12 @@
 template: AboutPage
 slug: about
 title: About
-featuredImage: 
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 subtitle: Ntention is a young and ambitious tech company based in Northern Europe, Norway. Our work strives to enhance human-machine interaction and develop intuitive interaction systems.
 meta:
   description: Ntention is a young and ambitious tech company based in Northern Europe, Norway. Our work strives to enhance human-machine interaction and develop intuitive interaction systems.
   title: About
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: website
 ---
 

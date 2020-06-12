@@ -6,10 +6,10 @@ date: '2019-11-20'
 author: 'Haakon Fuhre Pettersen'
 authorlink: /team/haakon/
 role: 'Chief Technology Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/050ff233-c8ca-44ec-8c0a-b4de723884a6.Jpeg'
+portrait: 'https://ntention.com/images/about/Haakon.jpg'
 email: mailto:hfp@ntention.com
 linkedin: https://www.linkedin.com/in/haakon-fuhre-pettersen/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Researchposts/07560345-eb1b-4dc4-b99d-1a3c3cfd6063.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/An-immersive-user-experience.jpg'
 postType: /research
 categories:
     - category: Research
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: As ordinary controllers are not fully able to simulate this feeling, XR gloves and interaction systems have an enormous advantage in creating life-like simulations and games.
   title: An Immersive User Experience - Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Researchposts/07560345-eb1b-4dc4-b99d-1a3c3cfd6063.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/An-immersive-user-experience.jpg'
   type: article
 ---
 ####A disrupting movement

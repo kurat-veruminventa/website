@@ -2,12 +2,12 @@
 template: VirtualRealityPage
 slug: technology/real-estate
 title: Real Estate
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Technology/802c6ae9-df9f-4b66-9c2b-461528e668a4.Jpeg'
+featuredImage: 'https://ntention.com/images/technology/Manus-Prime-Haptic.jpg'
 subtitle:
 meta:
   description: By being able to move furniture and "design their own dream property", the end user will by emotionally invested in the property itself, increasing their interest and increasing the chance of real estate sales.
   title: Real Estate
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Technology/802c6ae9-df9f-4b66-9c2b-461528e668a4.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/technology/Manus-Prime-Haptic.jpg'
   type: website
 ---
 

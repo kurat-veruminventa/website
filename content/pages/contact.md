@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact
-featuredImage: 
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 subtitle: 'Interested in learning more about our technology and services? Our entire team is available for discussion to ensure you are receiving the best information possible. We are here to help!'
 address: 'VM-paviljongen, 7034 Trondheim, Norway'
 secondaddress: 'Sem Sælands vei 1, 7034 Trondheim, Norway'
@@ -15,7 +15,7 @@ locations:
 meta:
   description: Interested in learning more about our technology and services? Our entire team is available for discussion to ensure you are receiving the best information possible. We are here to help!
   title: Contact
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: website
 ---
 

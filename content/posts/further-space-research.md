@@ -6,10 +6,10 @@ date: '2019-12-23'
 author: 'Vegard J. Løwe'
 authorlink: /team/vegard/
 role: 'Chief Marketing Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg'
+portrait: 'https://ntention.com/images/about/Vegard.jpg'
 email: mailto:vegardjl@ntention.com
 linkedin: https://www.linkedin.com/in/vegard-lowe/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/371da6ee-07db-440e-ad77-fb28edf1ea5e.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Further-space-research.jpg'
 postType: /press
 categories:
     - category: News
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: December 2019, we can announce that Ntention will be a part of this valuable network in 2020. With the support from Kjeller Innovasjon and partners of ESA BIC, Ntention will continue the research on space-related technology, in particular, the Astronaut Smart Glove. The membership of ESA BIC Norway provides Ntention with additional research funds of € 25 000.
   title: €72 0000 for further space development - Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/371da6ee-07db-440e-ad77-fb28edf1ea5e.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Further-space-research.jpg'
   type: article
 ---
 ####High-valued network of space-related companies

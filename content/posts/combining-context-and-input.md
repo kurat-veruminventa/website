@@ -6,10 +6,10 @@ date: '2019-10-31'
 author: 'Haakon Fuhre Pettersen'
 authorlink: /team/haakon/
 role: 'Chief Technology Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/050ff233-c8ca-44ec-8c0a-b4de723884a6.Jpeg'
+portrait: 'https://ntention.com/images/about/Haakon.jpg'
 email: mailto:hfp@ntention.com
 linkedin: https://www.linkedin.com/in/haakon-fuhre-pettersen/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Researchposts/b68bf460-8aea-4891-9d89-0eaf47afe759.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Mixed-inputs.jpg'
 postType: /research
 categories:
     - category: Research
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: Combining ‘Mixed Input’ with ‘Contextual Information’, whether it is in AR, VR, MR or when controlling machines, the smart interaction system is able to understand the intent of the user and pass on the correct command.
   title: Combining Context and Input Methods - Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Researchposts/b68bf460-8aea-4891-9d89-0eaf47afe759.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Mixed-inputs.jpg'
   type: article
 ---
 ####Imagine combining varous input methods

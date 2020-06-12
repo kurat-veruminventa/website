@@ -2,12 +2,12 @@
 template: VirtualRealityPage
 slug: technology/industrial-machines
 title: Industrial Machines
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/53963b1d-e43b-4346-b0c5-f510db8eda69.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Industrial-machines.jpg'
 subtitle:
 meta:
   description: By using natural human motion you can control heavy industrial machines without use any effort or be nearby dangerous areas.
   title: Industrial Machines
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/53963b1d-e43b-4346-b0c5-f510db8eda69.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Industrial-machines.jpg'
   type: website
 ---
 

@@ -2,12 +2,12 @@
 template: TechnologyPage
 slug: technology
 title: Technology
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 subtitle: Ntention develop software and hardware to enable users to interact with technology in a new way. We focus on sensor-based smart gloves and Ntention Software Platform.
 meta:
   description: Ntention develop software and hardware to enable users to interact with technology in a new way. We focus on sensor-based smart gloves and Ntention Software Platform.
   title: Technology
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: website
 ---
 

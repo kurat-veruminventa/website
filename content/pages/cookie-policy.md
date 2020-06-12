@@ -2,12 +2,12 @@
 template: DefaultPage
 slug: cookie-policy
 title: Cookie Policy
-featuredImage: 
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 subtitle:
 meta:
   description: This Cookie Policy explains what cookies are and how we use them. You should read this policy to understand what cookies are, how we use them, the types of cookies we use i.e, the information we collect using cookies and how that information is used and how to control the cookie preferences.
   title: Cookie Policy
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: website
 ---
 

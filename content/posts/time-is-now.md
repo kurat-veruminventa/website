@@ -6,10 +6,10 @@ date: '2019-10-27'
 author: 'Frank Øygard'
 authorlink: /team/frank/
 role: 'Head of Research'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/4320fb78-b50d-40f0-8ae9-c94d1731ef76.Jpeg'
+portrait: 'https://ntention.com/images/about/Frank.jpg'
 email: mailto:frank@ntention.com
 linkedin: https://www.linkedin.com/in/frank-alexander-%C3%B8ygard-11301a138/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Researchposts/db9aa602-cc22-4054-871f-4cd57f70820a.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Time-is-now.jpg'
 postType: /research
 categories:
     - category: Research
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: By combining big data, cognitive computing, artificial intelligence and human intelligence we can move beyond the current state of interaction systems, from machine-centered to human-centered systems, from motion capture to intention capture, effectively giving our future selves superpowers.
   title: Intuitive Interaction - Why the Time is Now - Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Researchposts/db9aa602-cc22-4054-871f-4cd57f70820a.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Time-is-now.jpg'
   type: article
 ---
 ####Unique time of rapid technological development

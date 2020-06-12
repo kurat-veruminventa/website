@@ -6,10 +6,10 @@ date: '2019-12-16'
 author: 'Haakon Fuhre Pettersen'
 authorlink: /team/haakon/
 role: 'Chief Technology Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/050ff233-c8ca-44ec-8c0a-b4de723884a6.Jpeg'
+portrait: 'https://ntention.com/images/about/Haakon.jpg'
 email: mailto:hfp@ntention.com
 linkedin: https://www.linkedin.com/in/haakon-fuhre-pettersen/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Researchposts/50ff170f-b171-4d1a-aef4-eaaaa2562c2f.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Flexible-interaction-system.jpg'
 postType: /research
 categories:
     - category: Research
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: Ntention seeks to solve this problem by creating intelligent software combining multiple input methods with contextual information, to understand the intention behind each input event and perform the correct output.
   title: Achieving a Flexible Interaction System - Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Researchposts/50ff170f-b171-4d1a-aef4-eaaaa2562c2f.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Flexible-interaction-system.jpg'
   type: article
 ---
 ####A fully flexible interaction system

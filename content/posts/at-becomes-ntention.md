@@ -6,10 +6,10 @@ date: '2019-08-01'
 author: 'Vegard J. Løwe'
 authorlink: /team/vegard/
 role: 'Chief Marketing Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg'
+portrait: 'https://ntention.com/images/about/Vegard.jpg'
 email: mailto:vegardjl@ntention.com
 linkedin: https://www.linkedin.com/in/vegard-lowe/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/6512b141-87d7-4c9d-a698-62b2a669ff35.Png'
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 postType: /press
 categories:
     - category: News
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: We have gone from a hardware company focused on the consumer market, to a B2B SaaS company utilizing state-of-the-art hardware to fit our needs. We have transitioned from making a drone glove for fun, to focusing on delivering real value through intelligent software combined with innovative input methods, like motion-capture hardware.
   title: Arveng Technologies becomes Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/6512b141-87d7-4c9d-a698-62b2a669ff35.Png'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: article
 ---
 ####Aligning our name with our vision

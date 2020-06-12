@@ -6,10 +6,10 @@ date: '2019-11-26'
 author: 'Vegard J. Løwe'
 authorlink: /team/vegard/
 role: 'Chief Marketing Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg'
+portrait: 'https://ntention.com/images/about/Vegard.jpg'
 email: mailto:vegardjl@ntention.com
 linkedin: https://www.linkedin.com/in/vegard-lowe/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/45eae256-7529-4bda-8615-dd5fb34f27b8.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Slush.jpg'
 postType: /press
 categories:
     - category: News
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: Ntention has participated in the event for years, and this year was no exception. This year we brought with our new technology and stories from our participating at NASA Haughton-Mars Project. The connection to SETI Institute caught astronaut Matthias Maurer’s attention and after a quick demonstration of the glove, we received highly valuable feedback.
   title: Slush 2019 - Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/45eae256-7529-4bda-8615-dd5fb34f27b8.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Slush.jpg'
   type: article
 ---
 ####Huge startup and entrepreneur event

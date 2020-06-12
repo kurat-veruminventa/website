@@ -2,12 +2,12 @@
 template: DefaultPage
 slug: privacy-policy
 title: Privacy Policy
-featuredImage: ''
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 subtitle:
 meta:
   description: This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website https://ntention.com, including any other media form, media channel, or mobile website. Please read this privacy policy carefully.  If you do not agree with the terms of this privacy policy, please do not access the site.
   title: Privacy Policy
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: website
 ---
 

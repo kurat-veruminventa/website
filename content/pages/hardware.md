@@ -2,12 +2,12 @@
 template: VirtualRealityPage
 slug: technology/hardware
 title: Hardware
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Technology/2f033a6a-0e50-4344-8d2a-e0a4e2cd7af2.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 subtitle:
 meta:
   description: Our Machine Learning-based Gesture Recognition enables you to use specific hand movements, like a flick of the wrist or a set of finger movements, to control an AR/VR application. This intuitive  way of interaction lets  the user “show” the software what to do, rather than using a set of button clicks, levers or sticks to control the software.
   title: Hardware
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Technology/2f033a6a-0e50-4344-8d2a-e0a4e2cd7af2.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: website
 ---
 

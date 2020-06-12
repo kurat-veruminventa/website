@@ -6,7 +6,7 @@ date: '2019-07-31'
 author: 'Vegard J. Løwe'
 authorlink: /team/vegard/
 role: 'Chief Marketing Officer'
-portrait: '/images/about/vegard.jpg'
+portrait: 'https://ntention.com/images/about/Vegard.jpg'
 email: mailto:vegardjl@ntention.com
 linkedin: https://www.linkedin.com/in/vegard-lowe/
 featuredImage: 'https://ntention.com/images/posts/cec19.jpg'

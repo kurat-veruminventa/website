@@ -6,10 +6,10 @@ date: '2019-07-01'
 author: 'Vegard J. Løwe'
 authorlink: /team/vegard/
 role: 'Chief Marketing Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg'
+portrait: 'https://ntention.com/images/about/Vegard.jpg'
 email: mailto:vegardjl@ntention.com
 linkedin: https://www.linkedin.com/in/vegard-lowe/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/6c18d435-28b3-4ea4-a409-e7174f55b007.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/StartupExtreme-thumbnail.jpg'
 postType: /press
 categories:
     - category: News
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: Great fun to participate at Startup Extreme 2019! Meeting exciting people with inspiring ideas at events like this give us a boost to keep pushing at our on-going adventure.
   title: Startup Extreme 2019 - Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/6c18d435-28b3-4ea4-a409-e7174f55b007.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/StartupExtreme-thumbnail.jpg'
   type: article
 ---
 ####A festival packed with extreme individuals

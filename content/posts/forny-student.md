@@ -6,10 +6,10 @@ date: '2020-04-23'
 author: 'Vegard J. Løwe'
 authorlink: /team/vegard/
 role: 'Chief Marketing Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/597c3a27-578c-4e4b-aa78-035422728ca9.Jpeg'
+portrait: 'https://ntention.com/images/about/Vegard.jpg'
 email: mailto:vegardjl@ntention.com
 linkedin: https://www.linkedin.com/in/vegard-lowe/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/180be33f-6faf-432c-9932-2dd7c5eede3d.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Forny-student.jpg'
 postType: /press
 categories:
     - category: News
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: Every year, the Research Council of Norway support promising student-driven business ideas with research funds. The funding scheme aims to help to increase entrepreneurship among students by promoting business ideas that have a close link to promising research results.
   title: 1 Million NOK for Research - Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/180be33f-6faf-432c-9932-2dd7c5eede3d.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Forny-student.jpg'
   type: article
 ---
 ####Funds for research and development

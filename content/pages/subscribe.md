@@ -2,12 +2,12 @@
 template: SubscribePage
 slug: subscribe
 title: Subscribe
-featuredImage: ''
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 subtitle:
 meta:
   description:
   title: Subscribe to our newsletter
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: website
 ---
 ######Get updates

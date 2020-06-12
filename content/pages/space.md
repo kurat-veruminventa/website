@@ -2,12 +2,12 @@
 template: VirtualRealityPage
 slug: technology/space
 title: Space
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Space.jpg'
 subtitle:
 meta:
   description: Our technology currently consists of advanced and precise sensor technology integrated into our Smart Gloves. Combined with our intelligent software this allows operators to easily and comfortably  control  UAVs,  industrial  machines  and  interact  in  digital  environments  such  as Augmented Reality and Virtual Reality.
   title: Space
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/News/8af3e96d-450b-4b90-8acb-ea72786a55d5.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Space.jpg'
   type: website
 ---
 

@@ -4,7 +4,7 @@ title: Astronaut Smart Glove
 status: Published
 date: '2019-10-31'
 postType: /press
-featuredImage: 'https://ucarecdn.com/f97d8298-dfae-45e0-8d00-cc60c2b1c379/'
+featuredImage: 'https://ntention.com/images/posts/nasa.jpg'
 excerpt: >-
   The summer 2019 we have been participating on successful field test of an
   “astronaut smart glove” for future human exploration of the Moon, Mars and
@@ -16,11 +16,11 @@ author: Vegard J. Løwe
 authorlink: Test
 email: vegardjl@ntention.com
 linkedin: linkedin.com/vegard-lowe
-portrait: /images/
+portrait: 'https://ntention.com/images/about/Vegard.jpg'
 role: Test
 meta:
   absoluteImageUrl: >-
-    https://cdn.image4.io/ntention/f_auto/News/bffa08dc-448f-437e-90b2-43abdeb05e94.Jpeg
+    https://ntention.com/images/posts/nasa.jpg
   description: >-
     At Devon Island, we were testing our technology implemented in a concept
     spacesuit for various missions. Controlling a drone for scouting, searching,

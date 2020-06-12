@@ -6,10 +6,10 @@ date: '2019-10-11'
 author: 'Haakon Fuhre Pettersen'
 authorlink: /team/haakon/
 role: 'Chief Technology Officer'
-portrait: 'https://cdn.image4.io/ntention/f_auto/Team/050ff233-c8ca-44ec-8c0a-b4de723884a6.Jpeg'
+portrait: 'https://ntention.com/images/about/Haakon.jpg'
 email: mailto:hfp@ntention.com
 linkedin: https://www.linkedin.com/in/haakon-fuhre-pettersen/
-featuredImage: 'https://cdn.image4.io/ntention/f_auto/Researchposts/58869017-298f-44d4-b067-b5a082c54d6a.Jpeg'
+featuredImage: 'https://ntention.com/images/posts/Default.jpg'
 postType: /research
 categories:
     - category: Research
@@ -19,7 +19,7 @@ excerpt: >-
 meta:
   description: Every person is different. Our background and our previous experiences with technology shape the way we interact with both software and hardware. What one person finds intuitive, may not be intuitive for someone else. Thus, it is critical for the interaction system of the future
   title: A Smart, Personalized Interaction System - Ntention
-  absoluteImageUrl: 'https://cdn.image4.io/ntention/f_auto/Researchposts/58869017-298f-44d4-b067-b5a082c54d6a.Jpeg'
+  absoluteImageUrl: 'https://ntention.com/images/posts/Default.jpg'
   type: article
 ---
 ####Distinguish the intent of each individual user
