@@ -4,7 +4,7 @@ slug: team/vegard
 title: Vegard J. Løwe
 role: Chief Marketing Officer
 email: "mailto:vegardjl@ntention.com"
-portrait: '/images/about/Vegard.jpg'
+portrait: /images/about/Vegard.jpg
 linkedin: "https://www.linkedin.com/in/vegard-lowe/"
 featuredImage: '/images/about/Vegard.jpg'
 meta:

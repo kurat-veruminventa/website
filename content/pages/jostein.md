@@ -4,7 +4,7 @@ slug: team/jostein
 title: Jostein Nordal Lysberg
 role: Hardware / Software Engineer
 email: "mailto:jlysberg@ntention.com"
-portrait: '/images/about/Jostein.jpg'
+portrait: /images/about/Jostein.jpg
 linkedin: "https://www.linkedin.com/in/jostein-nordal-lysberg-868453170/"
 featuredImage: '/images/about/Jostein.jpg'
 meta:

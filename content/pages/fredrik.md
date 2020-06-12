@@ -4,7 +4,7 @@ slug: team/fredrik
 title: Fredrik S. Ahlborg
 role: Chief Financiel Officer
 email: "mailto:fredrik.sha@ntention.com"
-portrait: '/images/about/Fredrik.jpg'
+portrait: /images/about/Fredrik.jpg
 linkedin: "https://www.linkedin.com/in/fredrik-shaughnessy-ahlborg-604819126/"
 featuredImage: '/images/about/Fredrik.jpg'
 meta:

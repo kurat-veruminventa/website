@@ -4,7 +4,7 @@ slug: team/magnus
 title: Magnus Arveng
 role: Co-founder & Co-CEO
 email: "mailto:marveng@ntention.com"
-portrait: '/images/about/Magnus.jpg'
+portrait: /images/about/Magnus.jpg
 linkedin: "https://www.linkedin.com/in/magnusarveng/"
 featuredImage: '/images/about/Magnus.jpg'
 meta:

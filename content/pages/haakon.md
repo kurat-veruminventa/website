@@ -4,7 +4,7 @@ slug: team/haakon
 title: Haakon Fuhre Pettersen
 role: Chief Technology Officer
 email: "mailto:hfp@ntention.com"
-portrait: '/images/about/Haakon.jpg'
+portrait: /images/about/Haakon.jpg
 linkedin: "https://www.linkedin.com/in/haakon-fuhre-pettersen/"
 featuredImage: '/images/about/Haakon.jpg'
 meta:

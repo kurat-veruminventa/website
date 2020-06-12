@@ -4,7 +4,7 @@ slug: team/kasper
 title: Kasper Rise
 role: Interaction Designer
 email: "mailto:kasper@ntention.com"
-portrait: '/images/about/Kasper.jpg'
+portrait: /images/about/Kasper.jpg
 linkedin: "https://www.linkedin.com/in/kasperrise/"
 featuredImage: '/images/about/Kasper.jpg'
 meta:

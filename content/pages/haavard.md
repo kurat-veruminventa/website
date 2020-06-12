@@ -4,7 +4,7 @@ slug: team/haavard
 title: Håvard Pedersen Brandal
 role: Lead Software Engineer
 email: "mailto:hpbrandal@ntention.com"
-portrait: '/images/about/Haavard.jpg'
+portrait: /images/about/Haavard.jpg
 linkedin: "https://www.linkedin.com/in/h%C3%A5vard-pedersen-brandal-a5587a160/"
 featuredImage: '/images/about/Haavard.jpg'
 meta:

@@ -4,7 +4,7 @@ slug: team/gulleik
 title: Gulleik Olsen
 role: Hardware / Software Engineer
 email: "mailto:gulleik@ntention.com"
-portrait: '/images/about/Gulleik.jpg'
+portrait: /images/about/Gulleik.jpg
 linkedin: "https://www.linkedin.com/in/gulleik-olsen/"
 featuredImage: '/images/about/Gulleik.jpg'
 meta:

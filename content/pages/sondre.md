@@ -4,7 +4,7 @@ slug: team/sondre
 title: Sondre Tagestad
 role: Lead Hardware / Software Engineer
 email: "mailto:sondre@ntention.com"
-portrait: '/images/about/Sondre.jpg'
+portrait: /images/about/Sondre.jpg
 linkedin: "https://www.linkedin.com/in/sondre-tagestad-a875b0173/"
 featuredImage: '/images/about/Sondre.jpg'
 meta:
