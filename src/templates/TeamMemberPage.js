@@ -41,7 +41,7 @@ export const TeamMemberPageTemplate = ({
 
     <div class="row container">
         <div class="column">
-        <Image src={portrait} alt="Team member" className={'container team-image'}/>
+        <Image src={featuredImage} alt="" className={'container team-image'} />
         </div>
         <div class="column">
         <h6><Content source={role} className={'team-padding'}/> </h6>
@@ -104,6 +104,7 @@ export const pageQuery = graphql`
         subtitle
         role
         email
+        featuredImage
         portrait
         linkedin
         education {

@@ -4,9 +4,8 @@ slug: team/moina
 title: Moina Tamuly
 role: Co-founder & Co-CEO
 email: "mailto:moina@ntention.com"
-portrait: /images/about/Moina.jpg
 linkedin: "https://www.linkedin.com/in/moina-yon-medb%C3%B8e-tamuly-a4967ab2/"
-featuredImage: '/images/about/Moina.jpg'
+featuredImage: '../images/about/Moina.jpg'
 meta:
   description: Moina is visionary and enlightened. With a creative way of working and living, Moina’s progressive field of vision is essential to bring Ntention to …
   title: Moina Tamuly

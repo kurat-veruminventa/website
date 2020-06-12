@@ -6,8 +6,6 @@ module.exports = {
     siteUrl: 'https://ntention.com'
   },
   plugins: [
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
     {
@@ -75,7 +73,8 @@ module.exports = {
     },
 
     // images
-
+    'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
     {
       resolve: 'gatsby-transformer-remark',
       options: {

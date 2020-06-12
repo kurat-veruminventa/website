@@ -4,9 +4,8 @@ slug: team/magnus
 title: Magnus Arveng
 role: Co-founder & Co-CEO
 email: "mailto:marveng@ntention.com"
-portrait: /images/about/Magnus.jpg
 linkedin: "https://www.linkedin.com/in/magnusarveng/"
-featuredImage: '/images/about/Magnus.jpg'
+featuredImage: "../images/about/Magnus.jpg"
 meta:
   description: With drive and energy, he has the ability to engage any living being on this planet. Magnus choose to see only possibilities and have a burning desire to …
   title: Magnus Arveng
