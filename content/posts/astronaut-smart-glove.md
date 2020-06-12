@@ -12,13 +12,12 @@ excerpt: >-
 categories:
   - category: News
   - category: Press releases
-authorMain:
-  author: Vegard J. Løwe
-  authorlink: Test
-  email: vegardjl@ntention.com
-  linkedin: linkedin.com/vegard-lowe
-  portrait: /images/
-  role: Test
+author: Vegard J. Løwe
+authorlink: Test
+email: vegardjl@ntention.com
+linkedin: linkedin.com/vegard-lowe
+portrait: /images/
+role: Test
 meta:
   absoluteImageUrl: >-
     https://cdn.image4.io/ntention/f_auto/News/bffa08dc-448f-437e-90b2-43abdeb05e94.Jpeg

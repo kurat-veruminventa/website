@@ -4,9 +4,9 @@ slug: team/fredrik
 title: Fredrik S. Ahlborg
 role: Chief Financiel Officer
 email: "mailto:fredrik.sha@ntention.com"
+portrait: '/images/about/Fredrik.jpg'
 linkedin: "https://www.linkedin.com/in/fredrik-shaughnessy-ahlborg-604819126/"
 featuredImage: '/images/about/Fredrik.jpg'
-teamPortrait: '/images/about/Fredrik.jpg'
 meta:
   description: When Fredrik was 15, he and his team built a Mathematics teaching app; Mathema. He had dealt with the press, gathered investments …
   title: Fredrik Shaughnessy Ahlborg

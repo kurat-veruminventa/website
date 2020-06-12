@@ -4,9 +4,9 @@ slug: team/gulleik
 title: Gulleik Olsen
 role: Hardware / Software Engineer
 email: "mailto:gulleik@ntention.com"
+portrait: '/images/about/Gulleik.jpg'
 linkedin: "https://www.linkedin.com/in/gulleik-olsen/"
 featuredImage: '/images/about/Gulleik.jpg'
-teamPortrait: '/images/about/Gulleik.jpg'
 meta:
   description: Gulleik has been working since he was 14, having been the national leader for the Norwegian entrepreneurship organization START …
   title: Gulleik Olsen
