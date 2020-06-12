@@ -9,14 +9,25 @@ import AccordionEducation from '../components/Accordion-education'
 import BackgroundVideo from '../components/BackgroundVideo'
 import Popup from '../components/Popup'
 
-import Image from '../components/Image'
 
 import { ChevronLeft } from 'react-feather'
 import './SinglePost.css'
+import Image from '../components/Image'
 
 
 // Export Template for use in CMS preview
-export const TeamMemberPageTemplate = ({ title, subtitle, featuredImage, body, role, email, portrait, linkedin, education, skills }) => (
+export const TeamMemberPageTemplate = ({
+    title,
+    subtitle,
+    featuredImage,
+    body,
+    role,
+    email,
+    portrait,
+    linkedin,
+    education,
+    skills
+}) => (
 
   <main className="Investor">
 
@@ -30,7 +41,7 @@ export const TeamMemberPageTemplate = ({ title, subtitle, featuredImage, body, r
 
     <div class="row container">
         <div class="column">
-        <Image src={portrait} alt="" className={'container team-image'} />
+        <Image src={portrait} alt="Team member" className={'container team-image'}/>
         </div>
         <div class="column">
         <h6><Content source={role} className={'team-padding'}/> </h6>
