@@ -40,14 +40,14 @@ In addition, we have delivered a working demo of our gloves in VR to Norconsult 
 * Kjeller Innovation
 * Hunger Games by Norconsult
 
-![Devon Island]('https://ntention.com/images/posts/Space.jpg')
+![Devon Island](https://ntention.com/images/posts/Space.jpg)
 
 ####NASA Haughton-Mars Project at Devon Island
 We can finally publish and talk about one of our summer projects this summer. Back at the Energy:Connected conference in April this year, we met Dr. Pascal Lee, a planetary scientist at Mars Institute and SETI Institute. Immediately we found out that we shared similar visions and details were discussed, we were invited to the testing site for the Haughton-Mars Project, Devon Island.
 
 At Devon Island, we were testing our technology implemented in a concept spacesuit for various missions. Controlling a drone for scouting, searching, and gathering samples is some of the tasks that are intended use cases at the Moon, Mars and beyond. The SETI Institute published an official news release just a couple a days ago. Since then we have received numerous requests, such as showcase our drone glove at live television (TV2, God Morgen Norge) on Monday the 4th of November at 07:40 (CET).
 
-![China Start]('https://ntention.com/images/posts/China-Start.jpg')
+![China Start](https://ntention.com/images/posts/China-Start.jpg)
 
 ####China Start program by CKGSB
 Since one of our founders, Magnus Arveng, attended to the first China Start program in 2016, we have talked about returning to maintaining and developing our Chinese connections. This year we managed to attend the 7th entrepreneurial program, which is hosted by one of the top business schools in China, CKGSB. During the program, we visited China’s most valuable companies, e.g. Alibaba and Tencent, we pitched for Chinese investors and learned a lot about expanding into China.

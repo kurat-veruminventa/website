@@ -51,17 +51,17 @@ By comprehensive calculations and evaluations, we have decided to move away from
 
 To realize our company vision, (Capture Human Intent) in both short term and long term, we need certain systems. Lately we have explored the idea of having a universal software platform to connect our glove to all applications of the technology. This will include the glove and a driver, the software platform itself, and different modules for different applications (see picture below). This way it will ease the user experience, we will receive user data for research and it can potentially produce a positive revenue stream.
 
-![Tentative software chain]('https://ntention.com/images/posts/Tentative-chain.png')
+![Tentative software chain](https://ntention.com/images/posts/Tentative-chain.png)
 
 ####Strategy decision: Into the VR world!
 Together with Norconsult, we will implement our glove technology in the VR environment, make it compatible for use during the summer, and explore relevant use cases. The Target Market is Heavy Industry that utilizes VR for product modeling, and planning and design engineering. We will integrate our solution in Norconsults current systems by making a module for the software platform tailored to their needs. In addition we will be making modules for the Unreal engine, and later on a Unity module.
 
-![Augmented Reality]('https://ntention.com/images/posts/AR.jpg')
+![Augmented Reality](https://ntention.com/images/posts/AR.jpg)
 
 ####Bleeding Edge by Norconsult
 Norconsult have realized that in these times it’s necessary to innovate and use new technology, which have led to an innovation conference exclusively for Norconsult’s employees. With our connections we managed to get invited to this event and showcase our technology. Norconsult was impressed enough to sponsor us 3 summer internships with the goal of implement our technology in a VR environment. Completely in line with our new strategy choice!
 
-![SSV Conference]('https://ntention.com/images/posts/SSV-NASA.jpg')
+![SSV Conference](https://ntention.com/images/posts/SSV-NASA.jpg)
 
 ####Energy:Connected 2019
 We were invited to Energy Valley’s annual conference and technology exhibition; Energy:Connected 2019. It’s one of the leading energy conferences in Europe and includes all of the main companies in the Norwegian energy sector. We met a lot of interesting people and showcased our technology to the masses. It was a success with a lot of great feedback and making of new business opportunities. One of the highlights was meeting with dr. Pascal Lee, Co-founder and chairman at Mars Institute, NASA. It was unbelievable fun to meet someone with similar visions for our technology!
@@ -69,7 +69,7 @@ We were invited to Energy Valley’s annual conference and technology exhibition
 ####TCS Innovation Forum in Brazil
 We were lucky to be invited to TCS Innovation Forum 2019 in Brazil to talk about the future’s control systems and our solutions. The conference is an annual initiative led by Tata Consulting Services that gathers the main leaders and the best minds in innovation to discuss solutions, trends and insights that can help drive the digital transformation.
 
-![Electronics]('https://ntention.com/images/posts/Electronics.jpg')
+![Electronics](https://ntention.com/images/posts/Electronics.jpg)
 
 ####Financials and economy
 As today we are low on cash, a couple of thousands, waiting for remaining funding by Innovation Norway as soon as our accounting are taken care of. The remains from Innovation Norway means 311 250 NOK, which 70 000 NOK will be used to unpaid invoices. Through the summer months we will use approximately 70 000 NOK at personnel costs (inc. tax/fees). We will need to obtain additionally cash to the end of the year (specification will be studied through the summer).

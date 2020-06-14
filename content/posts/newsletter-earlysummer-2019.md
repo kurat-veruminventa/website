@@ -55,7 +55,7 @@ For the summer months we luckily got the opportunity to work at Norconsult and N
 
 We have 3 summer internships at Norconsult, where we work with implementation of our glove technology into a VR environment. Use cases of our summer project will primarly be used for 3d modeling and construction inspections. At Nordic Semiconductor we got 2 summer internships, which gives us a huge advantage in electronic components and technology. We would like to thank both Norconsult and Nordic Semiconductor for the opportunity.
 
-![Norconsult VR]('https://ntention.com/images/posts/norconsult-VR.jpg')
+![Norconsult VR](https://ntention.com/images/posts/norconsult-VR.jpg)
 
 ####Completion of project accounts for Skattefunn and Innovation Norway
 As described as a priority in the prior newsletter, we have now completed our Skattefunn project account for 2018, and delivered our final report to Innovation Norway regarding our commercialization grant. For those of you who might want to read what we did during the project, feel free to contact us, and we’ll send the report!

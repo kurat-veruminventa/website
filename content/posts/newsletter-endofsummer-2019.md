@@ -55,7 +55,7 @@ Our three summer internships at Norconsult this summer saw us delving into Virtu
 
 We worked extremely hard to get input data to the game engine, create algorithms for accurate animation of finger movement, and to implement positional tracking for the hands. The result was an accurate render of a hand in VR! We had completed our initial goal early, which enabled us to develop a cutting-edge, gesture-based interaction system. We implemented grip- and teleport functionality, and developed ways to use the VR system on large 3D BIM models. We worked closely with Norconsult to tailor an interaction system to their needs, both for architects, engineers, and training purposes.
 
-![Norconsult Presentation]('https://ntention.com/images/posts/Norconsult-presenting.jpg')
+![Norconsult Presentation](https://ntention.com/images/posts/Norconsult-presenting.jpg)
 
 ####Completion of our summer project at Norconsult
 The 23rd of August 2019, we concluded our 3 summer internships at Norconsult with a presentation and technical demo! It was an amazing experience working close with Norconsult, and we have gotten invaluable insight into the construction industry, technology implementation, and collaboration. We will continue to develop our VR interaction system, and we have discovered many potential use cases, both for visualization, rapid prototyping, digital twins and collaboration.
@@ -63,7 +63,7 @@ The 23rd of August 2019, we concluded our 3 summer internships at Norconsult wit
 ####Connection with Manus VR
 During our summer internship, a Dutch company called Manus VR launched their VR gloves, a product nearly identical to our technical solution. Therefore, we went on a trip to the Netherlands to visit Manus VR and were able to get our hands on a set of gloves. While we used our own gloves for this summer project, we are eager to develop our interaction system further for other gloves, like the Manus VR gloves. This way, we can focus purely on software development rather than hardware!
 
-![China Entry Challenge]('https://ntention.com/images/posts/cec.jpg')
+![China Entry Challenge](https://ntention.com/images/posts/cec.jpg)
 
 ####China Entry Challenge 2019
 Since we began the planning of a completely new event in May this year, we finally managed to gather investors, startups, entrepreneurs, and students on August 29. China Entry Challenge included great pitches, interesting speakers and a great insight into the innovative community in Trondheim. After an exciting pitching competition at China Entry Challenge, our Panel of Judges selected a well-deserved winner. The winner of the competition was **Capeesh**!

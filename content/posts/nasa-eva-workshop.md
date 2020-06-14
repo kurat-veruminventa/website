@@ -29,7 +29,7 @@ NASA’s new spacesuit that will be worn on Artemis missions would be able to ac
 
 Among other subjects, the spacesuit for the Artemis Program was discussed frequently at EVA Workshop. Both technical hardware solutions and visionary concepts were introduced by NASA-partners and private corporations.
 
-![Dr. Pascal Lee presenting]('https://ntention.com/images/posts/EVA-pascal.jpg')
+![Dr. Pascal Lee presenting](https://ntention.com/images/posts/EVA-pascal.jpg)
 
 ####Presenting the Astronaut Smart Glove
 During the EVA Workshop 2020, Dr. Pascal Lee presented the Astronaut Smart Glove for the EVA community. Dr. Pascal Lee was the lead on the field tests on last year’s NASA Haughton-Mars Project. Interplanetary exploration will require humans to interact with a wide range of robotic systems, something that is difficult in pressurized suits. Dr. Pascal Lee discussed the field tests last summer and illustrated a promising approach to creating an ergonomic solution for EVA. Ntention received a number of positive comments and questions on the development of Astronaut Smart Glove following Lee’s presentation.

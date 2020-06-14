@@ -39,7 +39,7 @@ We had an extremely busy summer, combining a summer project with Norconsult and 
 * China Start program by CKGSB
 * Funds for further space research and development
 
-![Virtual Reality]('https://ntention.com/images/posts/VR.jpg')
+![Virtual Reality](https://ntention.com/images/posts/VR.jpg)
 
 ####Pivoting Business Model and Becoming Ntention
 After research and development of our proof-of-concept did come to an end in late 2018, we consider it valuable to review the potential of commercialization of the Drone Glove or implementation of the technology in other applications. With our market research and conversations with experienced people within the field, we considered it unreasonable to rush the Drone Glove as a B2C product into the market. We pivoted our business towards the B2B market, specialized at interaction systems and became Ntention.
@@ -47,7 +47,7 @@ After research and development of our proof-of-concept did come to an end in lat
 ####Implemented Glove Technology into Virtual Reality
 Our three summer internships at Norconsult this summer saw us delving into Virtual Reality to create an innovative way of interacting with a virtual world. We created gloves that use state-of-the-art stretch sensors, IMUs (sensors that combine accelerometer, magnetometer, and gyroscope) and VR-trackers (infrared light technology used to estimate position in VR) to produce a picture of how hands and fingers are placed and moved.
 
-![Devon Island]('https://ntention.com/images/posts/HMP.jpg')
+![Devon Island](https://ntention.com/images/posts/HMP.jpg)
 
 ####NASA Haughton-Mars Project on Devon Island
 Back at the Energy:Connected conference in April this year, we met Dr. Pascal Lee and we were invited to the testing site for the Haughton-Mars Project, Devon Island. At Devon Island, we were testing our technology implemented in a concept spacesuit for various missions. Controlling a drone for scouting, searching, and gathering samples is some of the tasks that are intended use cases at the Moon, Mars and beyond. This project resulted in numerous inquiries and mentions in over 110 news articles all around the globe.
@@ -55,7 +55,7 @@ Back at the Energy:Connected conference in April this year, we met Dr. Pascal Le
 ####China Start by CKGSB
 This year we managed to attend the 7th China Start program, which is hosted by one of the top business schools in China, CKGSB. During the program, we visited China’s most valuable companies, e.g. Alibaba and Tencent, we pitched for Chinese investors and learned a lot about expanding into China.
 
-![Space]('https://ntention.com/images/posts/China-Start.jpg')
+![Space](https://ntention.com/images/posts/China-Start.jpg)
 
 ####Funds for Further Space Research and Development
 December 2019, we announced that Ntention will be a part of the valuable network within the European Space Agency Business Incubation Centre. With the support from Kjeller Innovasjon and partners of ESA BIC, we will continue the research on space-related technology, in particular, the Astronaut Smart Glove. In addition to funds from the ESA BIC cooperation, we were granted funds for next year’s national financial resources from the Norwegian Space Agency.
