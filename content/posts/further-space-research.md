@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: €72 0000 for further space development
+title: €72 000 for further space development
 status: Published
 date: '2019-12-23'
 author: 'Vegard J. Løwe'
