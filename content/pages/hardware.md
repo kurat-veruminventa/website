@@ -34,13 +34,13 @@ meta:
     <div class="taCenter">
         <h2>Industry leader in data gloves</h2>
         <div class="container skinnier">
-        The Manus Prime Series is the result of extensive and intensive research in sensor technology. Manus VR has been a pioneer in the VR-scene since 2014. With the development of the Manus VR Gloves, the company made name for itself internationally by setting the standard for hand- and finger tracking.
+        The Manus Prime Series is the result of extensive and intensive research in sensor technology. Manus has been a pioneer in the VR-scene since 2014. With the development of the Manus Gloves, the company made name for itself internationally by setting the standard for hand- and finger tracking.
         </div>
 </div>
 
 <div class="row space-100t reverse">
 <div class="column links">
-    <h6>Manus VR</h6>
+    <h6>Manus</h6>
     <h2>Prime II</h2>
     The Prime II is the core of Manus' product line, an
     all-round wireless data glove that tracks individual
@@ -59,7 +59,7 @@ meta:
 
 <div class="row reverse">
 <div class="column">
-    <h6>Manus VR</h6>
+    <h6>Manus</h6>
     <h2>Prime II Haptic</h2>
     The Haptic Prime is a Prime One with linear resonant
     actuators. It provides unique haptic signals depending on
@@ -78,7 +78,7 @@ meta:
 
 <div class="row reverse">
 <div class="column">
-    <h6>Manus VR</h6>
+    <h6>Manus</h6>
     <h2>Prime II Xsens</h2>
     The Xsens Prime is a glove designed for
     integration into a Xsens motion capture suit, to
