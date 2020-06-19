@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Ntention enters a collaboration with Manus
+title: Ntention enters a collaboration with ManusVR
 status: Published
 date: '2020-06-17'
 postType: /press
