@@ -29,7 +29,7 @@ a webinar with one of the leading actors on wearable sensors.
 
 &nbsp;
 
-<a class="button-grey" href="">Go to webinar</a>  <a class="button" href="https://no.surveymonkey.com/r/2PWLJJZ">Register</a>
+<a class="button" href="https://vimeo.com/event/146139">Go to webinar</a> 
 </div>
 </div>
 
