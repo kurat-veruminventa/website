@@ -14,10 +14,10 @@ categories:
   - category: Press releases
 author: Vegard J. Løwe
 authorlink: Test
-email: vegardjl@ntention.com
+email: mailto:vegardjl@ntention.com
 linkedin: linkedin.com/vegard-lowe
 portrait: 'https://ntention.com/images/about/Vegard.jpg'
-role: Test
+role: Chief Marketing Officer
 meta:
   absoluteImageUrl: >-
     https://ntention.com/images/posts/nasa.jpg
