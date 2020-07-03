@@ -12,7 +12,7 @@ meta:
 ---
 
 
-##Upcoming webinars
+##Previous webinars
 
 &nbsp;
 <div class="row">
