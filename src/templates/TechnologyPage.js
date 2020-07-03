@@ -31,7 +31,7 @@ export const TechnologyPageTemplate = ({ title, subtitle, featuredImage, body })
     <div class="container space-100t space-100b">
         <div class="row"><h2>For technical discussions</h2>
           <div class="column3">
-          <h6>Chief Technology Officer</h6><h2>
+          <h6>Co-founder & CTO</h6><h2>
         Haakon Pettersen</h2>Questions about compatibility of our products or specifications concerning our technology and use cases? Get in touch with our CTO.
         <div class="symbol">
             <a href="mailto:hfp@ntention.com">

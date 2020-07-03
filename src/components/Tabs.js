@@ -110,7 +110,7 @@ export default () => (
         </a>
     </div>
     <div class="team-right">
-      <h6>Chief Technology Officer</h6>
+      <h6>Co-founder & CTO</h6>
       <h2><a href="/team/haakon">Haakon Fuhre Pettersen</a></h2>
       <div class="container skinnier left">
           Despite his sweet, good-looking appearance and love of Mountain Dew, Haakon is a high-ranking black belt and former World Champion in ... <a href="/team/haakon">Read more</a>
@@ -154,7 +154,7 @@ export default () => (
         </a>
     </div>
     <div class="team-right">
-      <h6>Interaction Designer</h6>
+      <h6>Head of Design</h6>
       <h2><a href="/team/kasper">Kasper Rise</a></h2>
       <div class="container skinnier left">
           Kasper has a wide experience in UX design and working on designing the next-generation user experiences for intuitive interfaces ... <a href="/team/kasper">Read more</a>
@@ -194,7 +194,7 @@ export default () => (
     <section class="section thinner left">
     <div class="team-left team">
         <a href="/team/haavard">
-        <Image src="/images/about/Håvard.jpg" alt="Håvard Pedersen Brandal" />
+        <Image src="/images/about/Haavard.jpg" alt="Håvard Pedersen Brandal" />
         </a>
     </div>
     <div class="team-right">
