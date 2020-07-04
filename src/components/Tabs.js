@@ -215,28 +215,6 @@ export default () => (
     </section>
     <section class="section thinner left">
     <div class="team-left team">
-        <a href="/team/gulleik">
-        <Image src="/images/about/Gulleik.jpg" alt="Gulleik Olsen" />
-        </a>
-    </div>
-    <div class="team-right">
-      <h6>Hardware / Software Engineer</h6>
-      <h2><a href="/team/gulleik">Gulleik Olsen</a></h2>
-      <div class="container skinnier left">
-          Gulleik has been working since he was 14, having been the national leader for the Norwegian entrepreneurship organization START …   <a href="/team/gulleik">Read more</a>
-          <div class="symbol">
-              <a href="mailto:gulleik@ntention.com">
-              <Image src="https://cdn.image4.io/ntention/f_auto/Assets/cd0d44e1-835d-467a-9f49-e35cf901c613.Jpeg" alt="Email" />
-              </a>
-              <a href="https://www.linkedin.com/in/gulleik-olsen/">
-              <Image src="https://cdn.image4.io/ntention/f_auto/Assets/bb043d95-c639-42bc-bf76-07d0c03e09e6.Jpeg" alt="LinkedIn" />
-              </a>
-          </div>
-      </div>
-    </div>
-    </section>
-    <section class="section thinner left">
-    <div class="team-left team">
         <a href="/team/jostein">
         <Image src="/images/about/Jostein.jpg" alt="Jostein Nordal Lysberg" />
         </a>
