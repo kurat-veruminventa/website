@@ -29,7 +29,7 @@ a webinar with one of the leading actors on wearable sensors.
 
 &nbsp;
 
-<a class="button" href="https://vimeo.com/434650702">Watch replay</a>
+<a class="button" href="https://youtu.be/I86jcXyRRLU">Watch replay</a>
 </div>
 </div>
 
