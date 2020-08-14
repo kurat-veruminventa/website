@@ -22,14 +22,13 @@ meta:
 <div class="column">
 <h4>Webinar: The Future of Interaction</h4>
 <h5>July 2, 14:00 - 15:00 PM (CEST)</h5>
+<p>
 Discover the most present wearable sensor technology and learn
 more about Ntention’s multimodal interaction systems through
 a webinar with one of the leading actors on wearable sensors.
-&nbsp;
+</p>
 
-&nbsp;
-
-<a class="button" href="https://youtu.be/I86jcXyRRLU">Watch replay</a>
+<a class="button gradient" href="https://youtu.be/I86jcXyRRLU">Watch replay</a>
 </div>
 </div>
 

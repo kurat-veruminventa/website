@@ -19,6 +19,7 @@ meta:
   type: website
 ---
 
+<p>
 We kindly ask you to address client related enquiries or questions regarding daily operations of our company to the most relevant member of Ntention. Depending on your inquiry you’ll find the appropriate contact below. If you’re looking for a specific person, check out our <a href="about/#team">Team</a>.
 
-For general requests you are always welcome to contact us at <a href="mailto:contact@ntention.com">contact@ntention.com</a>.
+For general requests you are always welcome to contact us at <a href="mailto:contact@ntention.com">contact@ntention.com</a>.</p>

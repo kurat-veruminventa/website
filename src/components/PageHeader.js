@@ -23,11 +23,9 @@ const PageHeader = ({
         <h1 className="PageHeader--Title">{title}</h1>
         <h1 className="PageHeader--FrontTitle">{fronttitle}</h1>
         {subtitle && (
-          <Content className="PageHeader--Subtitle" src={subtitle} />
+          <Content className="PageHeader--Subtitle dark" src={subtitle} />
       )}
-        <div class="frontimage">
-            <Image src="https://cdn.image4.io/ntention/f_auto/Assets/7d629b29-24c7-4307-b75a-bf47866fe9c4.Png" alt=""/>
-        </div>
+        <a class="button gradient" href="/technology">Discover</a>
       </div>
     </div>
 )

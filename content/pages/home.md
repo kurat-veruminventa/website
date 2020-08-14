@@ -3,7 +3,10 @@ template: HomePage
 slug: ''
 title: Capturing human intent
 featuredImage: 'https://ntention.com/images/posts/Default.jpg'
-subtitle: ''
+subtitle: 'Our goal is to understand the intent of the user and translate it to machines. This is how we are moving beyond motion capture and into the world of intention capture.'
+video: 'https://cdn.image4.io/vegard/5a87d4526fa8027e111cf71a57664efe/manifest/video.m3u8'
+videoPoster: 'https://cdn.image4.io/vegard/5a87d4526fa8027e111cf71a57664efe/manifest/video.m3u8'
+videoTitle: Logo Animation
 meta:
   description: Ntention is a Norwegian tech company specialized in intuitive interaction systems. In order to let anyone control any machine we need to make the interaction easy and intuitive. In short time the company has developed groundbreaking technology for use of hand gestures in VR for the construction industry and has an on-going research project with NASA partners for developing interaction systems in next-generation spacesuits.
   title: Ntention - Capturing human intent
@@ -12,8 +15,7 @@ meta:
 ---
 
 
-&nbsp;
-<div class="row">
+<div class="row space-100t">
   <div class="column"><h6>
 About Ntention </h6><h2>
 In order to let anyone control any machine we need to make the interaction easy and intuitive.</h2>
@@ -23,15 +25,17 @@ In order to let anyone control any machine we need to make the interaction easy 
 
 <div class="row">
   <div class="column">
+  <p>
   Interaction with machines is constantly changing. Automation is increasing, but the number of machines we interact with is also increasing. These conditions require new and easier ways of interacting with machines to allow more people to control greater number of machines with less effort and training. That’s why we are ushering in a new paradigm of control systems.
+  </p>
 </div>
-<div class="column">Ntention are building a system of interaction between the people and the machines that is user centered – not machine centered. The machine will understand the user – not the other way around. Our goal is to understand the intent of the user and translate it to machines. This is how we are moving beyond motion capture and into the world of intention capture.</div>
+  <div class="column">
+  <p>
+  Ntention are building a system of interaction between the people and the machines that is user centered – not machine centered. The machine will understand the user – not the other way around. Our goal is to understand the intent of the user and translate it to machines. This is how we are moving beyond motion capture and into the world of intention capture.</div>
+  </p>
 </div>
-&nbsp;
 
-&nbsp;
-
-<div class="row">
+<div class="row space-100t">
   <div class="column">
     <div class="container hover-image full-mobile"><a href="/posts/astronaut-smart-glove/">
       <img src="/images/technology/Astronautglove-showcase.jpg" alt="Astronaut Smart Glove">
@@ -63,13 +67,15 @@ In order to let anyone control any machine we need to make the interaction easy 
         <div class="home-image relative">
         <img src="images/Flexible-interaction-system.jpg" alt="Flexible interaction system">
         </div>
-        <div class="home-content">
+        <div class="PostCard--Content">
             <div class="home-title">
             <h3>Achieving a Flexible Interaction System</h3>
             </div>
             <h6>Interaction</h6>
         <div class="PostCard--Excerpt">
+        <p>
         Ntention seeks to solve this problem by creating intelligent software combining multiple input methods with contextual information, to understand the intention behind ...
+        </p>
         </div>
         </div>
 </div>
@@ -80,13 +86,15 @@ In order to let anyone control any machine we need to make the interaction easy 
        <div class="home-image relative">
        <img src="images/An-immersive-user-experience.jpg" alt="An immersive user experience">
        </div>
-       <div class="home-content">
+       <div class="PostCard--Content">
            <div class="home-title">
            <h3>An Immersive User Experience</h3>
            </div>
            <h6>Interaction</h6>
        <div class="PostCard--Excerpt">
+       <p>
        The modern XR development is disrupting the industry and entertainment sectors. The recent advances open plenty of opportunities for ...
+       </p>
        </div>
        </div>
 </div>
@@ -97,13 +105,15 @@ In order to let anyone control any machine we need to make the interaction easy 
        <div class="home-image relative">
        <img src="images/Time-is-now.jpg" alt="Time is now">
        </div>
-       <div class="home-content">
+       <div class="PostCard--Content">
            <div class="home-title">
            <h3>Time is now <br> </br></h3>
            </div>
            <h6>Interaction</h6>
        <div class="PostCard--Excerpt">
+       <p>
        We are living in a unique time of rapid technological development. The advancement of electronic computers has afforded faster development of many other ...
+       </p>
        </div>
        </div>
 </div>
@@ -113,9 +123,12 @@ In order to let anyone control any machine we need to make the interaction easy 
 
 <div class="row section">
  <div class="column">
-    <div class="full-width">
-        <h6>Newsletter</h6><h2>Take a seat on our journey</h2>Every other month we send out a newsletter to update everyone interested in our company or journey. We present to you highlights of the last couple of months and priority goals of the next couple of months.<br><br>
-        <a class="button" href="/subscribe">Subscribe to our newsletter</a>
+    <div class="full-width dark">
+        <h6>Newsletter</h6>
+        <h2>Take a seat on our journey</h2>
+        <p>
+        Every other month we send out a newsletter to update everyone interested in our company or journey. We present to you highlights of the last couple of months and priority goals of the next couple of months.</p>
+        <a class="button gradient" href="/subscribe">Subscribe to our newsletter</a>
     </div>
 <div class="column"></div>
 </div>
@@ -125,8 +138,9 @@ In order to let anyone control any machine we need to make the interaction easy 
   <div class="column">
         <h6>Work with us</h6>
         <h2>Join the paradigm shift of interaction</h2>
-        Do you want to change how humans interact with machines? Going forwards, we aim to create cutting-edge interaction systems in collaborative projects with other companies and industry partners. Are you interested in developing the next generation of interaction systems with us?<br><br>
-        <a class="button" href="/career">Learn more</a>
+        <p>
+        Do you want to change how humans interact with machines? Going forwards, we aim to create cutting-edge interaction systems in collaborative projects with other companies and industry partners. Are you interested in developing the next generation of interaction systems with us?</p>
+        <a class="button gradient" href="/career">Learn more</a>
     </div>
 <div class="column">
     <div class="full-mobile">

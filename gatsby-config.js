@@ -71,6 +71,13 @@ module.exports = {
         name: 'pages'
       }
     },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/fonts`,
+        name: 'fonts'
+      }
+    },
 
     // images
     'gatsby-plugin-sharp',

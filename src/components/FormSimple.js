@@ -60,7 +60,7 @@ export default ({
     {!!subject && <input type='hidden' name='subject' value={subject} />}
     <input type='hidden' name='form-name' value={name} />
     <input
-      className='button Form--SubmitButton'
+      className='button gradient Form--SubmitButton'
       type='submit'
       value='Submit message'
     />

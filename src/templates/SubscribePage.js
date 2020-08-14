@@ -22,7 +22,9 @@ export const SubscribePageTemplate = ({
         <Content source={body}/>
         <div class="container">
             <div class="column">
+            <p>
                 We love to inform our friends with news about our progress; that’s why we send out an email newsletter every other month with our highlights from last months. As a subscriber to our newsletter, you’ll get access to exclusive insight into our progress, research, and future development.
+            </p>
                 <Form />
             </div>
             <div class="column">

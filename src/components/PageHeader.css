@@ -1,12 +1,12 @@
 .PageHeader {
-  background-color: black;
+  background-color: #1D1623;
   color: white;
   padding: 1rem 0;
-  height: 600px;
+  height: 650px;
 }
 
 .PageHeader-small {
-  background-color: black;
+  background-color: #1D1623;
   color: white;
   padding: 1rem 0;
   height: 400px;
@@ -21,25 +21,33 @@
 }
 
 .PageHeader--FrontTitle {
-  font-size: 12rem;
-  padding-right: 100px;
-  line-height: 90%;
+  font-size: 5rem;
+  padding-right: 400px;
+  margin-top: -450px;
+  line-height: 120%;
   margin-bottom: 0;
   text-transform: uppercase;
+  font-family: 'Ntention Font', sans-serif;
+  color: white;
 }
 
 .PageHeader--Title {
-  font-size: 6rem;
-  padding-right: 200px;
-  line-height: 90%;
+  font-size: 4rem;
+  margin-top: -100px;
+  line-height: 120%;
   margin-bottom: 0;
   text-transform: uppercase;
+  font-family: 'Ntention Font', sans-serif;
+  animation: fadeIn 1s ease-out;
+  color: white;
 }
 
 .PageHeader--Subtitle {
+  padding-top: 10px;
   font-weight: 400;
   font-size: 1.8rem;
   padding-right: 600px;
+  color: #D8D8D8;
 }
 
 .PageHeader .container {
@@ -47,8 +55,12 @@
 }
 
 .frontimage {
-    margin-top: -45rem;
-    margin-left: 40rem;
+    width: 600px;
+    height: 400px;
+    background-image: url("https://cdn.image4.io/vegard/f_auto/882ddf52-e52f-4a1e-bf18-8632f332932f.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
 }
 
 @media (max-width: 1025px) {
@@ -63,17 +75,18 @@
   }
 
   .PageHeader--FrontTitle {
-    font-size: 5rem;
-    padding-right: 100px;
-    line-height: 90%;
+    font-size: 2.5rem;
+    padding-right: 10px;
+    line-height: 120%;
     margin-bottom: 0;
     text-transform: uppercase;
     padding-left: 1rem;
+    padding-top: 100px;
   }
   .PageHeader--Title {
-    font-size: 4rem;
+    font-size: 2.5rem;
     padding-right: 100px;
-    line-height: 90%;
+    line-height: 120%;
     margin-bottom: 0;
     text-transform: uppercase;
     padding-left: 1rem;
@@ -85,7 +98,6 @@
     padding-left: 1rem;
   }
   .PageHeader-small {
-    background-color: black;
     color: white;
     padding: 0 0;
     height: 450px;

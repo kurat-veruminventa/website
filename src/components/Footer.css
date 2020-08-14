@@ -1,6 +1,6 @@
 .footer {
   padding: 2rem 0;
-  background: black;
+  background: #1D1623;
   font-size: 1.2rem;
   color: white;
   margin-top: -50px;
@@ -15,7 +15,7 @@
 .footer a:hover {
   color: white;
   text-decoration: none;
-  font-weight: 400;
+  font-weight: 700;
 }
 
 
@@ -63,7 +63,7 @@
   margin: 0 -9999rem;
   /* add back negative margin value */
   padding: 5rem 9999rem 5rem;
-  background: rgba(0, 0, 0, 1);
+  background: #1D1623;
   color: white;
 }
 
@@ -71,7 +71,7 @@
   margin: 0 -9999rem;
   /* add back negative margin value */
   padding: 5rem 9999rem 5rem;
-  background: rgba(0, 0, 0, 1);
+  background: #1D1623;
   color: white;
   height: 300px;
 }
@@ -80,7 +80,7 @@
     text-align: center;
     font-size: 1.5rem;
     padding: 1rem 0 1rem;
-    background-color: black;
+    background-color: #1D1623;
     color: white;
 }
 
@@ -90,7 +90,7 @@
 }
 
 .footer-center a:hover {
-    font-weight: 400;
+    font-weight: 700;
 }
 
 .footer-container {
@@ -116,7 +116,7 @@
 
 .list-unstyled a:hover {
     color: white;
-    font-weight: 400;
+    font-weight: 700;
 }
 
 @media screen and (max-width: 1025px) {

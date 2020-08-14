@@ -21,9 +21,8 @@ const PageHeader = ({
         <App/>
         <div class="container">
         <h1 className="PageHeader--Title">{title}</h1>
-        <h1 className="PageHeader--FrontTitle">{fronttitle}</h1>
         {subtitle && (
-          <Content className="PageHeader--Subtitle" src={subtitle} />
+          <Content className="PageHeader--Subtitle dark" src={subtitle} />
       )}
       </div>
     </div>

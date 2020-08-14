@@ -69,7 +69,7 @@ export const ResearchIndexTemplate = ({
             backgroundImage={featuredImage}
           />
 
-          <div class="container space-100t space-100b" id="news">
+          <div class="container space-100t" id="news">
             <h2>Explore the future of interaction</h2>
           </div>
 

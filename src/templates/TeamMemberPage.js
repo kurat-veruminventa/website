@@ -44,8 +44,16 @@ export const TeamMemberPageTemplate = ({
         <Image src={featuredImage} alt="" className={'container team-image'} />
         </div>
         <div class="column">
-        <h6><Content source={role} className={'team-padding'}/> </h6>
-        <h2><Content source={title} className={'team-padding'}/> </h2>
+        {role && (
+          <h6 className="team-padding" itemProp="role">
+            {role}
+          </h6>
+        )}
+        {title && (
+          <h1 className="SinglePost--Title" itemProp="title">
+            {title}
+          </h1>
+        )}
         <Content source={body} className={'team-padding'}/>
         <div class="symbol">
             <a href={email}>

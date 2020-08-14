@@ -65,7 +65,10 @@ export const InvestorPageTemplate = ({ title, subtitle, featuredImage, body }) =
         <div class="row"><h2>Investor Relations Contact</h2>
           <div class="column3">
           <h6>Co-Founder & Co-CEO</h6><h2>
-        Magnus Arveng</h2>The man with the idea and energy to engage anyone at any time. Get in touch for important partnership inquires or speaker requests.
+        Magnus Arveng</h2>
+        <p>
+        The man with the idea and energy to engage anyone at any time. Get in touch for important partnership inquires or speaker requests.
+        </p>
         <div class="symbol">
             <a href="mailto:marveng@ntention.com">
             <Image src="https://cdn.image4.io/ntention/f_auto/Assets/cd0d44e1-835d-467a-9f49-e35cf901c613.Jpeg" alt="Email" />
@@ -77,7 +80,10 @@ export const InvestorPageTemplate = ({ title, subtitle, featuredImage, body }) =
         </div>
         <div class="column3">
         <h6>Chief Financial Officer</h6><h2>
-      Fredrik S. Ahlborg</h2>Requests or negotiation offers concerning financial discussions or investment strategies? Get in touch with our CFO.
+      Fredrik S. Ahlborg</h2>
+      <p>
+      Requests or negotiation offers concerning financial discussions or investment strategies? Get in touch with our CFO.
+      </p>
       <div class="symbol">
           <a href="mailto:fredrik.sha@ntention.com">
           <Image src="https://cdn.image4.io/ntention/f_auto/Assets/cd0d44e1-835d-467a-9f49-e35cf901c613.Jpeg" alt="Email" />

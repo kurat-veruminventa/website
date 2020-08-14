@@ -44,6 +44,15 @@ canvas{
   font-size: 1.1em;
 }
 
+.frontimage {
+    width: 600px;
+    height: 400px;
+    background-image: url("https://cdn.image4.io/vegard/f_auto/882ddf52-e52f-4a1e-bf18-8632f332932f.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
 #stats,
 .count-particles{
   -webkit-user-select: none;
@@ -67,17 +76,25 @@ canvas{
   z-index: 1;
   width: 100%;
   height: 100%;
-  background-color: #b61924;
-  background-image: url('');
-  background-size: cover;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
 }
 
 .particle-container-home {
-    height: 200px;
+    height: 600px;
+    margin-top: -10px;
+    background-image: url('https://cdn.image4.io/vegard/f_auto/97265d6d-4cae-41f5-b429-d58aa19e4728.gif');
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    animation: fadeIn 2s ease-out;
 }
 
 .particle-container {
-    height: 150px;
+    height: 300px;
+    background-color: #1D1623;
+}
+
+@media (max-width: 768px) {
+    .particle-container-home {
+        background-image: url('https://cdn.image4.io/vegard/f_auto/2599c1fc-781f-4a35-9451-503231b55451.gif');
+    }
 }

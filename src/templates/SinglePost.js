@@ -82,8 +82,9 @@ export const SinglePostTemplate = ({
           <h4>Ntention news</h4>
           </div>
           <div class="links">
+          <p>
           Always be up-to-date on the latest news! <br></br>
-          Follow us on <a href="https://www.facebook.com/ntention.as/">Facebook</a>, <a href="https://twitter.com/ntention_as">Twitter</a>, <a href="https://www.linkedin.com/company/ntention/">LinkedIn</a> and <a href="https://www.instagram.com/ntention.as/">Instagram</a>.
+          Follow us on <a href="https://www.facebook.com/ntention.as/">Facebook</a>, <a href="https://twitter.com/ntention_as">Twitter</a>, <a href="https://www.linkedin.com/company/ntention/">LinkedIn</a> and <a href="https://www.instagram.com/ntention.as/">Instagram</a>.</p>
           </div>
           </section>
 

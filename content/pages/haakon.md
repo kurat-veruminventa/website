@@ -2,7 +2,7 @@
 template: TeamMemberPage
 slug: team/haakon
 title: Haakon Fuhre Pettersen
-role: Chief Technology Officer
+role: Co-founder & CTO
 email: "mailto:hfp@ntention.com"
 linkedin: "https://www.linkedin.com/in/haakon-fuhre-pettersen/"
 featuredImage: 'https://ntention.com/images/about/Haakon.jpg'

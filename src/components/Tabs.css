@@ -3,7 +3,7 @@
 }
 
 .react-tabs__tab-list {
-  border-bottom: 3px solid black;
+  border-bottom: 3px solid #1D1623;
   margin: 0 0 10px;
   padding: 0;
 }
@@ -17,13 +17,14 @@
   list-style: none;
   padding: 6px 12px;
   cursor: pointer;
+  border-radius: 10px 10px 0 0;
 }
 
 .react-tabs__tab--selected {
-  background: black;
-  border-color: black;
+  background: #1D1623;
+  border-color: #1D1623;
   color: white;
-  border-radius: 0 0 0 0;
+  border-radius: 100 25 0 10;
 }
 
 .react-tabs__tab--disabled {

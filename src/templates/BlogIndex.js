@@ -68,7 +68,7 @@ export const BlogIndexTemplate = ({
         <main className="Blog">
           <PageHeader
             /*title={title}*/
-            title='Press & Media'
+            title='Press'
             subtitle={subtitle}
             backgroundImage={featuredImage}
           />
@@ -141,14 +141,18 @@ export const BlogIndexTemplate = ({
                     <h6>Finansavisen — Mar 23, 2020</h6>
                     <h4><a href="https://finansavisen.no/lordag/gruenderintervjuet/2020/03/22/7506069/gruenderintervjuet-nasa-vil-ha-ntnu-studentenes-smarthansker">NASA wants NTNU students' smart gloves [Norwegian]</a></h4>
                     <div class="links">
+                    <p>
                     When the drone trend took off a few years back, NTNU student Magnus Arveng thought he would make a glove that could control them. Just like in the sci-fi movies ... <a href="https://finansavisen.no/lordag/gruenderintervjuet/2020/03/22/7506069/gruenderintervjuet-nasa-vil-ha-ntnu-studentenes-smarthansker">Read more</a>
+                    </p>
                     </div>
                 </div>
                 <div class="column">
                     <h6>Forbes — Nov 5, 2019</h6>
                     <h4><a href="https://www.forbes.com/sites/elizabethhowell1/2019/11/05/space-drones-could-fly-around-the-moon-via-smart-gloves/#2e968f6d4290">Space Drones Could Fly Around The Moon Via ‘Smart Gloves’</a></h4>
                     <div class="links">
+                    <p>
                     The rise of artificial intelligence, machine learning and other buzzwords about smart computers means it’s very possible that a small drone could do a lot of work ahead of ... <a href="https://www.forbes.com/sites/elizabethhowell1/2019/11/05/space-drones-could-fly-around-the-moon-via-smart-gloves/#2e968f6d4290">Read more</a>
+                    </p>
                     </div>
                 </div>
             </div>
@@ -159,14 +163,18 @@ export const BlogIndexTemplate = ({
                     <h6>Voice of America — Feb 25, 2020</h6>
                     <h4><a href="https://www.voanews.com/episode/new-smart-glove-mars-and-lunar-missions-works-magic-4202736">A New Smart Glove for Mars and Lunar Missions Works Like Magic</a></h4>
                     <div class="links">
+                    <p>
                     Spacesuits are extremely difficult to move in, making it challenging for astronauts to do basic tasks like picking up a rock. A NASA partner has teamed with a ... <a href="https://www.voanews.com/episode/new-smart-glove-mars-and-lunar-missions-works-magic-4202736">Read more</a>
+                    </p>
                     </div>
                 </div>
                 <div class="column">
                     <h6>Inverse — Nov 1, 2019</h6>
                     <h4><a href="https://www.inverse.com/article/60614-astronaut-smart-glove">Smart Gloves Will Give Mars Astronauts The Power To Control Robots</a></h4>
                     <div class="links">
+                    <p>
                     The group’s smart glove is designed to let astronauts control remote technology like drones with literally just a flick of the wrist. The glove was designed ... <a href="https://www.inverse.com/article/60614-astronaut-smart-glove">Read more</a>
+                    </p>
                     </div>
                 </div>
             </div>

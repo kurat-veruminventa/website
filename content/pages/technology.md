@@ -23,8 +23,10 @@ meta:
 </div>
 <div class="column">
     <div class="container hover-image">
+    <p>
     With more automation, specialized human operators become superfluous. Without specialized operators there is an increasing necessity for anyone involved in a work process to be able to easily interact with and move objects in a VR environment or to show an industrial machine what to do.<br><br>
     We are building a system of interaction between the people and the machines that is user centered – not machine centered. The machine will understand the user – not the other way around. Our goal is to understand the intent of the user and translate it to machines. This is how we are moving beyond motion capture and into the world of intention capture.
+    </p>
     </div>
 </div>
 </div>
@@ -48,20 +50,24 @@ meta:
         <div class="column">
             <div class="container">
             <h2>Space</h2>
+            <p>
             The Astronaut Smart Glove and our software solution is a prototype of a product that is intended to be used by astronauts during space missions.
+            </p>
             <div class="space-20t">
-                <a class="button" href="/posts/astronaut-smart-glove/">Learn more</a>
+                <a class="button gradient" href="/posts/astronaut-smart-glove/">Learn more</a>
             </div>
             </div>
         </div>
     </div>
     <div class="full-width technology-section-black">
         <div class="column">
-            <div class="container">
+            <div class="container dark">
             <h2>Natural Virtual Reality</h2>
+            <p>
             With more automation, specialized human operators become superfluous. Without specialized operators there is an increasing necessity for anyone involved in a work.
+            </p>
             <div class="space-20t">
-                <a class="button" href="/technology/virtual-reality">Learn more</a>
+                <a class="button gradient" href="/technology/virtual-reality">Learn more</a>
             </div>
             </div>
         </div>
@@ -80,20 +86,24 @@ meta:
         <div class="column">
             <div class="container">
             <h2>Immersive Real Estate</h2>
+            <p>
             Interact with your next home by exploring a virtual mirror of your dream house just like you'd in the real world.  
+            </p>
             <div class="space-20t">
-                <a class="button" href="/technology/real-estate">Learn more</a>
+                <a class="button gradient" href="/technology/real-estate">Learn more</a>
             </div>
             </div>
         </div>
     </div>
     <div class="full-width technology-section-black">
         <div class="column">
-            <div class="container">
+            <div class="container dark">
             <h2>Music Production</h2>
+            <p>
             Combining the HuMI Pro-Glove’s highly accurate data output with the company’s proprietary software, users of the Music Glove can express artistic intentions beyond the scope of any traditional instrument.
+            </p>
             <div class="space-20t">
-                <a class="button" href="/technology/music-glove">Learn more</a>
+                <a class="button gradient" href="/technology/music-glove">Learn more</a>
             </div>
             </div>
         </div>
@@ -112,9 +122,11 @@ meta:
         <div class="column">
             <div class="container">
             <h2>Intuitive Industrial Machines</h2>
+            <p>
             By using natural human motion you can control heavy industrial machines without use any effort or be nearby dangerous areas.
+            </p>
             <div class="space-20t">
-                <a class="button" href="/technology/industrial-machines">Learn more</a>
+                <a class="button gradient" href="/technology/industrial-machines">Learn more</a>
             </div>
             </div>
         </div>

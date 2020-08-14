@@ -1,6 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
-//import InstagramFeed from './InstagramFeed'
 import Logo from './Logo'
 
 
@@ -10,7 +8,7 @@ import './Footer.css'
 
 export default () => (
     <div>
-        <div class="full-width-footer">
+        <div class="full-width-footer white-text">
             <div class="footer-container">
                 <div class="footer-column-left">
                       <Logo />
@@ -76,7 +74,7 @@ export default () => (
                         <h5>GET UPDATES FROM US</h5>
                       </li>
                       <li>
-                        <a class="button" href="/subscribe">Subscribe</a>
+                        <a class="button gradient" href="/subscribe">Subscribe</a>
                       </li>
                       <li>
                         &nbsp;
@@ -103,28 +101,3 @@ export default () => (
         </div>
     </div>
 )
-
-
-
-/*
-export default () => (
-  <div>
-  <footer className="footer">
-    <div className="container taCenter">
-      <span>
-        © Copyright {new Date().getFullYear()} Ntention. All rights reserved. Developed by{' '}
-        <a href="https://www.lowedesign.no/">Løwe Design</a>.
-      </span>
-    </div>
-  </footer>
-  </div>
-)*/
-/*
-<div class="full-width-footer">
-    <div class="footer-column">
-        <h2>Ntention</h2>Every other month we send out a newsletter to update everyone interested in our company or journey. We present to you highlights of the last couple of months and priority goals of the next couple of months.
-    </div>
-    <div class="footer-column"><h5>WHO WE ARE</h5><br>About<br>Press<br>Investor</div>
-    <div class="footer-column"><h5>TECHNOLOGY</h5><br>Astronaut Smart Glove<br>Virtual Reality<br>Drone Glove</div>
-    <div class="footer-column"><h5>GET UPDATES</h5><a class="button" href="#">Subscribe</a></div>
-</div>*/

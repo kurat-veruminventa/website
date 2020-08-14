@@ -7,14 +7,23 @@ import Particles from 'react-particles-js';
 const particleOpt = {
         particles: {
             number: {
-                value: 60,
+                value: 30,
                 density: {
                     enable: true,
                     value_area: 500
                 }
             },
+            move: {
+                speed: 3,
+            },
             size: {
-                value: 1
+                value: 1,
+            },
+            opacity: {
+                value: 0.5,
+            },
+            line_linked: {
+                opacity: 0.5,
             }
         },
         interactivity: {
@@ -22,7 +31,7 @@ const particleOpt = {
             events: {
                 onhover: {
                     enable: true,
-                    mode: "repulse"
+                    mode: "bubble"
                 },
             },
             modes: {
@@ -35,6 +44,12 @@ const particleOpt = {
                     line_linked: {
                         opacity: 0.5
                     }
+                },
+                bubble: {
+                    distance: 140,
+                    size: 20,
+                    opacity: 0.3,
+                    duration: 2,
                 }
             }
         }
@@ -45,7 +60,7 @@ const particleOpt = {
 class App extends Component {
     render() {
         return (
-            <div class='particle-container'>
+            <div class='particle-container particles-js'>
                 <Particles
                     params={particleOpt}
                 />

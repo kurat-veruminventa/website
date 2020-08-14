@@ -1,7 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+@font-face {
+  font-family: "Ntention Font";
+  font-style: normal;
+  src: url("/fonts/NtentionFont") format("ttf");
+  font-display: swap;
+}
+
 
 :root {
-  --primary: black;
+  --primary: #1D1623;
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
@@ -41,12 +51,12 @@ html {
 
 body {
   /*font-family: var(--font-system);*/
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   min-height: 100%;
   position: relative;
   background: white;
-  color: var(--secondary);
-  font-size: 1.9em;
+  color: #1D1623;
+  font-size: 1.8em;
   font-weight: 300;
   letter-spacing: 0.01em;
   line-height: 1.6;
@@ -54,14 +64,14 @@ body {
 }
 
 a {
-  color: var(--primary);
+  color: #1D1623;
   text-decoration: none;
 }
 
 
 .links a:hover {
-    font-weight: 700;
     border-bottom: 0;
+    color: #1D1623;
 }
 
 .links a {
@@ -75,6 +85,7 @@ strong {
 p {
   margin-top: 0;
   margin-bottom: 1em;
+  color: #53575F;
 }
 
 h1,
@@ -93,17 +104,20 @@ h1 {
 }
 
 h2 {
+    font-family: 'Roboto', sans-serif;
     font-size: 2em;
     line-height: 110%;
-    font-weight: 900;
+    font-weight: 400;
 }
 
 h3 {
-    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6em;
     font-weight: 400;
 }
 
 h6 {
+    font-family: 'Roboto', sans-serif;
     font-size: 0.7em;
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
@@ -154,7 +168,6 @@ blockquote {
   background-color: white;
 }
 .dark {
-  background-color: var(--primary);
   color: white;
 }
 .dark h1,
@@ -164,6 +177,14 @@ blockquote {
 .dark h5,
 .dark h6 {
   color: white;
+}
+
+.dark p {
+    color: #D8D8D8;
+}
+
+.white-text {
+    color: white;
 }
 
 .relative {
@@ -214,7 +235,11 @@ blockquote {
   padding: 0;
 }
 
-
+.round-image img {
+    border-radius: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 .container {
   max-width: 1111px;
@@ -236,6 +261,39 @@ blockquote {
     padding-bottom: 100px;
 }
 
+.gradient {
+overflow: hidden;
+background: #f06;
+background: linear-gradient(45deg, #AE85BC, #8EAAD9);
+min-height: 100%;
+position: relative;
+z-index: 1;
+box-shadow: inset -2px 0 8px -4px #8EAAD9,inset 0px -1px 4px -3px #AE85BC;
+}
+
+.gradient:before,.gradient:after{
+    content:'';
+    position:absolute;
+    width:100%;
+    height:100%;
+}
+.gradient:before{
+    background: #8EAAD9;
+    box-shadow: 0 0 14px 6px #8EAAD9;
+    z-index:2;
+    top: -96%;
+left: -72%;
+    opacity: 0.8;
+}
+.gradient:after {
+background: #8BCFB9;
+z-index: 3;
+bottom: -96%;
+right: -72%;
+box-shadow: 0 0 24px 26px #8BCFB9;
+opacity: 1;
+border-radius: 100%;
+}
 
 
 @media (max-width: 768px) {

@@ -14,13 +14,15 @@ meta:
 <div class="tech-margin">
 <div class="full-width technology-section-black">
     <div class="column">
-        <div class="container hover-image">
+        <div class="container dark hover-image">
         <h2>Music Production</h2>
+        <p>
         Combining the HuMI Pro-Glove’s highly accurate data output with the company’s proprietary software, users of the Music Glove can express artistic intentions beyond the scope of any traditional instrument.
+        </p>
         </div>
     </div>
     <div class="column">
-        <div class="container">
+        <div class="container round-image">
             <img src="/images/technology/Music-glove.jpg" alt="Music Glove">
         </div>
     </div>
@@ -31,7 +33,9 @@ meta:
     <div class="taCenter">
         <h2>Express your intention through art</h2>
         <div class="container skinnier">
+        <p>
         The Music Glove project uses the HuMI Pro-Glove to control music applications. It allows the user to intuitively change any musical parameter with hand gestures.  
+        </p>
         </div>
 </div>
 
@@ -45,16 +49,17 @@ meta:
     <div class="container hover-image">
     <h6>Artistic intentions</h6>
     <h2>Live performance</h2>
-    The Music Glove project uses the Humi Pro-Glove to control music applications. It allows the user to intuitively change any musical parameter with hand gestures. Examples include affecting the tone of a bassline by moving one’s hand up and down, or triggering different notes by moving one’s finger. Combining the Humi Pro-Glove’s highly accurate data output with the company’s proprietary software, users of the Music Glove can express artistic intentions beyond the scope of any traditional instrument. <br><br>
+    <p>
+    The Music Glove project uses the Humi Pro-Glove to control music applications. It allows the user to intuitively change any musical parameter with hand gestures. Examples include affecting the tone of a bassline by moving one’s hand up and down, or triggering different notes by moving one’s finger. Combining the Humi Pro-Glove’s highly accurate data output with the company’s proprietary software, users of the Music Glove can express artistic intentions beyond the scope of any traditional instrument. </p>
     </div>
 </div>
 </div>
 
 <div class="section">
     <div class="full-width">
-        <div class="container mobile-contact-container">
-            At Ntention, we understand you may have unique and custom requirements. Contact us to learn more.
-            <a class="button right mobile-contact" href="/contact">Contact</a>
+        <div class="container dark mobile-contact-container">
+        <p> At Ntention, we understand you may have unique and custom requirements. Contact us to learn more.
+            <a class="button gradient right mobile-contact" href="/contact">Contact</a></p>
         </div>
     </div>
 </div>
@@ -68,6 +73,8 @@ meta:
     <div class="taCenter" id="order">
         <h2>We're ready to discuss your next project</h2>
         <div class="container skinnier">
+        <p>
         Want to know more about our technology or our current projects? Get in touch, we're ready to support you and assist you with your next project.
+        </p>
         </div>
 </div>

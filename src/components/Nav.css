@@ -1,10 +1,9 @@
 .Nav {
-  background: black;
+  background: #1D1623;
   position: sticky;
   top: 0;
   z-index: 2;
-  border-bottom: 1px solid var(--black);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.025);
+  border-bottom: 1px solid #1D1623;
 }
 
 .Nav--Container {
@@ -134,7 +133,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: black;
+    background: #1D1623;
     animation: Nav--Links 0.2s ease;
   }
 

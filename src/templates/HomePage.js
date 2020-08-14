@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import BackgroundVideo from '../components/BackgroundVideo'
 import '../components/Footer.css'
 import '../components/PostCard.css'
 import Image from '../components/Image'
@@ -20,6 +21,9 @@ export const HomePageTemplate = ({
     title,
     subtitle,
     featuredImage,
+    video,
+    videoPoster,
+    videoTitle,
     body
 }) => (
 
@@ -75,6 +79,9 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+        video
+        videoPoster
+        videoTitle
       }
     }
   }

@@ -38,12 +38,14 @@ export default class AccordionEducation extends React.Component {
                 <ChevronDown />
               </h2>
               <div className={'description'}>
+              <p>
                 {item.mainprofile} <br />
                 {item.link && (
                   <div href={item.link} className="button">
                     {item.linkTitle}
                   </div>
                 )}
+                </p>
               </div>
             </div>
           ))}

@@ -25,25 +25,8 @@
 }*/
 
 .PostSection button {
-  background: rgb(103,64,146);
-  background: linear-gradient(90deg, rgba(103,64,146,1) 0%, rgba(63,49,137,1) 100%);
-  border: none;
-  color: white;
-  margin-top: 5rem;
-  padding: 8px 32px;
-  text-align: center;
-  font-weight: 700;
-  text-transform: uppercase;
-  display: inline-block;
-  font-size: 16px;
-  text-decoration: none;
+    margin-top: 100px;
 }
-
-.PostSection button:hover {
-    background: rgb(63,49,137);
-    background: linear-gradient(90deg, rgba(63,49,137,1) 0%, rgba(103,64,146,1) 100%);
-}
-
 
 .PostSection--Grid > * {
   width: calc(33.33% - 2rem);

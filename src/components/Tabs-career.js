@@ -12,17 +12,23 @@ export default () => (
     </TabList>
     <TabPanel>
             <div class="container taLeft links">
+            <p>
                 No open positions? We are always looking for talents, please submit a general application to <a href="mailto:contact@ntention.com">contact@ntention.com</a>
+            </p>
             </div>
     </TabPanel>
     <TabPanel>
             <div class="container taLeft links">
+            <p>
                 No open positions? We are always looking for talents, please submit a general application to <a href="mailto:contact@ntention.com">contact@ntention.com</a>
+            </p>
             </div>
     </TabPanel>
     <TabPanel>
             <div class="container taLeft links">
+            <p>
                 No open positions? We are always looking for talents, please submit a general application to <a href="mailto:contact@ntention.com">contact@ntention.com</a>
+            </p>
             </div>
     </TabPanel>
   </Tabs>
