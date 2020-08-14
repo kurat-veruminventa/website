@@ -5,7 +5,9 @@
 @font-face {
   font-family: "Ntention Font";
   font-style: normal;
-  src: url("/fonts/NtentionFont") format("ttf");
+  src: url("/fonts/NtentionFont.ttf") format("ttf"),
+  url("/fonts/NtentionFont.otf") format("opentype"),
+  url("/fonts/NtentionFont.svg") format("svg");
   font-display: swap;
 }
 

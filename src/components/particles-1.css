@@ -81,7 +81,7 @@ canvas{
 .particle-container-home {
     height: 600px;
     margin-top: -10px;
-    background-image: url('https://cdn.image4.io/vegard/f_auto/97265d6d-4cae-41f5-b429-d58aa19e4728.gif');
+    background-image: url('/images/Animated-logo-rightWEB.gif');
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -95,6 +95,6 @@ canvas{
 
 @media (max-width: 768px) {
     .particle-container-home {
-        background-image: url('https://cdn.image4.io/vegard/f_auto/2599c1fc-781f-4a35-9451-503231b55451.gif');
+        background-image: url('/images/Animated-logo-upWEB.gif');
     }
 }

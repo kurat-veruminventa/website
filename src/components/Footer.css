@@ -150,7 +150,7 @@
       width: 100%;
       font-size: 1rem;
       padding: 1rem 0 1rem;
-      background-color: black;
+      background-color: #1D1623;
       color: white;
   }
   .hide-mobile {
@@ -160,7 +160,7 @@
     margin: 0 -9999rem;
     /* add back negative margin value */
     padding: 5rem 9999rem 5rem;
-    background: rgba(0, 0, 0, 1);
+    background: #1D1623;
     color: white;
     height: 400px;
   }
