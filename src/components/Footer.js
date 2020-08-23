@@ -54,7 +54,7 @@ export default () => (
                         <a href="/technology/virtual-reality">Virtual Reality</a>
                       </li>
                       <li>
-                        <a href="/technology/real-estat3e">Real Estate</a>
+                        <a href="/technology/real-estate">Real Estate</a>
                       </li>
                       <li>
                         <a href="/technology/industrial-machines">Industrial Machines</a>
