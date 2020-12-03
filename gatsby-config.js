@@ -2,8 +2,8 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Ntention',
-    siteUrl: 'https://ntention.com'
+    title: 'Verum Inventa',
+    siteUrl: 'https://veruminventa.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -143,7 +143,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-mailchimp',
       options: {
-      	endpoint: 'https://ntention.us18.list-manage.com/subscribe/post?u=bb2ca66683457e2170bbb1453&amp;id=273289baab',
+      	endpoint: '',
       },
     },
     'gatsby-plugin-netlify' // make sure to keep it last in the array

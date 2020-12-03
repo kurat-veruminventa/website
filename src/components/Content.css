@@ -181,6 +181,10 @@ box-shadow: 10px 10px 50px -10px rgba(174,133,188,1);
     padding-top: 20px;
 }
 
+.space-20b {
+    padding-bottom: 20px;
+}
+
 .space-100b {
     padding-bottom: 100px;
 }

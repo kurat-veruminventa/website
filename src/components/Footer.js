@@ -95,8 +95,7 @@ export default () => (
         </div>
         <div class="footer-center">
           <span>
-            © Copyright {new Date().getFullYear()} Ntention. All rights reserved. Developed by{' '}
-            <a href="https://www.lowedesign.no/">Løwe Design</a>.
+            Verum Inventa Ltd. {new Date().getFullYear()} © Copyright
           </span>
         </div>
     </div>

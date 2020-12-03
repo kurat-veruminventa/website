@@ -41,7 +41,7 @@ html, body {
 }
 
 ::selection {
-  background: rgb(103, 64, 146, 0.6);
+  background: rgb(255, 255, 255, 0.2);
 }
 
 html {
@@ -57,7 +57,7 @@ body {
   min-height: 100%;
   position: relative;
   background: white;
-  color: #1D1623;
+  color: white;
   font-size: 1.8em;
   font-weight: 300;
   letter-spacing: 0.01em;
@@ -87,7 +87,7 @@ strong {
 p {
   margin-top: 0;
   margin-bottom: 1em;
-  color: #53575F;
+  color: white;
 }
 
 h1,

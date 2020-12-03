@@ -4,7 +4,7 @@
   font-size: 1.2rem;
   color: white;
   margin-top: -50px;
-
+  display: none;
 }
 
 .footer a {
@@ -74,13 +74,14 @@
   background: #1D1623;
   color: white;
   height: 300px;
+  display: none;
 }
 
 .footer-center {
     text-align: center;
     font-size: 1.5rem;
     padding: 1rem 0 1rem;
-    background-color: #1D1623;
+    background-color: #061F3A;
     color: white;
 }
 
@@ -150,7 +151,7 @@
       width: 100%;
       font-size: 1rem;
       padding: 1rem 0 1rem;
-      background-color: #1D1623;
+      background-color: #061F3A;
       color: white;
   }
   .hide-mobile {

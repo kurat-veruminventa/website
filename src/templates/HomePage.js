@@ -21,9 +21,6 @@ export const HomePageTemplate = ({
     title,
     subtitle,
     featuredImage,
-    video,
-    videoPoster,
-    videoTitle,
     body
 }) => (
 
@@ -36,18 +33,6 @@ export const HomePageTemplate = ({
       backgroundImage={featuredImage}
     />
 
-    <section className="section">
-      <div className="container">
-        <Content source={body} />
-      </div>
-    </section>
-    <CookieConsent location="bottom" containerClasses="" buttonText="Continue" cookieName="CookieConsent" style={{ background: "white", boxShadow: "-10px -10px 10px rgba(0, 0, 0, .1)", color:"black", className:"container"}} buttonStyle={{ color: "white", backgroundColor: "black", fontSize: "18px", flex: "left", marginRight: "150px"}} declineButtonStyle={{ backgroundColor: "grey"}} contentStyle={{flex: "1 0 50%" }} contentClasses="cookie links" buttonClasses="cookie-button" expires={150} >
-        <div className="container">
-        We use cookies to improve user experience and analyze website traffic. By continuing to the site, you consent to store all the technologies described in our <a href="/cookie-policy">Cookie Policy.</a>{" "}
-        </div>
-    </CookieConsent>
-
-    <PostCard />
   </main>
 )
 
@@ -79,9 +64,6 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
-        video
-        videoPoster
-        videoTitle
       }
     }
   }
