@@ -13,7 +13,6 @@ export const query = graphql`
         absoluteImageUrl
         type
       }
-      date(formatString: "MMMM Do, YYYY")
     }
   }
 `
