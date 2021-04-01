@@ -305,6 +305,14 @@ border-radius: 100%;
     .cookie-button {
         margin-left: 25px;
     }
+    .text-box {
+        max-width: 270px;
+        margin-left: 25%;
+        margin-top: -50px;
+    }
+    .text-box p {
+        font-size: 0.9em;
+    }
 }
 /* Buttons */
 /*

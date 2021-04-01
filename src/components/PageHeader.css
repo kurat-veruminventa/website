@@ -63,11 +63,15 @@
 }
 
 @media (max-width: 1025px) {
+    .PageHeader {
+        height: 1366px;
+    }
 }
 
 @media (max-width: 768px) {
   .PageHeader {
     padding: 1rem 0;
+    height: 800px;
   }
   .PageHeader-large {
     padding: 12.5rem 0;

@@ -412,12 +412,13 @@ const PageHeader = ({
 	<path class="logo_bar" d="M769.31,694.37h-12.45l-2.13-14.25h-15.14l-2.13,14.25h-11.33l12.56-78.52h18.06L769.31,694.37z
 		 M741.15,669.47h11.89l-5.83-39.71h-0.23L741.15,669.47z"/>
 </g>
-</svg>
+</svg>  <div class="text-box">
         <p>Verum Inventa is an industrial group based in London, UK and
         Delaware U.S.A. The group is integrated in the development of assets
         with interests in scientific, geological, educational and environmentally
         friendly solutions and applications designed for social enterprise and
         high growth projects.</p>
+        </div>
       </div>
     </div>
 )
