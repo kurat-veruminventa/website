@@ -413,11 +413,11 @@ const PageHeader = ({
 		 M741.15,669.47h11.89l-5.83-39.71h-0.23L741.15,669.47z"/>
 </g>
 </svg>  <div class="text-box">
-        <h4>Time to reset the world economy</h4>
-        <p>Verum Inventa is an industrial group of companies incorporated in
-        London, UK and Delaware U.S.A. The group is integrated in the development
-        of assets with scientific, geological, educational and environmentally
-        friendly applications designed to have social impact and high growth.</p>
+        <h2>Time to reset the world economy</h2>
+        <p>Verum Inventa is an industrial group incorporated in London, Delaware and Nairobi.
+        The group is integrated in the development of assets with interests in scientific,
+        geological, educational and sports projects that promote social enterprise and
+        environmentally friendly solutions and applications.</p>
         </div>
       </div>
     </div>
