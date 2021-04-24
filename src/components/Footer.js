@@ -95,7 +95,7 @@ export default () => (
         </div>
         <div class="footer-center">
           <span>
-            Verum Inventa Ltd. {new Date().getFullYear()} © Copyright
+            Verum Inventa USA LLC {new Date().getFullYear()} © Copyright
           </span>
         </div>
     </div>

@@ -426,9 +426,9 @@ const PageHeader = ({
     <a href="mailto:info@veruminventa.com">info@veruminventa.com</a>
 
         <h2>Time to reset the world economy</h2>
-        <p>Verum Inventa is an industrial group incorporated in London, Delaware and Nairobi.
-        The group is integrated in the development of assets with interests in scientific,
-        geological, educational and sports projects that promote social enterprise and
+        <p>Verum Inventa is an industrial group of private companies incorporated in London, Delaware
+        and Nairobi. The group is integrated in the development of assets with interests in scientific,
+        geological, educational and sports projects. The Group aims to promote social enterprise and 
         environmentally friendly solutions and applications.</p>
         </div>
       </div>
