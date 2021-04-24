@@ -413,6 +413,18 @@ const PageHeader = ({
 		 M741.15,669.47h11.89l-5.83-39.71h-0.23L741.15,669.47z"/>
 </g>
 </svg>  <div class="text-box">
+    <p>New website coming soon</p>
+
+    <p>192 Clapham High Street,
+        London, SW4 7UD
+        United Kingdom</p>
+
+    <p>831 N Tatnall Street
+        Suite M #198, Wilmington,
+        DE 19801 United States of America</p>
+
+    <a href="mailto:info@veruminventa.com">info@veruminventa.com</a>
+
         <h2>Time to reset the world economy</h2>
         <p>Verum Inventa is an industrial group incorporated in London, Delaware and Nairobi.
         The group is integrated in the development of assets with interests in scientific,

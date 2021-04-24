@@ -2,7 +2,7 @@
   background-color: #061F3A;
   color: white;
   padding: 1rem 0;
-  height: 800px;
+  height: 1000px;
 }
 
 .PageHeader-small {
@@ -71,7 +71,7 @@
 @media (max-width: 768px) {
   .PageHeader {
     padding: 1rem 0;
-    height: 800px;
+    height: 1100px;
   }
   .PageHeader-large {
     padding: 12.5rem 0;
