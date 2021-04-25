@@ -5,6 +5,7 @@ import Image from './Image'
 import Content from './Content'
 import './PageHeader.css'
 import './logo-animation.css'
+import 'animate.css';
 
 
 import App from './App.js'
@@ -413,6 +414,7 @@ const PageHeader = ({
 		 M741.15,669.47h11.89l-5.83-39.71h-0.23L741.15,669.47z"/>
 </g>
 </svg>  <div class="text-box">
+    <div class="animate__animated animate__fadeIn animate__delay-3s">
     <p>New website coming soon</p>
 
     <p>192 Clapham High Street,
@@ -424,11 +426,13 @@ const PageHeader = ({
         DE 19801 United States of America</p>
 
     <a href="mailto:info@veruminventa.com">info@veruminventa.com</a>
-
-        <h2>Time to reset the world economy</h2>
+    </div>
+    <div class="animate__animated animate__flash">
+        <h2 class="animate__animated animate__fadeOut animate__delay-3s">Time to reset the world economy</h2>
+        </div>
         <p>Verum Inventa is an industrial group of private companies incorporated in London, Delaware
         and Nairobi. The group is integrated in the development of assets with interests in scientific,
-        geological, educational and sports projects. The Group aims to promote social enterprise and 
+        geological, educational and sports projects. The Group aims to promote social enterprise and
         environmentally friendly solutions and applications.</p>
         </div>
       </div>
