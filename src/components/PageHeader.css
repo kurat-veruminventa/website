@@ -12,6 +12,14 @@
   height: 400px;
 }
 
+.up {
+    margin-top: -150px;
+}
+
+.down {
+    margin-top: 150px;
+}
+
 .PageHeader .BackgroundImage {
   opacity: 0.8;
 }

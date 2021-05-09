@@ -414,7 +414,7 @@ const PageHeader = ({
 		 M741.15,669.47h11.89l-5.83-39.71h-0.23L741.15,669.47z"/>
 </g>
 </svg>  <div class="text-box">
-    <div class="animate__animated animate__fadeIn animate__delay-3s">
+    <div class="animate__animated animate__fadeIn animate__delay-4s">
     <p>New website coming soon</p>
 
     <p>192 Clapham High Street,
@@ -428,9 +428,8 @@ const PageHeader = ({
     <a href="mailto:info@veruminventa.com">info@veruminventa.com</a>
     </div>
     <div class="animate__animated animate__fadeIn animate__slower">
-        <h2 class="animate__animated animate__fadeOut animate__delay-3s">Time to reset the world economy</h2>
-
-        <p>Verum Inventa is an industrial group of private companies incorporated in London, Delaware
+        <h2 class="animate__animated animate__fadeOut animate__delay-3s up">Time to reset the world economy</h2>
+        <p class="animate__animated animate__fadeIn animate__delay-4s down">Verum Inventa is an industrial group of private companies incorporated in London, Delaware
         and Nairobi. The group is integrated in the development of assets with interests in scientific,
         geological, educational and sports projects. The Group aims to promote social enterprise and
         environmentally friendly solutions and applications.</p>
