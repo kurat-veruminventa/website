@@ -24,7 +24,7 @@ export default class Meta extends Component {
       url,
       description,
       date,
-      absoluteImageUrl = '',
+      absoluteImageUrl = 'https://www.veruminventa.com/images/Logo-white-blueBG.png',
       twitterSiteAccount,
       twitterCreatorAccount,
       noindex,
