@@ -19,7 +19,6 @@ import CookieConsent, { Cookies } from "react-cookie-consent";
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({
     title,
-    subtitle,
     featuredImage,
     body
 }) => (
@@ -29,7 +28,6 @@ export const HomePageTemplate = ({
     <PageHeader
       large
       fronttitle={title}
-      subtitle={subtitle}
       backgroundImage={featuredImage}
     />
 
@@ -62,7 +60,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        subtitle
         featuredImage
       }
     }

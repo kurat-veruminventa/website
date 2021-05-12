@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Verum Inventa
-featuredImage: ''
+featuredImage: 'https://www.veruminventa.com/images/Logo-white-blueBG.png'
 subtitle: ''
 video: ''
 videoPoster: ''
